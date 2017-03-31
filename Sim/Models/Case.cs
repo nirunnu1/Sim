@@ -24,5 +24,11 @@ namespace Simulations.Models
             return model.OrderBy(a=>a.Time).ToList();
       
         }
+        public static int Getcout()
+        {
+            myDbContext Context = new myDbContext();
+
+            return Context.testCase.Count();
+        }
     }
 }

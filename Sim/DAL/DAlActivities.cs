@@ -47,6 +47,7 @@ namespace Simulations.Models
             int model = Context.testActivities.Where(A => A.status == testActivities.Getstatus.Commit && A.Case.number == id).Count();
             return model;
         }
+      
         public static int GetEnd(int casenumber, int num)
         {
             myDbContext Context = new myDbContext();

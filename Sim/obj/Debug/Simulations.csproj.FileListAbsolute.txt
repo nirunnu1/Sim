@@ -676,4 +676,3 @@ C:\proj\wwwroot\Sim\obj\Debug\Simulations.ReportControl.XtraReportChart2.resourc
 C:\proj\wwwroot\Sim\obj\Debug\Sim.SettingCaseAdd.resources
 C:\proj\wwwroot\Sim\obj\Debug\Simulations.csproj.GenerateResource.Cache
 C:\proj\wwwroot\Sim\obj\Debug\Sim.exe.licenses
-C:\GIT\Simulations\Sim\bin\Debug\Sim.exe.config

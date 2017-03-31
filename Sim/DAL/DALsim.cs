@@ -44,15 +44,14 @@ namespace Simulations.Models
                 profileUid = profile,
                 DateStart = null,
                 DateEnd = null,
-                status = testActivities.Getstatus.Wait
-                ,
+                status = testActivities.Getstatus.Wait,
                 num = num
             };
             Context.testActivities.Add(item);
             Context.SaveChanges();
             var item1 = Context.testCase.Find(item.CaseUid);
             if (num == 2 || num == 5) { DynamicCase.Dynamicase("FIFO", item1.number, num); }
-            else if (num == 3 || num == 6) { DynamicCase.Dynamicase("SJF", item1.number, num); }
+            else if (num == 3 || num == 6 && testCase.Getcout()>1) { DynamicCase.Dynamicase("SJF", item1.number, num); }
         }
 
         public static void ActivitiesAddFIFO(Guid id)
@@ -84,7 +83,7 @@ namespace Simulations.Models
            .GroupJoin(Activities, x => x.Uid, x => x.profileUid, (a, b) => new { a.Uid, b })
            .SelectMany(x => x.b.DefaultIfEmpty(),
            (a, b) => new { a.Uid, ActivitiesUid = (b == null ? Guid.Empty : b.Uid), ststus = (b == null ? string.Empty : b.status.ToString()) }).ToList();
-            var query1 = from q in query where q.ststus != testActivities.Getstatus.Wait.ToString() select new { q.Uid };
+            var query1 = from q in query where q.ststus != testActivities.Getstatus.Wait.ToString() && q.ststus != testActivities.Getstatus.Running.ToString() select new { q.Uid };
 
 
             if (query1.Count() >= 1)
@@ -96,7 +95,8 @@ namespace Simulations.Models
                 var mincase = newdata.Where(m => m.Num == min).ToList();
                 if (mincase.Count >= 2)
                 {
-                    int item = Convert.ToInt32(GetPRofilerandom(mincase.Count));
+                    
+                    int item = Convert.ToInt32(GetPRofilerandom(mincase.Count-1));
                     return mincase[item].Uid;
                 }
                 else
@@ -113,7 +113,7 @@ namespace Simulations.Models
                 var mincase = newdata.Where(m => m.Num == min).ToList();
                 if (mincase.Count >= 2)
                 {
-                    int item = Convert.ToInt32(GetPRofilerandom(mincase.Count));
+                    int item = Convert.ToInt32(GetPRofilerandom(mincase.Count-1));
                     return mincase[item].Uid;
                 }
                 else
