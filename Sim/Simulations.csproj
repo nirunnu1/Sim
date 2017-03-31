@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="14.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C698B9ED-1574-4E71-BE3D-E8B5A347C4B1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Sim</RootNamespace>
+    <AssemblyName>Sim</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Simulations.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v15.2.Core, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Dashboard.v15.2.Core, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v15.2.Core, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v15.2.Core, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Pdf.v15.2.Drawing, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.PivotGrid.v15.2.Core, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v15.2.Core, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v15.2.Core, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v15.2.Core, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v15.2.UI, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v15.2.UI, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v15.2.Wizard, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v15.2.Core, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v15.2.Extensions, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraRichEdit.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v15.2.Extensions, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Chartcontrol\BarViews.cs" />
+    <Compile Include="Chartcontrol\ChartPie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ColorLB\ColorLB.cs" />
+    <Compile Include="Config.cs" />
+    <Compile Include="Context.cs" />
+    <Compile Include="DAL\DALarrGuidcase.cs" />
+    <Compile Include="DAL\DALarrTimecase.cs" />
+    <Compile Include="DAL\DALMessageBox.cs" />
+    <Compile Include="DAL\DALProfile.cs" />
+    <Compile Include="DAL\DALSettingCase.cs" />
+    <Compile Include="DAL\DALStatus.cs" />
+    <Compile Include="DocumentRichEdit\DocumentRichEditSetting.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\DALChart.cs" />
+    <Compile Include="DAL\DALsim.cs" />
+    <Compile Include="DAL\DAlActivities.cs" />
+    <Compile Include="groupAndTapControl\groupBoxControl.cs" />
+    <Compile Include="Models\SettingCase.cs" />
+    <Compile Include="Models\testActivities.cs" />
+    <Compile Include="Models\Case.cs" />
+    <Compile Include="Models\Combobox.cs" />
+    <Compile Include="Models\profile.cs" />
+    <Compile Include="Models\Sim.cs" />
+    <Compile Include="DAL\DALTimer.cs" />
+    <Compile Include="PrintRibbonControllerResources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PrintRibbonControllerResources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="ProgressBarControl\progressBarSetting.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Regridview\regridview.cs" />
+    <Compile Include="ReportControl\BarViewsReport.cs" />
+    <Compile Include="ReportControl\test.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportControl\test.Designer.cs">
+      <DependentUpon>test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportControl\XtraReportChart1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportControl\XtraReportChart1.Designer.cs">
+      <DependentUpon>XtraReportChart1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportControl\XtraReportChart10.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportControl\XtraReportChart10.Designer.cs">
+      <DependentUpon>XtraReportChart10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportControl\XtraReportChart9.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportControl\XtraReportChart9.Designer.cs">
+      <DependentUpon>XtraReportChart9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportControl\XtraReportChart8.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportControl\XtraReportChart8.Designer.cs">
+      <DependentUpon>XtraReportChart8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportControl\XtraReportChart7.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportControl\XtraReportChart7.Designer.cs">
+      <DependentUpon>XtraReportChart7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportControl\XtraReportChart6.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportControl\XtraReportChart6.Designer.cs">
+      <DependentUpon>XtraReportChart6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportControl\XtraReportChart5.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportControl\XtraReportChart5.Designer.cs">
+      <DependentUpon>XtraReportChart5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportControl\XtraReportChart4.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportControl\XtraReportChart4.Designer.cs">
+      <DependentUpon>XtraReportChart4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportControl\XtraReportChart3.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportControl\XtraReportChart3.Designer.cs">
+      <DependentUpon>XtraReportChart3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportControl\XtraReportChart2.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportControl\XtraReportChart2.Designer.cs">
+      <DependentUpon>XtraReportChart2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RichEditControl\RichEditControl.cs" />
+    <Compile Include="SettingCaseAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SettingCaseAdd.Designer.cs">
+      <DependentUpon>SettingCaseAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SimStart\AIStart.cs" />
+    <Compile Include="SimStart\FOFF.cs" />
+    <Compile Include="SimStart\FonF.cs" />
+    <Compile Include="SimStart\FonJ.cs" />
+    <Compile Include="SimStart\JOFF.cs" />
+    <Compile Include="SimStart\JonF.cs" />
+    <Compile Include="SimStart\JonJ.cs" />
+    <Compile Include="SimStop\ResetTime.cs" />
+    <Compile Include="StartList.cs" />
+    <Compile Include="Stoptimer.cs" />
+    <Compile Include="ReportControl\XtraReport1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportControl\XtraReport1.Designer.cs">
+      <DependentUpon>XtraReport1.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintRibbonControllerResources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>PrintRibbonControllerResources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ReportControl\test.resx">
+      <DependentUpon>test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportControl\XtraReport1.resx">
+      <DependentUpon>XtraReport1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportControl\XtraReportChart1.resx">
+      <DependentUpon>XtraReportChart1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportControl\XtraReportChart10.resx">
+      <DependentUpon>XtraReportChart10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportControl\XtraReportChart9.resx">
+      <DependentUpon>XtraReportChart9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportControl\XtraReportChart8.resx">
+      <DependentUpon>XtraReportChart8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportControl\XtraReportChart7.resx">
+      <DependentUpon>XtraReportChart7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportControl\XtraReportChart6.resx">
+      <DependentUpon>XtraReportChart6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportControl\XtraReportChart5.resx">
+      <DependentUpon>XtraReportChart5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportControl\XtraReportChart4.resx">
+      <DependentUpon>XtraReportChart4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportControl\XtraReportChart3.resx">
+      <DependentUpon>XtraReportChart3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportControl\XtraReportChart2.resx">
+      <DependentUpon>XtraReportChart2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SettingCaseAdd.resx">
+      <DependentUpon>SettingCaseAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="DocumentFile\Document1.doc" />
+    <None Include="DocumentFile\Document2.doc" />
+    <None Include="DocumentFile\Document3.doc" />
+    <None Include="DocumentFile\Document4.doc" />
+    <None Include="DocumentFile\Document5.doc" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
