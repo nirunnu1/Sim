@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Simulations.ReportControl
+﻿namespace Simulations.ReportControl
 {
     public partial class XtraReportChart1 : DevExpress.XtraReports.UI.XtraReport
     {

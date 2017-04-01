@@ -7,12 +7,7 @@ namespace Simulations.Models
 {
     public class DALsim
     {
-        public static int randomcase()
-        {
-            Random random = new Random();
-            int randomNumber = random.Next(1, 4);
-            return randomNumber;
-        }
+        
         public static int cadd = 0;
         public static void caseadd(int id)
         {
@@ -147,56 +142,6 @@ namespace Simulations.Models
 
                 default:
                     return 0;
-            }
-        }
-        public static int minTimecase(int id)
-        {
-            myDbContext Context = new myDbContext();
-            testActivities[] Activities = Context.testActivities.Where(ta => (ta.status == testActivities.Getstatus.Wait || ta.status == testActivities.Getstatus.Running)).ToArray();
-            testProfile[] profile = Context.testProfile.ToArray();
-            var query = profile
-           .GroupJoin(Activities, x => x.Uid, x => x.profileUid, (a, b) => new { a.Uid, b })
-           .SelectMany(x => x.b.DefaultIfEmpty(),
-           (a, b) => new { a.Uid, ActivitiesUid = (b == null ? Guid.Empty : b.Uid), ststus = b.status }).ToList();
-            var query1 = query.Where(q => q.ststus != testActivities.Getstatus.Wait).Select(q => new { q.Uid });
-            if (query1.Count() >= 1)
-            {
-                var newdata = query1.GroupBy(u => u.Uid)
-                                                .Select(group => new { Uid = group.Key, Num = group.Count() })
-                                                 .ToList();
-                var min = newdata.Min(m => m.Num);
-                var mincase = newdata.Where(m => m.Num == min).ToList();
-                var A = from q in profile join m in mincase on q.Uid equals m.Uid select new { q.Uid, q.Case1, q.Case2, q.Case3 };
-                switch (id)
-                {
-                    case 1:
-                        var min1 = A.Min(m => m.Case1);
-                        var minid1 = A.Where(q => q.Case1 == min1).Select(q => q.Uid).ToList();
-                        return Convert.ToInt32(minid1[0]);
-
-                    case 2:
-                        var min2 = A.Min(m => m.Case2);
-                        var minid2 = A.Where(q => q.Case2 == min2).Select(q => q.Uid).ToList();
-                        return Convert.ToInt32(minid2[0]);
-
-                    case 3:
-                        var min3 = A.Min(m => m.Case3);
-                        var minid3 = A.Where(q => q.Case3 == min3).Select(q => q.Uid).ToList();
-                        return Convert.ToInt32(minid3[0]);
-
-                    default:
-                        return 0;
-                }
-
-            }
-            else
-            {
-                var newdata = query.GroupBy(u => u.Uid)
-                                                  .Select(group => new { Uid = group.Key, Num = group.Count() })
-                                                   .ToList();
-                var min = newdata.Min(m => m.Num);
-                var mincase = newdata.Where(m => m.Num == min).ToList();
-                return mincase[0].Uid;
             }
         }
         public static void tabledelete()

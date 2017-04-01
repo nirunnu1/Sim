@@ -34,157 +34,156 @@ namespace Simulations
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            DevExpress.XtraBars.Ribbon.GalleryItemGroup galleryItemGroup1 = new DevExpress.XtraBars.Ribbon.GalleryItemGroup();
-            DevExpress.Utils.SuperToolTip superToolTip1 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem1 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem1 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip2 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem2 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem2 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip3 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem3 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem3 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip4 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem4 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem4 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip5 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem5 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem5 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip6 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem6 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem6 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip7 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem7 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem7 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip8 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem8 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem8 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip9 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem9 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem9 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip10 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem10 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem10 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip11 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem11 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem11 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip12 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem12 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem12 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip13 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem13 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem13 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip14 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem14 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem14 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip15 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem15 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem15 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip16 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem16 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem16 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip17 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem17 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem17 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip18 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem18 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem18 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip19 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem19 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem19 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip20 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem20 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem20 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip21 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem21 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem21 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip22 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem22 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem22 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip23 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem23 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem23 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip24 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem24 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem24 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip25 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem25 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem25 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip26 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem26 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem26 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip27 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem27 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem27 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip28 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem28 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem28 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip29 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem29 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem29 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip30 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem30 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem30 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip31 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem31 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem31 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip32 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem32 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem32 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip33 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem33 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem33 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip34 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem34 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem34 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip35 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem35 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem35 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip36 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem36 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem36 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip37 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem37 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem37 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip38 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem38 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem38 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip39 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem39 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem39 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip40 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem40 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem40 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip41 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem41 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem41 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip42 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem42 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem42 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip43 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem43 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem43 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip44 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem44 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem44 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip45 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem45 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem45 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip46 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem46 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem46 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip47 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem47 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem47 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip48 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem48 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem48 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.XtraBars.Ribbon.GalleryItemGroup galleryItemGroup2 = new DevExpress.XtraBars.Ribbon.GalleryItemGroup();
-            DevExpress.XtraRichEdit.Model.BorderInfo borderInfo1 = new DevExpress.XtraRichEdit.Model.BorderInfo();
-            DevExpress.Utils.SuperToolTip superToolTip49 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem49 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem49 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.XtraBars.Ribbon.ReduceOperation reduceOperation1 = new DevExpress.XtraBars.Ribbon.ReduceOperation();
+            DevExpress.XtraBars.Ribbon.GalleryItemGroup galleryItemGroup7 = new DevExpress.XtraBars.Ribbon.GalleryItemGroup();
+            DevExpress.Utils.SuperToolTip superToolTip148 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem148 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem148 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip149 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem149 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem149 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip150 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem150 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem150 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip151 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem151 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem151 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip152 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem152 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem152 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip153 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem153 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem153 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip154 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem154 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem154 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip155 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem155 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem155 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip156 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem156 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem156 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip157 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem157 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem157 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip158 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem158 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem158 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip159 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem159 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem159 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip160 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem160 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem160 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip161 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem161 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem161 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip162 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem162 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem162 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip163 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem163 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem163 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip164 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem164 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem164 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip165 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem165 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem165 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip166 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem166 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem166 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip167 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem167 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem167 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip168 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem168 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem168 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip169 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem169 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem169 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip170 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem170 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem170 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip171 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem171 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem171 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip172 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem172 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem172 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip173 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem173 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem173 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip174 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem174 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem174 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip175 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem175 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem175 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip176 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem176 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem176 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip177 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem177 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem177 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip178 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem178 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem178 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip179 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem179 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem179 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip180 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem180 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem180 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip181 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem181 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem181 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip182 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem182 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem182 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip183 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem183 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem183 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip184 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem184 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem184 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip185 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem185 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem185 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip186 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem186 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem186 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip187 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem187 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem187 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip188 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem188 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem188 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip189 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem189 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem189 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip190 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem190 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem190 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip191 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem191 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem191 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip192 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem192 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem192 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip193 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem193 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem193 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip194 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem194 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem194 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip195 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem195 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem195 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.XtraBars.Ribbon.GalleryItemGroup galleryItemGroup8 = new DevExpress.XtraBars.Ribbon.GalleryItemGroup();
+            DevExpress.Utils.SuperToolTip superToolTip196 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem196 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem196 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.XtraBars.Ribbon.ReduceOperation reduceOperation4 = new DevExpress.XtraBars.Ribbon.ReduceOperation();
             this.stylesRibbonPageGroup1 = new DevExpress.XtraRichEdit.UI.StylesRibbonPageGroup();
             this.galleryChangeStyleItem1 = new DevExpress.XtraRichEdit.UI.GalleryChangeStyleItem();
             this.splitContainerControl = new DevExpress.XtraEditors.SplitContainerControl();
@@ -195,19 +194,19 @@ namespace Simulations
             this.Dv1 = new DevExpress.XtraNavBar.NavBarItem();
             this.navBarItem1 = new DevExpress.XtraNavBar.NavBarItem();
             this.ChaetBarView = new DevExpress.XtraNavBar.NavBarItem();
-            this.navBarGroup1 = new DevExpress.XtraNavBar.NavBarGroup();
+            this.calendarItem = new DevExpress.XtraNavBar.NavBarItem();
+            this.tasksItem = new DevExpress.XtraNavBar.NavBarItem();
             this.navBarItem3 = new DevExpress.XtraNavBar.NavBarItem();
             this.Tab_RichEdit1 = new DevExpress.XtraNavBar.NavBarItem();
             this.Tab_RichEdit2 = new DevExpress.XtraNavBar.NavBarItem();
             this.Tab_RichEdit3 = new DevExpress.XtraNavBar.NavBarItem();
             this.Tab_RichEdit4 = new DevExpress.XtraNavBar.NavBarItem();
             this.Tab_RichEdit5 = new DevExpress.XtraNavBar.NavBarItem();
-            this.calendarItem = new DevExpress.XtraNavBar.NavBarItem();
-            this.tasksItem = new DevExpress.XtraNavBar.NavBarItem();
             this.navbarImageCollectionLarge = new DevExpress.Utils.ImageCollection(this.components);
             this.navbarImageCollection = new DevExpress.Utils.ImageCollection(this.components);
-            this.panelRichEdit = new System.Windows.Forms.Panel();
-            this.richEditControl1 = new DevExpress.XtraRichEdit.RichEditControl();
+            this.groupBox_index = new System.Windows.Forms.GroupBox();
+            this.Lb_CountTime = new System.Windows.Forms.Label();
+            this.progressBar_case = new DevExpress.XtraEditors.ProgressBarControl();
             this.ribbonControl = new DevExpress.XtraBars.Ribbon.RibbonControl();
             this.appMenu = new DevExpress.XtraBars.Ribbon.ApplicationMenu(this.components);
             this.popupControlContainer2 = new DevExpress.XtraBars.PopupControlContainer(this.components);
@@ -493,9 +492,6 @@ namespace Simulations
             this.headerFooterRibbonPageGroup1 = new DevExpress.XtraRichEdit.UI.HeaderFooterRibbonPageGroup();
             this.textRibbonPageGroup1 = new DevExpress.XtraRichEdit.UI.TextRibbonPageGroup();
             this.symbolsRibbonPageGroup1 = new DevExpress.XtraRichEdit.UI.SymbolsRibbonPageGroup();
-            this.groupBox_index = new System.Windows.Forms.GroupBox();
-            this.Lb_CountTime = new System.Windows.Forms.Label();
-            this.progressBar_case = new DevExpress.XtraEditors.ProgressBarControl();
             this.groupBox14 = new System.Windows.Forms.GroupBox();
             this.lb_SonS = new System.Windows.Forms.Label();
             this.lb_SonS1 = new System.Windows.Forms.Label();
@@ -531,29 +527,8 @@ namespace Simulations
             this.grid_Aiti = new DevExpress.XtraGrid.GridControl();
             this.gridView2 = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.ReportChart = new DevExpress.XtraBars.Navigation.TabPane();
-            this.tabNavigationPage1 = new DevExpress.XtraBars.Navigation.TabNavigationPage();
-            this.documentViewer1 = new DevExpress.XtraPrinting.Preview.DocumentViewer();
             this.tabNavigationPage2 = new DevExpress.XtraBars.Navigation.TabNavigationPage();
             this.ReportChart1 = new DevExpress.XtraPrinting.Preview.DocumentViewer();
-            this.tabNavigationPage3 = new DevExpress.XtraBars.Navigation.TabNavigationPage();
-            this.ReportChart2 = new DevExpress.XtraPrinting.Preview.DocumentViewer();
-            this.tabNavigationPage4 = new DevExpress.XtraBars.Navigation.TabNavigationPage();
-            this.ReportChart3 = new DevExpress.XtraPrinting.Preview.DocumentViewer();
-            this.tabNavigationPage5 = new DevExpress.XtraBars.Navigation.TabNavigationPage();
-            this.ReportChart4 = new DevExpress.XtraPrinting.Preview.DocumentViewer();
-            this.tabNavigationPage6 = new DevExpress.XtraBars.Navigation.TabNavigationPage();
-            this.ReportChart5 = new DevExpress.XtraPrinting.Preview.DocumentViewer();
-            this.tabNavigationPage7 = new DevExpress.XtraBars.Navigation.TabNavigationPage();
-            this.ReportChart6 = new DevExpress.XtraPrinting.Preview.DocumentViewer();
-            this.tabNavigationPage8 = new DevExpress.XtraBars.Navigation.TabNavigationPage();
-            this.ReportChart7 = new DevExpress.XtraPrinting.Preview.DocumentViewer();
-            this.tabNavigationPage9 = new DevExpress.XtraBars.Navigation.TabNavigationPage();
-            this.ReportChart8 = new DevExpress.XtraPrinting.Preview.DocumentViewer();
-            this.tabNavigationPage10 = new DevExpress.XtraBars.Navigation.TabNavigationPage();
-            this.ReportChart9 = new DevExpress.XtraPrinting.Preview.DocumentViewer();
-            this.tabNavigationPage11 = new DevExpress.XtraBars.Navigation.TabNavigationPage();
-            this.ReportChart10 = new DevExpress.XtraPrinting.Preview.DocumentViewer();
-            this.tabNavigationPage12 = new DevExpress.XtraBars.Navigation.TabNavigationPage();
             this.Barview10 = new DevExpress.XtraTab.XtraTabControl();
             this.xtraTabPage31 = new DevExpress.XtraTab.XtraTabPage();
             this.Barview_1 = new DevExpress.XtraCharts.ChartControl();
@@ -589,69 +564,6 @@ namespace Simulations
             this.Chart_Foff1_2 = new DevExpress.XtraCharts.ChartControl();
             this.Chart_Foff1_time = new DevExpress.XtraCharts.ChartControl();
             this.Chart_Foff1 = new DevExpress.XtraCharts.ChartControl();
-            this.Foff_2 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox8 = new System.Windows.Forms.GroupBox();
-            this.Chart_Foff2_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff2_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff2_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff2_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff2 = new DevExpress.XtraCharts.ChartControl();
-            this.Foff_3 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox15 = new System.Windows.Forms.GroupBox();
-            this.Chart_Foff3_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff3_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff3_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff3_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff3 = new DevExpress.XtraCharts.ChartControl();
-            this.Foff_4 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox17 = new System.Windows.Forms.GroupBox();
-            this.Chart_Foff4_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff4_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff4_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff4_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff4 = new DevExpress.XtraCharts.ChartControl();
-            this.Foff_5 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox19 = new System.Windows.Forms.GroupBox();
-            this.Chart_Foff5_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff5_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff5_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff5_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff5 = new DevExpress.XtraCharts.ChartControl();
-            this.Foff_6 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox21 = new System.Windows.Forms.GroupBox();
-            this.Chart_Foff6_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff6_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff6_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff6_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff6 = new DevExpress.XtraCharts.ChartControl();
-            this.Foff_7 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox23 = new System.Windows.Forms.GroupBox();
-            this.Chart_Foff7_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff7_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff7_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff7_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff7 = new DevExpress.XtraCharts.ChartControl();
-            this.Foff_8 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox25 = new System.Windows.Forms.GroupBox();
-            this.Chart_Foff8_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff8_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff8_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff8_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff8 = new DevExpress.XtraCharts.ChartControl();
-            this.Foff_9 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox27 = new System.Windows.Forms.GroupBox();
-            this.Chart_Foff9_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff9_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff9_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff9_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff9 = new DevExpress.XtraCharts.ChartControl();
-            this.Foff_10 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox29 = new System.Windows.Forms.GroupBox();
-            this.Chart_Foff10_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff10_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff10_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff10_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_Foff10 = new DevExpress.XtraCharts.ChartControl();
             this.tab_Fonf = new DevExpress.XtraTab.XtraTabPage();
             this.Tab_FonF_test = new DevExpress.XtraTab.XtraTabControl();
             this.xtraTabPage1 = new DevExpress.XtraTab.XtraTabPage();
@@ -661,69 +573,6 @@ namespace Simulations
             this.Chart_FonF1_2 = new DevExpress.XtraCharts.ChartControl();
             this.Chart_FonF1_time = new DevExpress.XtraCharts.ChartControl();
             this.Chart_FonF1 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage2 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox33 = new System.Windows.Forms.GroupBox();
-            this.Chart_FonF2_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF2_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF2_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF2_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF2 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage3 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox35 = new System.Windows.Forms.GroupBox();
-            this.Chart_FonF3_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF3_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF3_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF3_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF3 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage4 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox37 = new System.Windows.Forms.GroupBox();
-            this.Chart_FonF4_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF4_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF4_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF4_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF4 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage5 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox39 = new System.Windows.Forms.GroupBox();
-            this.Chart_FonF5_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF5_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF5_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF5_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF5 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage6 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox41 = new System.Windows.Forms.GroupBox();
-            this.Chart_FonF6_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF6_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF6_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF6_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF6 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage7 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox43 = new System.Windows.Forms.GroupBox();
-            this.Chart_FonF7_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF7_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF7_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF7_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF7 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage8 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox45 = new System.Windows.Forms.GroupBox();
-            this.Chart_FonF8_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF8_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF8_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF8_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF8 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage9 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox47 = new System.Windows.Forms.GroupBox();
-            this.Chart_FonF9_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF9_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF9_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF9_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF9 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage10 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox49 = new System.Windows.Forms.GroupBox();
-            this.Chart_FonF10_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF10_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF10_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF10_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonF10 = new DevExpress.XtraCharts.ChartControl();
             this.tab_Fonj = new DevExpress.XtraTab.XtraTabPage();
             this.Tab_FonS_test = new DevExpress.XtraTab.XtraTabControl();
             this.xtraTabPage11 = new DevExpress.XtraTab.XtraTabPage();
@@ -733,69 +582,6 @@ namespace Simulations
             this.Chart_FonS1_2 = new DevExpress.XtraCharts.ChartControl();
             this.Chart_FonS1_time = new DevExpress.XtraCharts.ChartControl();
             this.Chart_FonS1 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage12 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox53 = new System.Windows.Forms.GroupBox();
-            this.Chart_FonS2_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS2_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS2_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS2_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS2 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage13 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox55 = new System.Windows.Forms.GroupBox();
-            this.Chart_FonS3_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS3_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS3_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS3_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS3 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage14 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox57 = new System.Windows.Forms.GroupBox();
-            this.Chart_FonS4_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS4_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS4_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS4_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS4 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage15 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox59 = new System.Windows.Forms.GroupBox();
-            this.Chart_FonS5_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS5_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS5_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS5_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS5 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage16 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox61 = new System.Windows.Forms.GroupBox();
-            this.Chart_FonS6_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS6_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS6_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS6_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS6 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage17 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox63 = new System.Windows.Forms.GroupBox();
-            this.Chart_FonS7_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS7_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS7_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS7_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS7_ = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage18 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox65 = new System.Windows.Forms.GroupBox();
-            this.Chart_FonS8_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS8_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS8_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS8_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS8 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage19 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox67 = new System.Windows.Forms.GroupBox();
-            this.Chart_FonS9_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS9_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS9_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS9_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS9 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage20 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox69 = new System.Windows.Forms.GroupBox();
-            this.Chart_FonS10_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS10_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS10_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS10_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_FonS10 = new DevExpress.XtraCharts.ChartControl();
             this.tab_Joff = new DevExpress.XtraTab.XtraTabPage();
             this.xtraTabControl1 = new DevExpress.XtraTab.XtraTabControl();
             this.xtraTabPage21 = new DevExpress.XtraTab.XtraTabPage();
@@ -805,69 +591,6 @@ namespace Simulations
             this.Chart_SoFF1_2 = new DevExpress.XtraCharts.ChartControl();
             this.Chart_SoFF1_time = new DevExpress.XtraCharts.ChartControl();
             this.Chart_SoFF1 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage22 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox73 = new System.Windows.Forms.GroupBox();
-            this.Chart_SoFF2_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF2_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF2_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF2_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF2 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage23 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox75 = new System.Windows.Forms.GroupBox();
-            this.Chart_SoFF3_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF3_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF3_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF3_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF3 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage24 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox77 = new System.Windows.Forms.GroupBox();
-            this.Chart_SoFF4_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF4_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF4_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF4_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF4 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage25 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox79 = new System.Windows.Forms.GroupBox();
-            this.Chart_SoFF5_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF5_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF5_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF5_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF5 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage26 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox81 = new System.Windows.Forms.GroupBox();
-            this.Chart_SoFF6_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF6_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF6_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF6_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF6 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage27 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox83 = new System.Windows.Forms.GroupBox();
-            this.Chart_SoFF7_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF7_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF7_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF7_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF7 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage28 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox85 = new System.Windows.Forms.GroupBox();
-            this.Chart_SoFF8_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF8_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF8_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF8_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF8 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage29 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox87 = new System.Windows.Forms.GroupBox();
-            this.Chart_SoFF9_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF9_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF9_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF9_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF9 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage30 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox89 = new System.Windows.Forms.GroupBox();
-            this.Chart_SoFF10_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF10_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF10_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF10_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SoFF10 = new DevExpress.XtraCharts.ChartControl();
             this.tab_Jonf = new DevExpress.XtraTab.XtraTabPage();
             this.Chart_SonF = new DevExpress.XtraTab.XtraTabControl();
             this.xtraTabPage33 = new DevExpress.XtraTab.XtraTabPage();
@@ -877,69 +600,6 @@ namespace Simulations
             this.Chart_SonF1_2 = new DevExpress.XtraCharts.ChartControl();
             this.Chart_SonF1_time = new DevExpress.XtraCharts.ChartControl();
             this.Chart_SonF1 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage34 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox93 = new System.Windows.Forms.GroupBox();
-            this.Chart_SonF2_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF2_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF2_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF2_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF2 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage35 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox95 = new System.Windows.Forms.GroupBox();
-            this.Chart_SonF3_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF3_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF3_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF3_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF3 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage36 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox97 = new System.Windows.Forms.GroupBox();
-            this.Chart_SonF4_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF4_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF4_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF4_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF4 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage37 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox99 = new System.Windows.Forms.GroupBox();
-            this.Chart_SonF5_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF5_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF5_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF5_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF5 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage38 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox101 = new System.Windows.Forms.GroupBox();
-            this.Chart_SonF6_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF6_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF6_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF6_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF6 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage39 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox103 = new System.Windows.Forms.GroupBox();
-            this.Chart_SonF7_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF7_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF7_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF7_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF7 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage40 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox105 = new System.Windows.Forms.GroupBox();
-            this.Chart_SonF8_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF8_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF8_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF8_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF8 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage41 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox107 = new System.Windows.Forms.GroupBox();
-            this.Chart_SonF9_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF9_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF9_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF9_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF9 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage42 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox109 = new System.Windows.Forms.GroupBox();
-            this.Chart_SonF10_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF10_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF10_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF10_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonF10 = new DevExpress.XtraCharts.ChartControl();
             this.tab_Jonj = new DevExpress.XtraTab.XtraTabPage();
             this.xtraTabControl2 = new DevExpress.XtraTab.XtraTabControl();
             this.xtraTabPage43 = new DevExpress.XtraTab.XtraTabPage();
@@ -949,69 +609,6 @@ namespace Simulations
             this.Chart_SonS1_2 = new DevExpress.XtraCharts.ChartControl();
             this.Chart_SonS1_time = new DevExpress.XtraCharts.ChartControl();
             this.Chart_SonS1 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage44 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox112 = new System.Windows.Forms.GroupBox();
-            this.Chart_SonS2_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS2_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS2_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS2_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS2 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage45 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox114 = new System.Windows.Forms.GroupBox();
-            this.Chart_SonS3_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS3_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS3_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS3_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS3 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage46 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox116 = new System.Windows.Forms.GroupBox();
-            this.Chart_SonS4_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS4_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS4_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS4_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS4 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage47 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox118 = new System.Windows.Forms.GroupBox();
-            this.Chart_SonS5_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS5_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS5_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS5_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS5 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage48 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox120 = new System.Windows.Forms.GroupBox();
-            this.Chart_SonS6_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS6_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS6_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS6_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS6 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage49 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox122 = new System.Windows.Forms.GroupBox();
-            this.Chart_SonS7_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS7_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS7_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS7_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS7 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage50 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox124 = new System.Windows.Forms.GroupBox();
-            this.Chart_SonS8_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS8_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS8_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS8_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS8 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage51 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox126 = new System.Windows.Forms.GroupBox();
-            this.Chart_SonS9_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS9_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS9_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS9_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS9 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage52 = new DevExpress.XtraTab.XtraTabPage();
-            this.groupBox128 = new System.Windows.Forms.GroupBox();
-            this.Chart_SonS10_3 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS10_1 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS10_2 = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS10_time = new DevExpress.XtraCharts.ChartControl();
-            this.Chart_SonS10 = new DevExpress.XtraCharts.ChartControl();
             this.Set_index = new System.Windows.Forms.GroupBox();
             this.spinEdit_casetime = new DevExpress.XtraEditors.SpinEdit();
             this.groupBox7 = new System.Windows.Forms.GroupBox();
@@ -1094,7 +691,8 @@ namespace Simulations
             ((System.ComponentModel.ISupportInitialize)(this.Nav_set)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.navbarImageCollectionLarge)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.navbarImageCollection)).BeginInit();
-            this.panelRichEdit.SuspendLayout();
+            this.groupBox_index.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.progressBar_case.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ribbonControl)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.appMenu)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.popupControlContainer2)).BeginInit();
@@ -1111,8 +709,6 @@ namespace Simulations
             ((System.ComponentModel.ISupportInitialize)(this.repositoryItemBorderLineStyle1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.repositoryItemBorderLineWeight1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ribbonImageCollectionLarge)).BeginInit();
-            this.groupBox_index.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.progressBar_case.Properties)).BeginInit();
             this.groupBox14.SuspendLayout();
             this.Gb_SonF1.SuspendLayout();
             this.groupBox13.SuspendLayout();
@@ -1126,17 +722,7 @@ namespace Simulations
             ((System.ComponentModel.ISupportInitialize)(this.gridView2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ReportChart)).BeginInit();
             this.ReportChart.SuspendLayout();
-            this.tabNavigationPage1.SuspendLayout();
             this.tabNavigationPage2.SuspendLayout();
-            this.tabNavigationPage3.SuspendLayout();
-            this.tabNavigationPage4.SuspendLayout();
-            this.tabNavigationPage5.SuspendLayout();
-            this.tabNavigationPage6.SuspendLayout();
-            this.tabNavigationPage7.SuspendLayout();
-            this.tabNavigationPage8.SuspendLayout();
-            this.tabNavigationPage9.SuspendLayout();
-            this.tabNavigationPage10.SuspendLayout();
-            this.tabNavigationPage11.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Barview10)).BeginInit();
             this.Barview10.SuspendLayout();
             this.xtraTabPage31.SuspendLayout();
@@ -1175,69 +761,6 @@ namespace Simulations
             ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff1_2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff1_time)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff1)).BeginInit();
-            this.Foff_2.SuspendLayout();
-            this.groupBox8.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff2_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff2_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff2_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff2_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff2)).BeginInit();
-            this.Foff_3.SuspendLayout();
-            this.groupBox15.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff3_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff3_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff3_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff3_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff3)).BeginInit();
-            this.Foff_4.SuspendLayout();
-            this.groupBox17.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff4_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff4_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff4_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff4_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff4)).BeginInit();
-            this.Foff_5.SuspendLayout();
-            this.groupBox19.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff5_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff5_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff5_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff5_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff5)).BeginInit();
-            this.Foff_6.SuspendLayout();
-            this.groupBox21.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff6_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff6_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff6_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff6_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff6)).BeginInit();
-            this.Foff_7.SuspendLayout();
-            this.groupBox23.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff7_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff7_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff7_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff7_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff7)).BeginInit();
-            this.Foff_8.SuspendLayout();
-            this.groupBox25.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff8_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff8_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff8_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff8_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff8)).BeginInit();
-            this.Foff_9.SuspendLayout();
-            this.groupBox27.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff9_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff9_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff9_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff9_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff9)).BeginInit();
-            this.Foff_10.SuspendLayout();
-            this.groupBox29.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff10_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff10_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff10_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff10_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff10)).BeginInit();
             this.tab_Fonf.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Tab_FonF_test)).BeginInit();
             this.Tab_FonF_test.SuspendLayout();
@@ -1248,69 +771,6 @@ namespace Simulations
             ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF1_2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF1_time)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF1)).BeginInit();
-            this.xtraTabPage2.SuspendLayout();
-            this.groupBox33.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF2_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF2_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF2_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF2_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF2)).BeginInit();
-            this.xtraTabPage3.SuspendLayout();
-            this.groupBox35.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF3_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF3_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF3_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF3_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF3)).BeginInit();
-            this.xtraTabPage4.SuspendLayout();
-            this.groupBox37.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF4_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF4_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF4_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF4_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF4)).BeginInit();
-            this.xtraTabPage5.SuspendLayout();
-            this.groupBox39.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF5_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF5_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF5_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF5_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF5)).BeginInit();
-            this.xtraTabPage6.SuspendLayout();
-            this.groupBox41.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF6_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF6_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF6_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF6_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF6)).BeginInit();
-            this.xtraTabPage7.SuspendLayout();
-            this.groupBox43.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF7_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF7_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF7_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF7_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF7)).BeginInit();
-            this.xtraTabPage8.SuspendLayout();
-            this.groupBox45.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF8_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF8_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF8_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF8_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF8)).BeginInit();
-            this.xtraTabPage9.SuspendLayout();
-            this.groupBox47.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF9_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF9_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF9_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF9_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF9)).BeginInit();
-            this.xtraTabPage10.SuspendLayout();
-            this.groupBox49.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF10_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF10_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF10_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF10_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF10)).BeginInit();
             this.tab_Fonj.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Tab_FonS_test)).BeginInit();
             this.Tab_FonS_test.SuspendLayout();
@@ -1321,69 +781,6 @@ namespace Simulations
             ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS1_2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS1_time)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS1)).BeginInit();
-            this.xtraTabPage12.SuspendLayout();
-            this.groupBox53.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS2_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS2_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS2_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS2_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS2)).BeginInit();
-            this.xtraTabPage13.SuspendLayout();
-            this.groupBox55.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS3_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS3_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS3_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS3_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS3)).BeginInit();
-            this.xtraTabPage14.SuspendLayout();
-            this.groupBox57.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS4_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS4_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS4_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS4_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS4)).BeginInit();
-            this.xtraTabPage15.SuspendLayout();
-            this.groupBox59.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS5_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS5_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS5_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS5_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS5)).BeginInit();
-            this.xtraTabPage16.SuspendLayout();
-            this.groupBox61.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS6_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS6_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS6_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS6_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS6)).BeginInit();
-            this.xtraTabPage17.SuspendLayout();
-            this.groupBox63.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS7_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS7_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS7_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS7_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS7_)).BeginInit();
-            this.xtraTabPage18.SuspendLayout();
-            this.groupBox65.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS8_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS8_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS8_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS8_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS8)).BeginInit();
-            this.xtraTabPage19.SuspendLayout();
-            this.groupBox67.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS9_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS9_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS9_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS9_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS9)).BeginInit();
-            this.xtraTabPage20.SuspendLayout();
-            this.groupBox69.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS10_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS10_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS10_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS10_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS10)).BeginInit();
             this.tab_Joff.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.xtraTabControl1)).BeginInit();
             this.xtraTabControl1.SuspendLayout();
@@ -1394,69 +791,6 @@ namespace Simulations
             ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF1_2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF1_time)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF1)).BeginInit();
-            this.xtraTabPage22.SuspendLayout();
-            this.groupBox73.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF2_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF2_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF2_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF2_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF2)).BeginInit();
-            this.xtraTabPage23.SuspendLayout();
-            this.groupBox75.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF3_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF3_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF3_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF3_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF3)).BeginInit();
-            this.xtraTabPage24.SuspendLayout();
-            this.groupBox77.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF4_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF4_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF4_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF4_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF4)).BeginInit();
-            this.xtraTabPage25.SuspendLayout();
-            this.groupBox79.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF5_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF5_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF5_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF5_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF5)).BeginInit();
-            this.xtraTabPage26.SuspendLayout();
-            this.groupBox81.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF6_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF6_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF6_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF6_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF6)).BeginInit();
-            this.xtraTabPage27.SuspendLayout();
-            this.groupBox83.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF7_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF7_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF7_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF7_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF7)).BeginInit();
-            this.xtraTabPage28.SuspendLayout();
-            this.groupBox85.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF8_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF8_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF8_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF8_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF8)).BeginInit();
-            this.xtraTabPage29.SuspendLayout();
-            this.groupBox87.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF9_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF9_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF9_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF9_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF9)).BeginInit();
-            this.xtraTabPage30.SuspendLayout();
-            this.groupBox89.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF10_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF10_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF10_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF10_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF10)).BeginInit();
             this.tab_Jonf.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF)).BeginInit();
             this.Chart_SonF.SuspendLayout();
@@ -1467,69 +801,6 @@ namespace Simulations
             ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF1_2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF1_time)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF1)).BeginInit();
-            this.xtraTabPage34.SuspendLayout();
-            this.groupBox93.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF2_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF2_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF2_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF2_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF2)).BeginInit();
-            this.xtraTabPage35.SuspendLayout();
-            this.groupBox95.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF3_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF3_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF3_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF3_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF3)).BeginInit();
-            this.xtraTabPage36.SuspendLayout();
-            this.groupBox97.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF4_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF4_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF4_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF4_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF4)).BeginInit();
-            this.xtraTabPage37.SuspendLayout();
-            this.groupBox99.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF5_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF5_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF5_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF5_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF5)).BeginInit();
-            this.xtraTabPage38.SuspendLayout();
-            this.groupBox101.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF6_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF6_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF6_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF6_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF6)).BeginInit();
-            this.xtraTabPage39.SuspendLayout();
-            this.groupBox103.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF7_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF7_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF7_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF7_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF7)).BeginInit();
-            this.xtraTabPage40.SuspendLayout();
-            this.groupBox105.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF8_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF8_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF8_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF8_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF8)).BeginInit();
-            this.xtraTabPage41.SuspendLayout();
-            this.groupBox107.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF9_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF9_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF9_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF9_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF9)).BeginInit();
-            this.xtraTabPage42.SuspendLayout();
-            this.groupBox109.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF10_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF10_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF10_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF10_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF10)).BeginInit();
             this.tab_Jonj.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.xtraTabControl2)).BeginInit();
             this.xtraTabControl2.SuspendLayout();
@@ -1540,69 +811,6 @@ namespace Simulations
             ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS1_2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS1_time)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS1)).BeginInit();
-            this.xtraTabPage44.SuspendLayout();
-            this.groupBox112.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS2_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS2_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS2_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS2_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS2)).BeginInit();
-            this.xtraTabPage45.SuspendLayout();
-            this.groupBox114.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS3_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS3_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS3_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS3_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS3)).BeginInit();
-            this.xtraTabPage46.SuspendLayout();
-            this.groupBox116.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS4_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS4_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS4_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS4_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS4)).BeginInit();
-            this.xtraTabPage47.SuspendLayout();
-            this.groupBox118.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS5_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS5_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS5_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS5_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS5)).BeginInit();
-            this.xtraTabPage48.SuspendLayout();
-            this.groupBox120.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS6_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS6_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS6_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS6_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS6)).BeginInit();
-            this.xtraTabPage49.SuspendLayout();
-            this.groupBox122.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS7_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS7_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS7_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS7_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS7)).BeginInit();
-            this.xtraTabPage50.SuspendLayout();
-            this.groupBox124.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS8_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS8_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS8_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS8_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS8)).BeginInit();
-            this.xtraTabPage51.SuspendLayout();
-            this.groupBox126.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS9_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS9_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS9_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS9_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS9)).BeginInit();
-            this.xtraTabPage52.SuspendLayout();
-            this.groupBox128.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS10_3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS10_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS10_2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS10_time)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS10)).BeginInit();
             this.Set_index.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.spinEdit_casetime.Properties)).BeginInit();
             this.groupBox7.SuspendLayout();
@@ -1642,12 +850,14 @@ namespace Simulations
             // 
             // galleryChangeStyleItem1
             // 
+            this.galleryChangeStyleItem1.Caption = "Quick Styles";
+            this.galleryChangeStyleItem1.Enabled = false;
             // 
             // 
             // 
             this.galleryChangeStyleItem1.Gallery.ColumnCount = 10;
             this.galleryChangeStyleItem1.Gallery.Groups.AddRange(new DevExpress.XtraBars.Ribbon.GalleryItemGroup[] {
-            galleryItemGroup1});
+            galleryItemGroup7});
             this.galleryChangeStyleItem1.Gallery.ImageSize = new System.Drawing.Size(65, 46);
             this.galleryChangeStyleItem1.Id = 407;
             this.galleryChangeStyleItem1.Name = "galleryChangeStyleItem1";
@@ -1661,7 +871,6 @@ namespace Simulations
             this.splitContainerControl.Panel1.Controls.Add(this.Nav_set);
             this.splitContainerControl.Panel1.Text = "Panel1";
             this.splitContainerControl.Panel2.AutoScroll = true;
-            this.splitContainerControl.Panel2.Controls.Add(this.panelRichEdit);
             this.splitContainerControl.Panel2.Controls.Add(this.groupBox_index);
             this.splitContainerControl.Panel2.Controls.Add(this.ReportChart);
             this.splitContainerControl.Panel2.Controls.Add(this.Barview10);
@@ -1678,8 +887,7 @@ namespace Simulations
             this.Nav_set.ActiveGroup = this.Home;
             this.Nav_set.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Nav_set.Groups.AddRange(new DevExpress.XtraNavBar.NavBarGroup[] {
-            this.Home,
-            this.navBarGroup1});
+            this.Home});
             this.Nav_set.Items.AddRange(new DevExpress.XtraNavBar.NavBarItem[] {
             this.Nav_home,
             this.outboxItem,
@@ -1753,56 +961,6 @@ namespace Simulations
             this.ChaetBarView.SmallImage = ((System.Drawing.Image)(resources.GetObject("ChaetBarView.SmallImage")));
             this.ChaetBarView.LinkClicked += new DevExpress.XtraNavBar.NavBarLinkEventHandler(this.ChaetBarView_LinkClicked);
             // 
-            // navBarGroup1
-            // 
-            this.navBarGroup1.Caption = "Document ";
-            this.navBarGroup1.Expanded = true;
-            this.navBarGroup1.ItemLinks.AddRange(new DevExpress.XtraNavBar.NavBarItemLink[] {
-            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem3),
-            new DevExpress.XtraNavBar.NavBarItemLink(this.Tab_RichEdit1),
-            new DevExpress.XtraNavBar.NavBarItemLink(this.Tab_RichEdit2),
-            new DevExpress.XtraNavBar.NavBarItemLink(this.Tab_RichEdit3),
-            new DevExpress.XtraNavBar.NavBarItemLink(this.Tab_RichEdit4),
-            new DevExpress.XtraNavBar.NavBarItemLink(this.Tab_RichEdit5)});
-            this.navBarGroup1.Name = "navBarGroup1";
-            // 
-            // navBarItem3
-            // 
-            this.navBarItem3.Caption = "RichEdit";
-            this.navBarItem3.Name = "navBarItem3";
-            this.navBarItem3.SmallImage = ((System.Drawing.Image)(resources.GetObject("navBarItem3.SmallImage")));
-            this.navBarItem3.LinkClicked += new DevExpress.XtraNavBar.NavBarLinkEventHandler(richEditControl.Tab_RichEdit_LinkClicked);
-            // 
-            // Tab_RichEdit1
-            // 
-            this.Tab_RichEdit1.Caption = "บทที่ 1";
-            this.Tab_RichEdit1.Name = "Tab_RichEdit1";
-            this.Tab_RichEdit1.LinkClicked += new DevExpress.XtraNavBar.NavBarLinkEventHandler(richEditControl.Tab_RichEdit1_LinkClicked);
-            // 
-            // Tab_RichEdit2
-            // 
-            this.Tab_RichEdit2.Caption = "บทที่ 2";
-            this.Tab_RichEdit2.Name = "Tab_RichEdit2";
-            this.Tab_RichEdit2.LinkClicked += new DevExpress.XtraNavBar.NavBarLinkEventHandler(richEditControl.Tab_RichEdit2_LinkClicked);
-            // 
-            // Tab_RichEdit3
-            // 
-            this.Tab_RichEdit3.Caption = "บทที่ 3";
-            this.Tab_RichEdit3.Name = "Tab_RichEdit3";
-            this.Tab_RichEdit3.LinkClicked += new DevExpress.XtraNavBar.NavBarLinkEventHandler(richEditControl.Tab_RichEdit3_LinkClicked);
-            // 
-            // Tab_RichEdit4
-            // 
-            this.Tab_RichEdit4.Caption = "บทที่ 4";
-            this.Tab_RichEdit4.Name = "Tab_RichEdit4";
-            this.Tab_RichEdit4.LinkClicked += new DevExpress.XtraNavBar.NavBarLinkEventHandler(richEditControl.Tab_RichEdit4_LinkClicked);
-            // 
-            // Tab_RichEdit5
-            // 
-            this.Tab_RichEdit5.Caption = "บทที่ 5";
-            this.Tab_RichEdit5.Name = "Tab_RichEdit5";
-            this.Tab_RichEdit5.LinkClicked += new DevExpress.XtraNavBar.NavBarLinkEventHandler(richEditControl.Tab_RichEdit5_LinkClicked);
-            // 
             // calendarItem
             // 
             this.calendarItem.Caption = "Calendar";
@@ -1814,6 +972,37 @@ namespace Simulations
             this.tasksItem.Caption = "Tasks";
             this.tasksItem.Name = "tasksItem";
             this.tasksItem.SmallImageIndex = 5;
+            // 
+            // navBarItem3
+            // 
+            this.navBarItem3.Caption = "RichEdit";
+            this.navBarItem3.Name = "navBarItem3";
+            this.navBarItem3.SmallImage = ((System.Drawing.Image)(resources.GetObject("navBarItem3.SmallImage")));
+            // 
+            // Tab_RichEdit1
+            // 
+            this.Tab_RichEdit1.Caption = "บทที่ 1";
+            this.Tab_RichEdit1.Name = "Tab_RichEdit1";
+            // 
+            // Tab_RichEdit2
+            // 
+            this.Tab_RichEdit2.Caption = "บทที่ 2";
+            this.Tab_RichEdit2.Name = "Tab_RichEdit2";
+            // 
+            // Tab_RichEdit3
+            // 
+            this.Tab_RichEdit3.Caption = "บทที่ 3";
+            this.Tab_RichEdit3.Name = "Tab_RichEdit3";
+            // 
+            // Tab_RichEdit4
+            // 
+            this.Tab_RichEdit4.Caption = "บทที่ 4";
+            this.Tab_RichEdit4.Name = "Tab_RichEdit4";
+            // 
+            // Tab_RichEdit5
+            // 
+            this.Tab_RichEdit5.Caption = "บทที่ 5";
+            this.Tab_RichEdit5.Name = "Tab_RichEdit5";
             // 
             // navbarImageCollectionLarge
             // 
@@ -1833,23 +1022,53 @@ namespace Simulations
             this.navbarImageCollection.Images.SetKeyName(4, "Calendar_16x16.png");
             this.navbarImageCollection.Images.SetKeyName(5, "Tasks_16x16.png");
             // 
-            // panelRichEdit
+            // groupBox_index
             // 
-            this.panelRichEdit.Controls.Add(this.richEditControl1);
-            this.panelRichEdit.Location = new System.Drawing.Point(28, 151);
-            this.panelRichEdit.Name = "panelRichEdit";
-            this.panelRichEdit.Size = new System.Drawing.Size(76, 100);
-            this.panelRichEdit.TabIndex = 5;
+            this.groupBox_index.Controls.Add(this.Lb_CountTime);
+            this.groupBox_index.Controls.Add(this.progressBar_case);
+            this.groupBox_index.Controls.Add(this.groupBox14);
+            this.groupBox_index.Controls.Add(this.Gb_SonF1);
+            this.groupBox_index.Controls.Add(this.groupBox13);
+            this.groupBox_index.Controls.Add(this.groupBox11);
+            this.groupBox_index.Controls.Add(this.groupBox9);
+            this.groupBox_index.Controls.Add(this.groupBox4);
+            this.groupBox_index.Controls.Add(this.Bt_set);
+            this.groupBox_index.Controls.Add(this.Bt_stop);
+            this.groupBox_index.Controls.Add(this.lB_number);
+            this.groupBox_index.Controls.Add(this.Lb_fcase);
+            this.groupBox_index.Controls.Add(this.label8);
+            this.groupBox_index.Controls.Add(this.button4);
+            this.groupBox_index.Controls.Add(this.label_casenum);
+            this.groupBox_index.Controls.Add(this.label5);
+            this.groupBox_index.Controls.Add(this.label4);
+            this.groupBox_index.Controls.Add(this.label_casetime);
+            this.groupBox_index.Controls.Add(this.button3);
+            this.groupBox_index.Controls.Add(this.grid_case);
+            this.groupBox_index.Controls.Add(this.grid_Aiti);
+            this.groupBox_index.Location = new System.Drawing.Point(62, 152);
+            this.groupBox_index.Name = "groupBox_index";
+            this.groupBox_index.Size = new System.Drawing.Size(229, 152);
+            this.groupBox_index.TabIndex = 11;
+            this.groupBox_index.TabStop = false;
+            this.groupBox_index.Text = "Sim";
             // 
-            // richEditControl1
+            // Lb_CountTime
             // 
-            this.richEditControl1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.richEditControl1.Location = new System.Drawing.Point(0, 0);
-            this.richEditControl1.MenuManager = this.ribbonControl;
-            this.richEditControl1.Name = "richEditControl1";
-            this.richEditControl1.Size = new System.Drawing.Size(76, 100);
-            this.richEditControl1.TabIndex = 0;
-            this.richEditControl1.Text = "richEditControl1";
+            this.Lb_CountTime.AutoSize = true;
+            this.Lb_CountTime.Location = new System.Drawing.Point(398, 33);
+            this.Lb_CountTime.Name = "Lb_CountTime";
+            this.Lb_CountTime.Size = new System.Drawing.Size(61, 13);
+            this.Lb_CountTime.TabIndex = 46;
+            this.Lb_CountTime.Text = "Count Time";
+            // 
+            // progressBar_case
+            // 
+            this.progressBar_case.Location = new System.Drawing.Point(295, 32);
+            this.progressBar_case.MenuManager = this.ribbonControl;
+            this.progressBar_case.Name = "progressBar_case";
+            this.progressBar_case.Properties.Appearance.BackColor = System.Drawing.Color.White;
+            this.progressBar_case.Size = new System.Drawing.Size(100, 18);
+            this.progressBar_case.TabIndex = 45;
             // 
             // ribbonControl
             // 
@@ -2410,15 +1629,15 @@ namespace Simulations
             this.printPreviewBarItem1.Id = 62;
             this.printPreviewBarItem1.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_DocumentMapLarge;
             this.printPreviewBarItem1.Name = "printPreviewBarItem1";
-            superToolTip1.FixedTooltipWidth = true;
-            toolTipTitleItem1.Text = "Document Map";
-            toolTipItem1.LeftIndent = 6;
-            toolTipItem1.Text = "Open the Document Map, which allows you to navigate through a structural view of " +
+            superToolTip148.FixedTooltipWidth = true;
+            toolTipTitleItem148.Text = "Document Map";
+            toolTipItem148.LeftIndent = 6;
+            toolTipItem148.Text = "Open the Document Map, which allows you to navigate through a structural view of " +
     "the document.";
-            superToolTip1.Items.Add(toolTipTitleItem1);
-            superToolTip1.Items.Add(toolTipItem1);
-            superToolTip1.MaxWidth = 210;
-            this.printPreviewBarItem1.SuperTip = superToolTip1;
+            superToolTip148.Items.Add(toolTipTitleItem148);
+            superToolTip148.Items.Add(toolTipItem148);
+            superToolTip148.MaxWidth = 210;
+            this.printPreviewBarItem1.SuperTip = superToolTip148;
             // 
             // documentViewerRibbonController1
             // 
@@ -2534,15 +1753,15 @@ namespace Simulations
             this.printPreviewBarItem2.Id = 63;
             this.printPreviewBarItem2.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ParametersLarge;
             this.printPreviewBarItem2.Name = "printPreviewBarItem2";
-            superToolTip2.FixedTooltipWidth = true;
-            toolTipTitleItem2.Text = "Parameters";
-            toolTipItem2.LeftIndent = 6;
-            toolTipItem2.Text = "Open the Parameters pane, which allows you to enter values for report parameters." +
+            superToolTip149.FixedTooltipWidth = true;
+            toolTipTitleItem149.Text = "Parameters";
+            toolTipItem149.LeftIndent = 6;
+            toolTipItem149.Text = "Open the Parameters pane, which allows you to enter values for report parameters." +
     "";
-            superToolTip2.Items.Add(toolTipTitleItem2);
-            superToolTip2.Items.Add(toolTipItem2);
-            superToolTip2.MaxWidth = 210;
-            this.printPreviewBarItem2.SuperTip = superToolTip2;
+            superToolTip149.Items.Add(toolTipTitleItem149);
+            superToolTip149.Items.Add(toolTipItem149);
+            superToolTip149.MaxWidth = 210;
+            this.printPreviewBarItem2.SuperTip = superToolTip149;
             // 
             // printPreviewBarItem3
             // 
@@ -2555,14 +1774,14 @@ namespace Simulations
             this.printPreviewBarItem3.Id = 64;
             this.printPreviewBarItem3.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_FindLarge;
             this.printPreviewBarItem3.Name = "printPreviewBarItem3";
-            superToolTip3.FixedTooltipWidth = true;
-            toolTipTitleItem3.Text = "Find";
-            toolTipItem3.LeftIndent = 6;
-            toolTipItem3.Text = "Show the Find dialog to find text in the document.";
-            superToolTip3.Items.Add(toolTipTitleItem3);
-            superToolTip3.Items.Add(toolTipItem3);
-            superToolTip3.MaxWidth = 210;
-            this.printPreviewBarItem3.SuperTip = superToolTip3;
+            superToolTip150.FixedTooltipWidth = true;
+            toolTipTitleItem150.Text = "Find";
+            toolTipItem150.LeftIndent = 6;
+            toolTipItem150.Text = "Show the Find dialog to find text in the document.";
+            superToolTip150.Items.Add(toolTipTitleItem150);
+            superToolTip150.Items.Add(toolTipItem150);
+            superToolTip150.MaxWidth = 210;
+            this.printPreviewBarItem3.SuperTip = superToolTip150;
             // 
             // printPreviewBarItem4
             // 
@@ -2575,14 +1794,14 @@ namespace Simulations
             this.printPreviewBarItem4.Id = 65;
             this.printPreviewBarItem4.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ThumbnailsLarge;
             this.printPreviewBarItem4.Name = "printPreviewBarItem4";
-            superToolTip4.FixedTooltipWidth = true;
-            toolTipTitleItem4.Text = "Thumbnails";
-            toolTipItem4.LeftIndent = 6;
-            toolTipItem4.Text = "Open the Thumbnails, which allows you to navigate through the document.";
-            superToolTip4.Items.Add(toolTipTitleItem4);
-            superToolTip4.Items.Add(toolTipItem4);
-            superToolTip4.MaxWidth = 210;
-            this.printPreviewBarItem4.SuperTip = superToolTip4;
+            superToolTip151.FixedTooltipWidth = true;
+            toolTipTitleItem151.Text = "Thumbnails";
+            toolTipItem151.LeftIndent = 6;
+            toolTipItem151.Text = "Open the Thumbnails, which allows you to navigate through the document.";
+            superToolTip151.Items.Add(toolTipTitleItem151);
+            superToolTip151.Items.Add(toolTipItem151);
+            superToolTip151.MaxWidth = 210;
+            this.printPreviewBarItem4.SuperTip = superToolTip151;
             // 
             // printPreviewBarItem5
             // 
@@ -2594,14 +1813,14 @@ namespace Simulations
             this.printPreviewBarItem5.Id = 66;
             this.printPreviewBarItem5.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_CustomizeLarge;
             this.printPreviewBarItem5.Name = "printPreviewBarItem5";
-            superToolTip5.FixedTooltipWidth = true;
-            toolTipTitleItem5.Text = "Options";
-            toolTipItem5.LeftIndent = 6;
-            toolTipItem5.Text = "Open the Print Options dialog, in which you can change printing options.";
-            superToolTip5.Items.Add(toolTipTitleItem5);
-            superToolTip5.Items.Add(toolTipItem5);
-            superToolTip5.MaxWidth = 210;
-            this.printPreviewBarItem5.SuperTip = superToolTip5;
+            superToolTip152.FixedTooltipWidth = true;
+            toolTipTitleItem152.Text = "Options";
+            toolTipItem152.LeftIndent = 6;
+            toolTipItem152.Text = "Open the Print Options dialog, in which you can change printing options.";
+            superToolTip152.Items.Add(toolTipTitleItem152);
+            superToolTip152.Items.Add(toolTipItem152);
+            superToolTip152.MaxWidth = 210;
+            this.printPreviewBarItem5.SuperTip = superToolTip152;
             // 
             // printPreviewBarItem6
             // 
@@ -2613,14 +1832,14 @@ namespace Simulations
             this.printPreviewBarItem6.Id = 67;
             this.printPreviewBarItem6.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_PrintLarge;
             this.printPreviewBarItem6.Name = "printPreviewBarItem6";
-            superToolTip6.FixedTooltipWidth = true;
-            toolTipTitleItem6.Text = "Print (Ctrl+P)";
-            toolTipItem6.LeftIndent = 6;
-            toolTipItem6.Text = "Select a printer, number of copies and other printing options before printing.";
-            superToolTip6.Items.Add(toolTipTitleItem6);
-            superToolTip6.Items.Add(toolTipItem6);
-            superToolTip6.MaxWidth = 210;
-            this.printPreviewBarItem6.SuperTip = superToolTip6;
+            superToolTip153.FixedTooltipWidth = true;
+            toolTipTitleItem153.Text = "Print (Ctrl+P)";
+            toolTipItem153.LeftIndent = 6;
+            toolTipItem153.Text = "Select a printer, number of copies and other printing options before printing.";
+            superToolTip153.Items.Add(toolTipTitleItem153);
+            superToolTip153.Items.Add(toolTipItem153);
+            superToolTip153.MaxWidth = 210;
+            this.printPreviewBarItem6.SuperTip = superToolTip153;
             // 
             // printPreviewBarItem7
             // 
@@ -2632,14 +1851,14 @@ namespace Simulations
             this.printPreviewBarItem7.Id = 68;
             this.printPreviewBarItem7.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_PrintDirectLarge;
             this.printPreviewBarItem7.Name = "printPreviewBarItem7";
-            superToolTip7.FixedTooltipWidth = true;
-            toolTipTitleItem7.Text = "Quick Print";
-            toolTipItem7.LeftIndent = 6;
-            toolTipItem7.Text = "Send the document directly to the default printer without making changes.";
-            superToolTip7.Items.Add(toolTipTitleItem7);
-            superToolTip7.Items.Add(toolTipItem7);
-            superToolTip7.MaxWidth = 210;
-            this.printPreviewBarItem7.SuperTip = superToolTip7;
+            superToolTip154.FixedTooltipWidth = true;
+            toolTipTitleItem154.Text = "Quick Print";
+            toolTipItem154.LeftIndent = 6;
+            toolTipItem154.Text = "Send the document directly to the default printer without making changes.";
+            superToolTip154.Items.Add(toolTipTitleItem154);
+            superToolTip154.Items.Add(toolTipItem154);
+            superToolTip154.MaxWidth = 210;
+            this.printPreviewBarItem7.SuperTip = superToolTip154;
             // 
             // printPreviewBarItem8
             // 
@@ -2649,14 +1868,14 @@ namespace Simulations
             this.printPreviewBarItem8.Enabled = false;
             this.printPreviewBarItem8.Id = 69;
             this.printPreviewBarItem8.Name = "printPreviewBarItem8";
-            superToolTip8.FixedTooltipWidth = true;
-            toolTipTitleItem8.Text = "Page Setup";
-            toolTipItem8.LeftIndent = 6;
-            toolTipItem8.Text = "Show the Page Setup dialog.";
-            superToolTip8.Items.Add(toolTipTitleItem8);
-            superToolTip8.Items.Add(toolTipItem8);
-            superToolTip8.MaxWidth = 210;
-            this.printPreviewBarItem8.SuperTip = superToolTip8;
+            superToolTip155.FixedTooltipWidth = true;
+            toolTipTitleItem155.Text = "Page Setup";
+            toolTipItem155.LeftIndent = 6;
+            toolTipItem155.Text = "Show the Page Setup dialog.";
+            superToolTip155.Items.Add(toolTipTitleItem155);
+            superToolTip155.Items.Add(toolTipItem155);
+            superToolTip155.MaxWidth = 210;
+            this.printPreviewBarItem8.SuperTip = superToolTip155;
             // 
             // printPreviewBarItem9
             // 
@@ -2668,14 +1887,14 @@ namespace Simulations
             this.printPreviewBarItem9.Id = 70;
             this.printPreviewBarItem9.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_EditPageHFLarge;
             this.printPreviewBarItem9.Name = "printPreviewBarItem9";
-            superToolTip9.FixedTooltipWidth = true;
-            toolTipTitleItem9.Text = "Header and Footer";
-            toolTipItem9.LeftIndent = 6;
-            toolTipItem9.Text = "Edit the header and footer of the document.";
-            superToolTip9.Items.Add(toolTipTitleItem9);
-            superToolTip9.Items.Add(toolTipItem9);
-            superToolTip9.MaxWidth = 210;
-            this.printPreviewBarItem9.SuperTip = superToolTip9;
+            superToolTip156.FixedTooltipWidth = true;
+            toolTipTitleItem156.Text = "Header and Footer";
+            toolTipItem156.LeftIndent = 6;
+            toolTipItem156.Text = "Edit the header and footer of the document.";
+            superToolTip156.Items.Add(toolTipTitleItem156);
+            superToolTip156.Items.Add(toolTipItem156);
+            superToolTip156.MaxWidth = 210;
+            this.printPreviewBarItem9.SuperTip = superToolTip156;
             // 
             // printPreviewBarItem10
             // 
@@ -2688,14 +1907,14 @@ namespace Simulations
             this.printPreviewBarItem10.Id = 71;
             this.printPreviewBarItem10.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ScaleLarge;
             this.printPreviewBarItem10.Name = "printPreviewBarItem10";
-            superToolTip10.FixedTooltipWidth = true;
-            toolTipTitleItem10.Text = "Scale";
-            toolTipItem10.LeftIndent = 6;
-            toolTipItem10.Text = "Stretch or shrink the printed output to a percentage of its actual size.";
-            superToolTip10.Items.Add(toolTipTitleItem10);
-            superToolTip10.Items.Add(toolTipItem10);
-            superToolTip10.MaxWidth = 210;
-            this.printPreviewBarItem10.SuperTip = superToolTip10;
+            superToolTip157.FixedTooltipWidth = true;
+            toolTipTitleItem157.Text = "Scale";
+            toolTipItem157.LeftIndent = 6;
+            toolTipItem157.Text = "Stretch or shrink the printed output to a percentage of its actual size.";
+            superToolTip157.Items.Add(toolTipTitleItem157);
+            superToolTip157.Items.Add(toolTipItem157);
+            superToolTip157.MaxWidth = 210;
+            this.printPreviewBarItem10.SuperTip = superToolTip157;
             // 
             // printPreviewBarItem11
             // 
@@ -2710,14 +1929,14 @@ namespace Simulations
             this.printPreviewBarItem11.Id = 72;
             this.printPreviewBarItem11.Name = "printPreviewBarItem11";
             this.printPreviewBarItem11.RibbonStyle = DevExpress.XtraBars.Ribbon.RibbonItemStyles.SmallWithoutText;
-            superToolTip11.FixedTooltipWidth = true;
-            toolTipTitleItem11.Text = "Mouse Pointer";
-            toolTipItem11.LeftIndent = 6;
-            toolTipItem11.Text = "Show the mouse pointer.";
-            superToolTip11.Items.Add(toolTipTitleItem11);
-            superToolTip11.Items.Add(toolTipItem11);
-            superToolTip11.MaxWidth = 210;
-            this.printPreviewBarItem11.SuperTip = superToolTip11;
+            superToolTip158.FixedTooltipWidth = true;
+            toolTipTitleItem158.Text = "Mouse Pointer";
+            toolTipItem158.LeftIndent = 6;
+            toolTipItem158.Text = "Show the mouse pointer.";
+            superToolTip158.Items.Add(toolTipTitleItem158);
+            superToolTip158.Items.Add(toolTipItem158);
+            superToolTip158.MaxWidth = 210;
+            this.printPreviewBarItem11.SuperTip = superToolTip158;
             // 
             // printPreviewBarItem12
             // 
@@ -2731,14 +1950,14 @@ namespace Simulations
             this.printPreviewBarItem12.Id = 73;
             this.printPreviewBarItem12.Name = "printPreviewBarItem12";
             this.printPreviewBarItem12.RibbonStyle = DevExpress.XtraBars.Ribbon.RibbonItemStyles.SmallWithoutText;
-            superToolTip12.FixedTooltipWidth = true;
-            toolTipTitleItem12.Text = "Hand Tool";
-            toolTipItem12.LeftIndent = 6;
-            toolTipItem12.Text = "Invoke the Hand tool to manually scroll through pages.";
-            superToolTip12.Items.Add(toolTipTitleItem12);
-            superToolTip12.Items.Add(toolTipItem12);
-            superToolTip12.MaxWidth = 210;
-            this.printPreviewBarItem12.SuperTip = superToolTip12;
+            superToolTip159.FixedTooltipWidth = true;
+            toolTipTitleItem159.Text = "Hand Tool";
+            toolTipItem159.LeftIndent = 6;
+            toolTipItem159.Text = "Invoke the Hand tool to manually scroll through pages.";
+            superToolTip159.Items.Add(toolTipTitleItem159);
+            superToolTip159.Items.Add(toolTipItem159);
+            superToolTip159.MaxWidth = 210;
+            this.printPreviewBarItem12.SuperTip = superToolTip159;
             // 
             // printPreviewBarItem13
             // 
@@ -2752,16 +1971,16 @@ namespace Simulations
             this.printPreviewBarItem13.Id = 74;
             this.printPreviewBarItem13.Name = "printPreviewBarItem13";
             this.printPreviewBarItem13.RibbonStyle = DevExpress.XtraBars.Ribbon.RibbonItemStyles.SmallWithoutText;
-            superToolTip13.FixedTooltipWidth = true;
-            toolTipTitleItem13.Text = "Magnifier";
-            toolTipItem13.LeftIndent = 6;
-            toolTipItem13.Text = "Invoke the Magnifier tool.\r\n\r\nClicking once on a document zooms it so that a sing" +
+            superToolTip160.FixedTooltipWidth = true;
+            toolTipTitleItem160.Text = "Magnifier";
+            toolTipItem160.LeftIndent = 6;
+            toolTipItem160.Text = "Invoke the Magnifier tool.\r\n\r\nClicking once on a document zooms it so that a sing" +
     "le page becomes entirely visible, while clicking another time zooms it to 100% o" +
     "f the normal size.";
-            superToolTip13.Items.Add(toolTipTitleItem13);
-            superToolTip13.Items.Add(toolTipItem13);
-            superToolTip13.MaxWidth = 210;
-            this.printPreviewBarItem13.SuperTip = superToolTip13;
+            superToolTip160.Items.Add(toolTipTitleItem160);
+            superToolTip160.Items.Add(toolTipItem160);
+            superToolTip160.MaxWidth = 210;
+            this.printPreviewBarItem13.SuperTip = superToolTip160;
             // 
             // printPreviewBarItem14
             // 
@@ -2773,14 +1992,14 @@ namespace Simulations
             this.printPreviewBarItem14.Id = 75;
             this.printPreviewBarItem14.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ZoomOutLarge;
             this.printPreviewBarItem14.Name = "printPreviewBarItem14";
-            superToolTip14.FixedTooltipWidth = true;
-            toolTipTitleItem14.Text = "Zoom Out";
-            toolTipItem14.LeftIndent = 6;
-            toolTipItem14.Text = "Zoom out to see more of the page at a reduced size.";
-            superToolTip14.Items.Add(toolTipTitleItem14);
-            superToolTip14.Items.Add(toolTipItem14);
-            superToolTip14.MaxWidth = 210;
-            this.printPreviewBarItem14.SuperTip = superToolTip14;
+            superToolTip161.FixedTooltipWidth = true;
+            toolTipTitleItem161.Text = "Zoom Out";
+            toolTipItem161.LeftIndent = 6;
+            toolTipItem161.Text = "Zoom out to see more of the page at a reduced size.";
+            superToolTip161.Items.Add(toolTipTitleItem161);
+            superToolTip161.Items.Add(toolTipItem161);
+            superToolTip161.MaxWidth = 210;
+            this.printPreviewBarItem14.SuperTip = superToolTip161;
             // 
             // printPreviewBarItem15
             // 
@@ -2792,14 +2011,14 @@ namespace Simulations
             this.printPreviewBarItem15.Id = 76;
             this.printPreviewBarItem15.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ZoomInLarge;
             this.printPreviewBarItem15.Name = "printPreviewBarItem15";
-            superToolTip15.FixedTooltipWidth = true;
-            toolTipTitleItem15.Text = "Zoom In";
-            toolTipItem15.LeftIndent = 6;
-            toolTipItem15.Text = "Zoom in to get a close-up view of the document.";
-            superToolTip15.Items.Add(toolTipTitleItem15);
-            superToolTip15.Items.Add(toolTipItem15);
-            superToolTip15.MaxWidth = 210;
-            this.printPreviewBarItem15.SuperTip = superToolTip15;
+            superToolTip162.FixedTooltipWidth = true;
+            toolTipTitleItem162.Text = "Zoom In";
+            toolTipItem162.LeftIndent = 6;
+            toolTipItem162.Text = "Zoom in to get a close-up view of the document.";
+            superToolTip162.Items.Add(toolTipTitleItem162);
+            superToolTip162.Items.Add(toolTipItem162);
+            superToolTip162.MaxWidth = 210;
+            this.printPreviewBarItem15.SuperTip = superToolTip162;
             // 
             // printPreviewBarItem16
             // 
@@ -2812,14 +2031,14 @@ namespace Simulations
             this.printPreviewBarItem16.Id = 77;
             this.printPreviewBarItem16.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ZoomLarge;
             this.printPreviewBarItem16.Name = "printPreviewBarItem16";
-            superToolTip16.FixedTooltipWidth = true;
-            toolTipTitleItem16.Text = "Zoom";
-            toolTipItem16.LeftIndent = 6;
-            toolTipItem16.Text = "Change the zoom level of the document preview.";
-            superToolTip16.Items.Add(toolTipTitleItem16);
-            superToolTip16.Items.Add(toolTipItem16);
-            superToolTip16.MaxWidth = 210;
-            this.printPreviewBarItem16.SuperTip = superToolTip16;
+            superToolTip163.FixedTooltipWidth = true;
+            toolTipTitleItem163.Text = "Zoom";
+            toolTipItem163.LeftIndent = 6;
+            toolTipItem163.Text = "Change the zoom level of the document preview.";
+            superToolTip163.Items.Add(toolTipTitleItem163);
+            superToolTip163.Items.Add(toolTipItem163);
+            superToolTip163.MaxWidth = 210;
+            this.printPreviewBarItem16.SuperTip = superToolTip163;
             // 
             // printPreviewBarItem17
             // 
@@ -2831,14 +2050,14 @@ namespace Simulations
             this.printPreviewBarItem17.Id = 78;
             this.printPreviewBarItem17.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ShowFirstPageLarge;
             this.printPreviewBarItem17.Name = "printPreviewBarItem17";
-            superToolTip17.FixedTooltipWidth = true;
-            toolTipTitleItem17.Text = "First Page (Ctrl+Home)";
-            toolTipItem17.LeftIndent = 6;
-            toolTipItem17.Text = "Navigate to the first page of the document.";
-            superToolTip17.Items.Add(toolTipTitleItem17);
-            superToolTip17.Items.Add(toolTipItem17);
-            superToolTip17.MaxWidth = 210;
-            this.printPreviewBarItem17.SuperTip = superToolTip17;
+            superToolTip164.FixedTooltipWidth = true;
+            toolTipTitleItem164.Text = "First Page (Ctrl+Home)";
+            toolTipItem164.LeftIndent = 6;
+            toolTipItem164.Text = "Navigate to the first page of the document.";
+            superToolTip164.Items.Add(toolTipTitleItem164);
+            superToolTip164.Items.Add(toolTipItem164);
+            superToolTip164.MaxWidth = 210;
+            this.printPreviewBarItem17.SuperTip = superToolTip164;
             // 
             // printPreviewBarItem18
             // 
@@ -2850,14 +2069,14 @@ namespace Simulations
             this.printPreviewBarItem18.Id = 79;
             this.printPreviewBarItem18.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ShowPrevPageLarge;
             this.printPreviewBarItem18.Name = "printPreviewBarItem18";
-            superToolTip18.FixedTooltipWidth = true;
-            toolTipTitleItem18.Text = "Previous Page (PageUp)";
-            toolTipItem18.LeftIndent = 6;
-            toolTipItem18.Text = "Navigate to the previous page of the document.";
-            superToolTip18.Items.Add(toolTipTitleItem18);
-            superToolTip18.Items.Add(toolTipItem18);
-            superToolTip18.MaxWidth = 210;
-            this.printPreviewBarItem18.SuperTip = superToolTip18;
+            superToolTip165.FixedTooltipWidth = true;
+            toolTipTitleItem165.Text = "Previous Page (PageUp)";
+            toolTipItem165.LeftIndent = 6;
+            toolTipItem165.Text = "Navigate to the previous page of the document.";
+            superToolTip165.Items.Add(toolTipTitleItem165);
+            superToolTip165.Items.Add(toolTipItem165);
+            superToolTip165.MaxWidth = 210;
+            this.printPreviewBarItem18.SuperTip = superToolTip165;
             // 
             // printPreviewBarItem19
             // 
@@ -2869,14 +2088,14 @@ namespace Simulations
             this.printPreviewBarItem19.Id = 80;
             this.printPreviewBarItem19.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ShowNextPageLarge;
             this.printPreviewBarItem19.Name = "printPreviewBarItem19";
-            superToolTip19.FixedTooltipWidth = true;
-            toolTipTitleItem19.Text = "Next Page (PageDown)";
-            toolTipItem19.LeftIndent = 6;
-            toolTipItem19.Text = "Navigate to the next page of the document.";
-            superToolTip19.Items.Add(toolTipTitleItem19);
-            superToolTip19.Items.Add(toolTipItem19);
-            superToolTip19.MaxWidth = 210;
-            this.printPreviewBarItem19.SuperTip = superToolTip19;
+            superToolTip166.FixedTooltipWidth = true;
+            toolTipTitleItem166.Text = "Next Page (PageDown)";
+            toolTipItem166.LeftIndent = 6;
+            toolTipItem166.Text = "Navigate to the next page of the document.";
+            superToolTip166.Items.Add(toolTipTitleItem166);
+            superToolTip166.Items.Add(toolTipItem166);
+            superToolTip166.MaxWidth = 210;
+            this.printPreviewBarItem19.SuperTip = superToolTip166;
             // 
             // printPreviewBarItem20
             // 
@@ -2888,14 +2107,14 @@ namespace Simulations
             this.printPreviewBarItem20.Id = 81;
             this.printPreviewBarItem20.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ShowLastPageLarge;
             this.printPreviewBarItem20.Name = "printPreviewBarItem20";
-            superToolTip20.FixedTooltipWidth = true;
-            toolTipTitleItem20.Text = "Last Page (Ctrl+End)";
-            toolTipItem20.LeftIndent = 6;
-            toolTipItem20.Text = "Navigate to the last page of the document.";
-            superToolTip20.Items.Add(toolTipTitleItem20);
-            superToolTip20.Items.Add(toolTipItem20);
-            superToolTip20.MaxWidth = 210;
-            this.printPreviewBarItem20.SuperTip = superToolTip20;
+            superToolTip167.FixedTooltipWidth = true;
+            toolTipTitleItem167.Text = "Last Page (Ctrl+End)";
+            toolTipItem167.LeftIndent = 6;
+            toolTipItem167.Text = "Navigate to the last page of the document.";
+            superToolTip167.Items.Add(toolTipTitleItem167);
+            superToolTip167.Items.Add(toolTipItem167);
+            superToolTip167.MaxWidth = 210;
+            this.printPreviewBarItem20.SuperTip = superToolTip167;
             // 
             // printPreviewBarItem21
             // 
@@ -2908,14 +2127,14 @@ namespace Simulations
             this.printPreviewBarItem21.Id = 82;
             this.printPreviewBarItem21.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_MultiplePagesLarge;
             this.printPreviewBarItem21.Name = "printPreviewBarItem21";
-            superToolTip21.FixedTooltipWidth = true;
-            toolTipTitleItem21.Text = "View Many Pages";
-            toolTipItem21.LeftIndent = 6;
-            toolTipItem21.Text = "Choose the page layout to arrange the document pages in preview.";
-            superToolTip21.Items.Add(toolTipTitleItem21);
-            superToolTip21.Items.Add(toolTipItem21);
-            superToolTip21.MaxWidth = 210;
-            this.printPreviewBarItem21.SuperTip = superToolTip21;
+            superToolTip168.FixedTooltipWidth = true;
+            toolTipTitleItem168.Text = "View Many Pages";
+            toolTipItem168.LeftIndent = 6;
+            toolTipItem168.Text = "Choose the page layout to arrange the document pages in preview.";
+            superToolTip168.Items.Add(toolTipTitleItem168);
+            superToolTip168.Items.Add(toolTipItem168);
+            superToolTip168.MaxWidth = 210;
+            this.printPreviewBarItem21.SuperTip = superToolTip168;
             // 
             // printPreviewBarItem22
             // 
@@ -2928,14 +2147,14 @@ namespace Simulations
             this.printPreviewBarItem22.Id = 83;
             this.printPreviewBarItem22.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_FillBackgroundLarge;
             this.printPreviewBarItem22.Name = "printPreviewBarItem22";
-            superToolTip22.FixedTooltipWidth = true;
-            toolTipTitleItem22.Text = "Background Color";
-            toolTipItem22.LeftIndent = 6;
-            toolTipItem22.Text = "Choose a color for the background of the document pages.";
-            superToolTip22.Items.Add(toolTipTitleItem22);
-            superToolTip22.Items.Add(toolTipItem22);
-            superToolTip22.MaxWidth = 210;
-            this.printPreviewBarItem22.SuperTip = superToolTip22;
+            superToolTip169.FixedTooltipWidth = true;
+            toolTipTitleItem169.Text = "Background Color";
+            toolTipItem169.LeftIndent = 6;
+            toolTipItem169.Text = "Choose a color for the background of the document pages.";
+            superToolTip169.Items.Add(toolTipTitleItem169);
+            superToolTip169.Items.Add(toolTipItem169);
+            superToolTip169.MaxWidth = 210;
+            this.printPreviewBarItem22.SuperTip = superToolTip169;
             // 
             // printPreviewBarItem23
             // 
@@ -2947,15 +2166,15 @@ namespace Simulations
             this.printPreviewBarItem23.Id = 84;
             this.printPreviewBarItem23.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_WatermarkLarge;
             this.printPreviewBarItem23.Name = "printPreviewBarItem23";
-            superToolTip23.FixedTooltipWidth = true;
-            toolTipTitleItem23.Text = "Watermark";
-            toolTipItem23.LeftIndent = 6;
-            toolTipItem23.Text = "Insert ghosted text or image behind the content of a page.\r\n\r\nThis is often used " +
+            superToolTip170.FixedTooltipWidth = true;
+            toolTipTitleItem170.Text = "Watermark";
+            toolTipItem170.LeftIndent = 6;
+            toolTipItem170.Text = "Insert ghosted text or image behind the content of a page.\r\n\r\nThis is often used " +
     "to indicate that a document is to be treated specially.";
-            superToolTip23.Items.Add(toolTipTitleItem23);
-            superToolTip23.Items.Add(toolTipItem23);
-            superToolTip23.MaxWidth = 210;
-            this.printPreviewBarItem23.SuperTip = superToolTip23;
+            superToolTip170.Items.Add(toolTipTitleItem170);
+            superToolTip170.Items.Add(toolTipItem170);
+            superToolTip170.MaxWidth = 210;
+            this.printPreviewBarItem23.SuperTip = superToolTip170;
             // 
             // printPreviewBarItem24
             // 
@@ -2968,15 +2187,15 @@ namespace Simulations
             this.printPreviewBarItem24.Id = 85;
             this.printPreviewBarItem24.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("printPreviewBarItem24.LargeGlyph")));
             this.printPreviewBarItem24.Name = "printPreviewBarItem24";
-            superToolTip24.FixedTooltipWidth = true;
-            toolTipTitleItem24.Text = "Export To...";
-            toolTipItem24.LeftIndent = 6;
-            toolTipItem24.Text = "Export the current document in one of the available formats, and save it to the f" +
+            superToolTip171.FixedTooltipWidth = true;
+            toolTipTitleItem171.Text = "Export To...";
+            toolTipItem171.LeftIndent = 6;
+            toolTipItem171.Text = "Export the current document in one of the available formats, and save it to the f" +
     "ile on a disk.";
-            superToolTip24.Items.Add(toolTipTitleItem24);
-            superToolTip24.Items.Add(toolTipItem24);
-            superToolTip24.MaxWidth = 210;
-            this.printPreviewBarItem24.SuperTip = superToolTip24;
+            superToolTip171.Items.Add(toolTipTitleItem171);
+            superToolTip171.Items.Add(toolTipItem171);
+            superToolTip171.MaxWidth = 210;
+            this.printPreviewBarItem24.SuperTip = superToolTip171;
             // 
             // printPreviewBarItem25
             // 
@@ -2989,15 +2208,15 @@ namespace Simulations
             this.printPreviewBarItem25.Id = 86;
             this.printPreviewBarItem25.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("printPreviewBarItem25.LargeGlyph")));
             this.printPreviewBarItem25.Name = "printPreviewBarItem25";
-            superToolTip25.FixedTooltipWidth = true;
-            toolTipTitleItem25.Text = "E-Mail As...";
-            toolTipItem25.LeftIndent = 6;
-            toolTipItem25.Text = "Export the current document in one of the available formats, and attach it to the" +
+            superToolTip172.FixedTooltipWidth = true;
+            toolTipTitleItem172.Text = "E-Mail As...";
+            toolTipItem172.LeftIndent = 6;
+            toolTipItem172.Text = "Export the current document in one of the available formats, and attach it to the" +
     " e-mail.";
-            superToolTip25.Items.Add(toolTipTitleItem25);
-            superToolTip25.Items.Add(toolTipItem25);
-            superToolTip25.MaxWidth = 210;
-            this.printPreviewBarItem25.SuperTip = superToolTip25;
+            superToolTip172.Items.Add(toolTipTitleItem172);
+            superToolTip172.Items.Add(toolTipItem172);
+            superToolTip172.MaxWidth = 210;
+            this.printPreviewBarItem25.SuperTip = superToolTip172;
             // 
             // printPreviewBarItem26
             // 
@@ -3008,14 +2227,14 @@ namespace Simulations
             this.printPreviewBarItem26.Id = 87;
             this.printPreviewBarItem26.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ClosePreviewLarge;
             this.printPreviewBarItem26.Name = "printPreviewBarItem26";
-            superToolTip26.FixedTooltipWidth = true;
-            toolTipTitleItem26.Text = "Close Print Preview";
-            toolTipItem26.LeftIndent = 6;
-            toolTipItem26.Text = "Close Print Preview of the document.";
-            superToolTip26.Items.Add(toolTipTitleItem26);
-            superToolTip26.Items.Add(toolTipItem26);
-            superToolTip26.MaxWidth = 210;
-            this.printPreviewBarItem26.SuperTip = superToolTip26;
+            superToolTip173.FixedTooltipWidth = true;
+            toolTipTitleItem173.Text = "Close Print Preview";
+            toolTipItem173.LeftIndent = 6;
+            toolTipItem173.Text = "Close Print Preview of the document.";
+            superToolTip173.Items.Add(toolTipTitleItem173);
+            superToolTip173.Items.Add(toolTipItem173);
+            superToolTip173.MaxWidth = 210;
+            this.printPreviewBarItem26.SuperTip = superToolTip173;
             // 
             // printPreviewBarItem27
             // 
@@ -3028,14 +2247,14 @@ namespace Simulations
             this.printPreviewBarItem27.Id = 88;
             this.printPreviewBarItem27.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_PageOrientationLarge;
             this.printPreviewBarItem27.Name = "printPreviewBarItem27";
-            superToolTip27.FixedTooltipWidth = true;
-            toolTipTitleItem27.Text = "Page Orientation";
-            toolTipItem27.LeftIndent = 6;
-            toolTipItem27.Text = "Switch the pages between portrait and landscape layouts.";
-            superToolTip27.Items.Add(toolTipTitleItem27);
-            superToolTip27.Items.Add(toolTipItem27);
-            superToolTip27.MaxWidth = 210;
-            this.printPreviewBarItem27.SuperTip = superToolTip27;
+            superToolTip174.FixedTooltipWidth = true;
+            toolTipTitleItem174.Text = "Page Orientation";
+            toolTipItem174.LeftIndent = 6;
+            toolTipItem174.Text = "Switch the pages between portrait and landscape layouts.";
+            superToolTip174.Items.Add(toolTipTitleItem174);
+            superToolTip174.Items.Add(toolTipItem174);
+            superToolTip174.MaxWidth = 210;
+            this.printPreviewBarItem27.SuperTip = superToolTip174;
             // 
             // printPreviewBarItem28
             // 
@@ -3048,14 +2267,14 @@ namespace Simulations
             this.printPreviewBarItem28.Id = 89;
             this.printPreviewBarItem28.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_PaperSizeLarge;
             this.printPreviewBarItem28.Name = "printPreviewBarItem28";
-            superToolTip28.FixedTooltipWidth = true;
-            toolTipTitleItem28.Text = "Page Size";
-            toolTipItem28.LeftIndent = 6;
-            toolTipItem28.Text = "Choose the paper size of the document.";
-            superToolTip28.Items.Add(toolTipTitleItem28);
-            superToolTip28.Items.Add(toolTipItem28);
-            superToolTip28.MaxWidth = 210;
-            this.printPreviewBarItem28.SuperTip = superToolTip28;
+            superToolTip175.FixedTooltipWidth = true;
+            toolTipTitleItem175.Text = "Page Size";
+            toolTipItem175.LeftIndent = 6;
+            toolTipItem175.Text = "Choose the paper size of the document.";
+            superToolTip175.Items.Add(toolTipTitleItem175);
+            superToolTip175.Items.Add(toolTipItem175);
+            superToolTip175.MaxWidth = 210;
+            this.printPreviewBarItem28.SuperTip = superToolTip175;
             // 
             // printPreviewBarItem29
             // 
@@ -3068,15 +2287,15 @@ namespace Simulations
             this.printPreviewBarItem29.Id = 90;
             this.printPreviewBarItem29.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_PageMarginsLarge;
             this.printPreviewBarItem29.Name = "printPreviewBarItem29";
-            superToolTip29.FixedTooltipWidth = true;
-            toolTipTitleItem29.Text = "Page Margins";
-            toolTipItem29.LeftIndent = 6;
-            toolTipItem29.Text = "Select the margin sizes for the entire document.\r\n\r\nTo apply specific margin size" +
+            superToolTip176.FixedTooltipWidth = true;
+            toolTipTitleItem176.Text = "Page Margins";
+            toolTipItem176.LeftIndent = 6;
+            toolTipItem176.Text = "Select the margin sizes for the entire document.\r\n\r\nTo apply specific margin size" +
     "s to the document, click Custom Margins.";
-            superToolTip29.Items.Add(toolTipTitleItem29);
-            superToolTip29.Items.Add(toolTipItem29);
-            superToolTip29.MaxWidth = 210;
-            this.printPreviewBarItem29.SuperTip = superToolTip29;
+            superToolTip176.Items.Add(toolTipTitleItem176);
+            superToolTip176.Items.Add(toolTipItem176);
+            superToolTip176.MaxWidth = 210;
+            this.printPreviewBarItem29.SuperTip = superToolTip176;
             // 
             // printPreviewBarItem30
             // 
@@ -3089,14 +2308,14 @@ namespace Simulations
             this.printPreviewBarItem30.Id = 91;
             this.printPreviewBarItem30.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_SendPdfLarge;
             this.printPreviewBarItem30.Name = "printPreviewBarItem30";
-            superToolTip30.FixedTooltipWidth = true;
-            toolTipTitleItem30.Text = "E-Mail As PDF";
-            toolTipItem30.LeftIndent = 6;
-            toolTipItem30.Text = "Export the document to PDF and attach it to the e-mail.";
-            superToolTip30.Items.Add(toolTipTitleItem30);
-            superToolTip30.Items.Add(toolTipItem30);
-            superToolTip30.MaxWidth = 210;
-            this.printPreviewBarItem30.SuperTip = superToolTip30;
+            superToolTip177.FixedTooltipWidth = true;
+            toolTipTitleItem177.Text = "E-Mail As PDF";
+            toolTipItem177.LeftIndent = 6;
+            toolTipItem177.Text = "Export the document to PDF and attach it to the e-mail.";
+            superToolTip177.Items.Add(toolTipTitleItem177);
+            superToolTip177.Items.Add(toolTipItem177);
+            superToolTip177.MaxWidth = 210;
+            this.printPreviewBarItem30.SuperTip = superToolTip177;
             // 
             // printPreviewBarItem31
             // 
@@ -3109,14 +2328,14 @@ namespace Simulations
             this.printPreviewBarItem31.Id = 92;
             this.printPreviewBarItem31.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_SendTxtLarge;
             this.printPreviewBarItem31.Name = "printPreviewBarItem31";
-            superToolTip31.FixedTooltipWidth = true;
-            toolTipTitleItem31.Text = "E-Mail As Text";
-            toolTipItem31.LeftIndent = 6;
-            toolTipItem31.Text = "Export the document to Text and attach it to the e-mail.";
-            superToolTip31.Items.Add(toolTipTitleItem31);
-            superToolTip31.Items.Add(toolTipItem31);
-            superToolTip31.MaxWidth = 210;
-            this.printPreviewBarItem31.SuperTip = superToolTip31;
+            superToolTip178.FixedTooltipWidth = true;
+            toolTipTitleItem178.Text = "E-Mail As Text";
+            toolTipItem178.LeftIndent = 6;
+            toolTipItem178.Text = "Export the document to Text and attach it to the e-mail.";
+            superToolTip178.Items.Add(toolTipTitleItem178);
+            superToolTip178.Items.Add(toolTipItem178);
+            superToolTip178.MaxWidth = 210;
+            this.printPreviewBarItem31.SuperTip = superToolTip178;
             // 
             // printPreviewBarItem32
             // 
@@ -3129,14 +2348,14 @@ namespace Simulations
             this.printPreviewBarItem32.Id = 93;
             this.printPreviewBarItem32.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_SendCsvLarge;
             this.printPreviewBarItem32.Name = "printPreviewBarItem32";
-            superToolTip32.FixedTooltipWidth = true;
-            toolTipTitleItem32.Text = "E-Mail As CSV";
-            toolTipItem32.LeftIndent = 6;
-            toolTipItem32.Text = "Export the document to CSV and attach it to the e-mail.";
-            superToolTip32.Items.Add(toolTipTitleItem32);
-            superToolTip32.Items.Add(toolTipItem32);
-            superToolTip32.MaxWidth = 210;
-            this.printPreviewBarItem32.SuperTip = superToolTip32;
+            superToolTip179.FixedTooltipWidth = true;
+            toolTipTitleItem179.Text = "E-Mail As CSV";
+            toolTipItem179.LeftIndent = 6;
+            toolTipItem179.Text = "Export the document to CSV and attach it to the e-mail.";
+            superToolTip179.Items.Add(toolTipTitleItem179);
+            superToolTip179.Items.Add(toolTipItem179);
+            superToolTip179.MaxWidth = 210;
+            this.printPreviewBarItem32.SuperTip = superToolTip179;
             // 
             // printPreviewBarItem33
             // 
@@ -3149,14 +2368,14 @@ namespace Simulations
             this.printPreviewBarItem33.Id = 94;
             this.printPreviewBarItem33.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_SendMhtLarge;
             this.printPreviewBarItem33.Name = "printPreviewBarItem33";
-            superToolTip33.FixedTooltipWidth = true;
-            toolTipTitleItem33.Text = "E-Mail As MHT";
-            toolTipItem33.LeftIndent = 6;
-            toolTipItem33.Text = "Export the document to MHT and attach it to the e-mail.";
-            superToolTip33.Items.Add(toolTipTitleItem33);
-            superToolTip33.Items.Add(toolTipItem33);
-            superToolTip33.MaxWidth = 210;
-            this.printPreviewBarItem33.SuperTip = superToolTip33;
+            superToolTip180.FixedTooltipWidth = true;
+            toolTipTitleItem180.Text = "E-Mail As MHT";
+            toolTipItem180.LeftIndent = 6;
+            toolTipItem180.Text = "Export the document to MHT and attach it to the e-mail.";
+            superToolTip180.Items.Add(toolTipTitleItem180);
+            superToolTip180.Items.Add(toolTipItem180);
+            superToolTip180.MaxWidth = 210;
+            this.printPreviewBarItem33.SuperTip = superToolTip180;
             // 
             // printPreviewBarItem34
             // 
@@ -3169,14 +2388,14 @@ namespace Simulations
             this.printPreviewBarItem34.Id = 95;
             this.printPreviewBarItem34.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_SendXlsLarge;
             this.printPreviewBarItem34.Name = "printPreviewBarItem34";
-            superToolTip34.FixedTooltipWidth = true;
-            toolTipTitleItem34.Text = "E-Mail As XLS";
-            toolTipItem34.LeftIndent = 6;
-            toolTipItem34.Text = "Export the document to XLS and attach it to the e-mail.";
-            superToolTip34.Items.Add(toolTipTitleItem34);
-            superToolTip34.Items.Add(toolTipItem34);
-            superToolTip34.MaxWidth = 210;
-            this.printPreviewBarItem34.SuperTip = superToolTip34;
+            superToolTip181.FixedTooltipWidth = true;
+            toolTipTitleItem181.Text = "E-Mail As XLS";
+            toolTipItem181.LeftIndent = 6;
+            toolTipItem181.Text = "Export the document to XLS and attach it to the e-mail.";
+            superToolTip181.Items.Add(toolTipTitleItem181);
+            superToolTip181.Items.Add(toolTipItem181);
+            superToolTip181.MaxWidth = 210;
+            this.printPreviewBarItem34.SuperTip = superToolTip181;
             // 
             // printPreviewBarItem35
             // 
@@ -3189,14 +2408,14 @@ namespace Simulations
             this.printPreviewBarItem35.Id = 96;
             this.printPreviewBarItem35.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_SendXlsxLarge;
             this.printPreviewBarItem35.Name = "printPreviewBarItem35";
-            superToolTip35.FixedTooltipWidth = true;
-            toolTipTitleItem35.Text = "E-Mail As XLSX";
-            toolTipItem35.LeftIndent = 6;
-            toolTipItem35.Text = "Export the document to XLSX and attach it to the e-mail.";
-            superToolTip35.Items.Add(toolTipTitleItem35);
-            superToolTip35.Items.Add(toolTipItem35);
-            superToolTip35.MaxWidth = 210;
-            this.printPreviewBarItem35.SuperTip = superToolTip35;
+            superToolTip182.FixedTooltipWidth = true;
+            toolTipTitleItem182.Text = "E-Mail As XLSX";
+            toolTipItem182.LeftIndent = 6;
+            toolTipItem182.Text = "Export the document to XLSX and attach it to the e-mail.";
+            superToolTip182.Items.Add(toolTipTitleItem182);
+            superToolTip182.Items.Add(toolTipItem182);
+            superToolTip182.MaxWidth = 210;
+            this.printPreviewBarItem35.SuperTip = superToolTip182;
             // 
             // printPreviewBarItem36
             // 
@@ -3209,14 +2428,14 @@ namespace Simulations
             this.printPreviewBarItem36.Id = 97;
             this.printPreviewBarItem36.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_SendRtfLarge;
             this.printPreviewBarItem36.Name = "printPreviewBarItem36";
-            superToolTip36.FixedTooltipWidth = true;
-            toolTipTitleItem36.Text = "E-Mail As RTF";
-            toolTipItem36.LeftIndent = 6;
-            toolTipItem36.Text = "Export the document to RTF and attach it to the e-mail.";
-            superToolTip36.Items.Add(toolTipTitleItem36);
-            superToolTip36.Items.Add(toolTipItem36);
-            superToolTip36.MaxWidth = 210;
-            this.printPreviewBarItem36.SuperTip = superToolTip36;
+            superToolTip183.FixedTooltipWidth = true;
+            toolTipTitleItem183.Text = "E-Mail As RTF";
+            toolTipItem183.LeftIndent = 6;
+            toolTipItem183.Text = "Export the document to RTF and attach it to the e-mail.";
+            superToolTip183.Items.Add(toolTipTitleItem183);
+            superToolTip183.Items.Add(toolTipItem183);
+            superToolTip183.MaxWidth = 210;
+            this.printPreviewBarItem36.SuperTip = superToolTip183;
             // 
             // printPreviewBarItem37
             // 
@@ -3229,14 +2448,14 @@ namespace Simulations
             this.printPreviewBarItem37.Id = 98;
             this.printPreviewBarItem37.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_SendGraphicLarge;
             this.printPreviewBarItem37.Name = "printPreviewBarItem37";
-            superToolTip37.FixedTooltipWidth = true;
-            toolTipTitleItem37.Text = "E-Mail As Image";
-            toolTipItem37.LeftIndent = 6;
-            toolTipItem37.Text = "Export the document to Image and attach it to the e-mail.";
-            superToolTip37.Items.Add(toolTipTitleItem37);
-            superToolTip37.Items.Add(toolTipItem37);
-            superToolTip37.MaxWidth = 210;
-            this.printPreviewBarItem37.SuperTip = superToolTip37;
+            superToolTip184.FixedTooltipWidth = true;
+            toolTipTitleItem184.Text = "E-Mail As Image";
+            toolTipItem184.LeftIndent = 6;
+            toolTipItem184.Text = "Export the document to Image and attach it to the e-mail.";
+            superToolTip184.Items.Add(toolTipTitleItem184);
+            superToolTip184.Items.Add(toolTipItem184);
+            superToolTip184.MaxWidth = 210;
+            this.printPreviewBarItem37.SuperTip = superToolTip184;
             // 
             // printPreviewBarItem38
             // 
@@ -3249,14 +2468,14 @@ namespace Simulations
             this.printPreviewBarItem38.Id = 99;
             this.printPreviewBarItem38.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ExportPdfLarge;
             this.printPreviewBarItem38.Name = "printPreviewBarItem38";
-            superToolTip38.FixedTooltipWidth = true;
-            toolTipTitleItem38.Text = "Export to PDF";
-            toolTipItem38.LeftIndent = 6;
-            toolTipItem38.Text = "Export the document to PDF and save it to the file on a disk.";
-            superToolTip38.Items.Add(toolTipTitleItem38);
-            superToolTip38.Items.Add(toolTipItem38);
-            superToolTip38.MaxWidth = 210;
-            this.printPreviewBarItem38.SuperTip = superToolTip38;
+            superToolTip185.FixedTooltipWidth = true;
+            toolTipTitleItem185.Text = "Export to PDF";
+            toolTipItem185.LeftIndent = 6;
+            toolTipItem185.Text = "Export the document to PDF and save it to the file on a disk.";
+            superToolTip185.Items.Add(toolTipTitleItem185);
+            superToolTip185.Items.Add(toolTipItem185);
+            superToolTip185.MaxWidth = 210;
+            this.printPreviewBarItem38.SuperTip = superToolTip185;
             // 
             // printPreviewBarItem39
             // 
@@ -3269,14 +2488,14 @@ namespace Simulations
             this.printPreviewBarItem39.Id = 100;
             this.printPreviewBarItem39.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ExportHtmLarge;
             this.printPreviewBarItem39.Name = "printPreviewBarItem39";
-            superToolTip39.FixedTooltipWidth = true;
-            toolTipTitleItem39.Text = "Export to HTML";
-            toolTipItem39.LeftIndent = 6;
-            toolTipItem39.Text = "Export the document to HTML and save it to the file on a disk.";
-            superToolTip39.Items.Add(toolTipTitleItem39);
-            superToolTip39.Items.Add(toolTipItem39);
-            superToolTip39.MaxWidth = 210;
-            this.printPreviewBarItem39.SuperTip = superToolTip39;
+            superToolTip186.FixedTooltipWidth = true;
+            toolTipTitleItem186.Text = "Export to HTML";
+            toolTipItem186.LeftIndent = 6;
+            toolTipItem186.Text = "Export the document to HTML and save it to the file on a disk.";
+            superToolTip186.Items.Add(toolTipTitleItem186);
+            superToolTip186.Items.Add(toolTipItem186);
+            superToolTip186.MaxWidth = 210;
+            this.printPreviewBarItem39.SuperTip = superToolTip186;
             // 
             // printPreviewBarItem40
             // 
@@ -3289,14 +2508,14 @@ namespace Simulations
             this.printPreviewBarItem40.Id = 101;
             this.printPreviewBarItem40.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ExportTxtLarge;
             this.printPreviewBarItem40.Name = "printPreviewBarItem40";
-            superToolTip40.FixedTooltipWidth = true;
-            toolTipTitleItem40.Text = "Export to Text";
-            toolTipItem40.LeftIndent = 6;
-            toolTipItem40.Text = "Export the document to Text and save it to the file on a disk.";
-            superToolTip40.Items.Add(toolTipTitleItem40);
-            superToolTip40.Items.Add(toolTipItem40);
-            superToolTip40.MaxWidth = 210;
-            this.printPreviewBarItem40.SuperTip = superToolTip40;
+            superToolTip187.FixedTooltipWidth = true;
+            toolTipTitleItem187.Text = "Export to Text";
+            toolTipItem187.LeftIndent = 6;
+            toolTipItem187.Text = "Export the document to Text and save it to the file on a disk.";
+            superToolTip187.Items.Add(toolTipTitleItem187);
+            superToolTip187.Items.Add(toolTipItem187);
+            superToolTip187.MaxWidth = 210;
+            this.printPreviewBarItem40.SuperTip = superToolTip187;
             // 
             // printPreviewBarItem41
             // 
@@ -3309,14 +2528,14 @@ namespace Simulations
             this.printPreviewBarItem41.Id = 102;
             this.printPreviewBarItem41.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ExportCsvLarge;
             this.printPreviewBarItem41.Name = "printPreviewBarItem41";
-            superToolTip41.FixedTooltipWidth = true;
-            toolTipTitleItem41.Text = "Export to CSV";
-            toolTipItem41.LeftIndent = 6;
-            toolTipItem41.Text = "Export the document to CSV and save it to the file on a disk.";
-            superToolTip41.Items.Add(toolTipTitleItem41);
-            superToolTip41.Items.Add(toolTipItem41);
-            superToolTip41.MaxWidth = 210;
-            this.printPreviewBarItem41.SuperTip = superToolTip41;
+            superToolTip188.FixedTooltipWidth = true;
+            toolTipTitleItem188.Text = "Export to CSV";
+            toolTipItem188.LeftIndent = 6;
+            toolTipItem188.Text = "Export the document to CSV and save it to the file on a disk.";
+            superToolTip188.Items.Add(toolTipTitleItem188);
+            superToolTip188.Items.Add(toolTipItem188);
+            superToolTip188.MaxWidth = 210;
+            this.printPreviewBarItem41.SuperTip = superToolTip188;
             // 
             // printPreviewBarItem42
             // 
@@ -3329,14 +2548,14 @@ namespace Simulations
             this.printPreviewBarItem42.Id = 103;
             this.printPreviewBarItem42.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ExportMhtLarge;
             this.printPreviewBarItem42.Name = "printPreviewBarItem42";
-            superToolTip42.FixedTooltipWidth = true;
-            toolTipTitleItem42.Text = "Export to MHT";
-            toolTipItem42.LeftIndent = 6;
-            toolTipItem42.Text = "Export the document to MHT and save it to the file on a disk.";
-            superToolTip42.Items.Add(toolTipTitleItem42);
-            superToolTip42.Items.Add(toolTipItem42);
-            superToolTip42.MaxWidth = 210;
-            this.printPreviewBarItem42.SuperTip = superToolTip42;
+            superToolTip189.FixedTooltipWidth = true;
+            toolTipTitleItem189.Text = "Export to MHT";
+            toolTipItem189.LeftIndent = 6;
+            toolTipItem189.Text = "Export the document to MHT and save it to the file on a disk.";
+            superToolTip189.Items.Add(toolTipTitleItem189);
+            superToolTip189.Items.Add(toolTipItem189);
+            superToolTip189.MaxWidth = 210;
+            this.printPreviewBarItem42.SuperTip = superToolTip189;
             // 
             // printPreviewBarItem43
             // 
@@ -3349,14 +2568,14 @@ namespace Simulations
             this.printPreviewBarItem43.Id = 104;
             this.printPreviewBarItem43.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ExportXlsLarge;
             this.printPreviewBarItem43.Name = "printPreviewBarItem43";
-            superToolTip43.FixedTooltipWidth = true;
-            toolTipTitleItem43.Text = "Export to XLS";
-            toolTipItem43.LeftIndent = 6;
-            toolTipItem43.Text = "Export the document to XLS and save it to the file on a disk.";
-            superToolTip43.Items.Add(toolTipTitleItem43);
-            superToolTip43.Items.Add(toolTipItem43);
-            superToolTip43.MaxWidth = 210;
-            this.printPreviewBarItem43.SuperTip = superToolTip43;
+            superToolTip190.FixedTooltipWidth = true;
+            toolTipTitleItem190.Text = "Export to XLS";
+            toolTipItem190.LeftIndent = 6;
+            toolTipItem190.Text = "Export the document to XLS and save it to the file on a disk.";
+            superToolTip190.Items.Add(toolTipTitleItem190);
+            superToolTip190.Items.Add(toolTipItem190);
+            superToolTip190.MaxWidth = 210;
+            this.printPreviewBarItem43.SuperTip = superToolTip190;
             // 
             // printPreviewBarItem44
             // 
@@ -3369,14 +2588,14 @@ namespace Simulations
             this.printPreviewBarItem44.Id = 105;
             this.printPreviewBarItem44.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ExportXlsxLarge;
             this.printPreviewBarItem44.Name = "printPreviewBarItem44";
-            superToolTip44.FixedTooltipWidth = true;
-            toolTipTitleItem44.Text = "Export to XLSX";
-            toolTipItem44.LeftIndent = 6;
-            toolTipItem44.Text = "Export the document to XLSX and save it to the file on a disk.";
-            superToolTip44.Items.Add(toolTipTitleItem44);
-            superToolTip44.Items.Add(toolTipItem44);
-            superToolTip44.MaxWidth = 210;
-            this.printPreviewBarItem44.SuperTip = superToolTip44;
+            superToolTip191.FixedTooltipWidth = true;
+            toolTipTitleItem191.Text = "Export to XLSX";
+            toolTipItem191.LeftIndent = 6;
+            toolTipItem191.Text = "Export the document to XLSX and save it to the file on a disk.";
+            superToolTip191.Items.Add(toolTipTitleItem191);
+            superToolTip191.Items.Add(toolTipItem191);
+            superToolTip191.MaxWidth = 210;
+            this.printPreviewBarItem44.SuperTip = superToolTip191;
             // 
             // printPreviewBarItem45
             // 
@@ -3389,14 +2608,14 @@ namespace Simulations
             this.printPreviewBarItem45.Id = 106;
             this.printPreviewBarItem45.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ExportRtfLarge;
             this.printPreviewBarItem45.Name = "printPreviewBarItem45";
-            superToolTip45.FixedTooltipWidth = true;
-            toolTipTitleItem45.Text = "Export to RTF";
-            toolTipItem45.LeftIndent = 6;
-            toolTipItem45.Text = "Export the document to RTF and save it to the file on a disk.";
-            superToolTip45.Items.Add(toolTipTitleItem45);
-            superToolTip45.Items.Add(toolTipItem45);
-            superToolTip45.MaxWidth = 210;
-            this.printPreviewBarItem45.SuperTip = superToolTip45;
+            superToolTip192.FixedTooltipWidth = true;
+            toolTipTitleItem192.Text = "Export to RTF";
+            toolTipItem192.LeftIndent = 6;
+            toolTipItem192.Text = "Export the document to RTF and save it to the file on a disk.";
+            superToolTip192.Items.Add(toolTipTitleItem192);
+            superToolTip192.Items.Add(toolTipItem192);
+            superToolTip192.MaxWidth = 210;
+            this.printPreviewBarItem45.SuperTip = superToolTip192;
             // 
             // printPreviewBarItem46
             // 
@@ -3409,14 +2628,14 @@ namespace Simulations
             this.printPreviewBarItem46.Id = 107;
             this.printPreviewBarItem46.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ExportGraphicLarge;
             this.printPreviewBarItem46.Name = "printPreviewBarItem46";
-            superToolTip46.FixedTooltipWidth = true;
-            toolTipTitleItem46.Text = "Export to Image";
-            toolTipItem46.LeftIndent = 6;
-            toolTipItem46.Text = "Export the document to Image and save it to the file on a disk.";
-            superToolTip46.Items.Add(toolTipTitleItem46);
-            superToolTip46.Items.Add(toolTipItem46);
-            superToolTip46.MaxWidth = 210;
-            this.printPreviewBarItem46.SuperTip = superToolTip46;
+            superToolTip193.FixedTooltipWidth = true;
+            toolTipTitleItem193.Text = "Export to Image";
+            toolTipItem193.LeftIndent = 6;
+            toolTipItem193.Text = "Export the document to Image and save it to the file on a disk.";
+            superToolTip193.Items.Add(toolTipTitleItem193);
+            superToolTip193.Items.Add(toolTipItem193);
+            superToolTip193.MaxWidth = 210;
+            this.printPreviewBarItem46.SuperTip = superToolTip193;
             // 
             // printPreviewBarItem47
             // 
@@ -3427,14 +2646,14 @@ namespace Simulations
             this.printPreviewBarItem47.Id = 108;
             this.printPreviewBarItem47.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_OpenLarge;
             this.printPreviewBarItem47.Name = "printPreviewBarItem47";
-            superToolTip47.FixedTooltipWidth = true;
-            toolTipTitleItem47.Text = "Open (Ctrl + O)";
-            toolTipItem47.LeftIndent = 6;
-            toolTipItem47.Text = "Open a document.";
-            superToolTip47.Items.Add(toolTipTitleItem47);
-            superToolTip47.Items.Add(toolTipItem47);
-            superToolTip47.MaxWidth = 210;
-            this.printPreviewBarItem47.SuperTip = superToolTip47;
+            superToolTip194.FixedTooltipWidth = true;
+            toolTipTitleItem194.Text = "Open (Ctrl + O)";
+            toolTipItem194.LeftIndent = 6;
+            toolTipItem194.Text = "Open a document.";
+            superToolTip194.Items.Add(toolTipTitleItem194);
+            superToolTip194.Items.Add(toolTipItem194);
+            superToolTip194.MaxWidth = 210;
+            this.printPreviewBarItem47.SuperTip = superToolTip194;
             // 
             // printPreviewBarItem48
             // 
@@ -3446,32 +2665,40 @@ namespace Simulations
             this.printPreviewBarItem48.Id = 109;
             this.printPreviewBarItem48.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_SaveLarge;
             this.printPreviewBarItem48.Name = "printPreviewBarItem48";
-            superToolTip48.FixedTooltipWidth = true;
-            toolTipTitleItem48.Text = "Save (Ctrl + S)";
-            toolTipItem48.LeftIndent = 6;
-            toolTipItem48.Text = "Save the document.";
-            superToolTip48.Items.Add(toolTipTitleItem48);
-            superToolTip48.Items.Add(toolTipItem48);
-            superToolTip48.MaxWidth = 210;
-            this.printPreviewBarItem48.SuperTip = superToolTip48;
+            superToolTip195.FixedTooltipWidth = true;
+            toolTipTitleItem195.Text = "Save (Ctrl + S)";
+            toolTipItem195.LeftIndent = 6;
+            toolTipItem195.Text = "Save the document.";
+            superToolTip195.Items.Add(toolTipTitleItem195);
+            superToolTip195.Items.Add(toolTipItem195);
+            superToolTip195.MaxWidth = 210;
+            this.printPreviewBarItem48.SuperTip = superToolTip195;
             // 
             // pasteItem1
             // 
+            this.pasteItem1.Caption = "Paste";
+            this.pasteItem1.Enabled = false;
             this.pasteItem1.Id = 363;
             this.pasteItem1.Name = "pasteItem1";
             // 
             // cutItem1
             // 
+            this.cutItem1.Caption = "Cut";
+            this.cutItem1.Enabled = false;
             this.cutItem1.Id = 364;
             this.cutItem1.Name = "cutItem1";
             // 
             // copyItem1
             // 
+            this.copyItem1.Caption = "Copy";
+            this.copyItem1.Enabled = false;
             this.copyItem1.Id = 365;
             this.copyItem1.Name = "copyItem1";
             // 
             // pasteSpecialItem1
             // 
+            this.pasteSpecialItem1.Caption = "Paste Special";
+            this.pasteSpecialItem1.Enabled = false;
             this.pasteSpecialItem1.Id = 366;
             this.pasteSpecialItem1.Name = "pasteSpecialItem1";
             // 
@@ -3492,6 +2719,7 @@ namespace Simulations
             // changeFontNameItem1
             // 
             this.changeFontNameItem1.Edit = this.repositoryItemFontEdit1;
+            this.changeFontNameItem1.Enabled = false;
             this.changeFontNameItem1.Id = 367;
             this.changeFontNameItem1.Name = "changeFontNameItem1";
             // 
@@ -3505,6 +2733,7 @@ namespace Simulations
             // changeFontSizeItem1
             // 
             this.changeFontSizeItem1.Edit = this.repositoryItemRichEditFontSizeEdit1;
+            this.changeFontSizeItem1.Enabled = false;
             this.changeFontSizeItem1.Id = 368;
             this.changeFontSizeItem1.Name = "changeFontSizeItem1";
             // 
@@ -3513,16 +2742,20 @@ namespace Simulations
             this.repositoryItemRichEditFontSizeEdit1.AutoHeight = false;
             this.repositoryItemRichEditFontSizeEdit1.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.repositoryItemRichEditFontSizeEdit1.Control = this.richEditControl1;
+            this.repositoryItemRichEditFontSizeEdit1.Control = null;
             this.repositoryItemRichEditFontSizeEdit1.Name = "repositoryItemRichEditFontSizeEdit1";
             // 
             // fontSizeIncreaseItem1
             // 
+            this.fontSizeIncreaseItem1.Caption = "Grow Font";
+            this.fontSizeIncreaseItem1.Enabled = false;
             this.fontSizeIncreaseItem1.Id = 369;
             this.fontSizeIncreaseItem1.Name = "fontSizeIncreaseItem1";
             // 
             // fontSizeDecreaseItem1
             // 
+            this.fontSizeDecreaseItem1.Caption = "Shrink Font";
+            this.fontSizeDecreaseItem1.Enabled = false;
             this.fontSizeDecreaseItem1.Id = 370;
             this.fontSizeDecreaseItem1.Name = "fontSizeDecreaseItem1";
             // 
@@ -3550,41 +2783,57 @@ namespace Simulations
             // 
             // toggleFontBoldItem1
             // 
+            this.toggleFontBoldItem1.Caption = "Bold";
+            this.toggleFontBoldItem1.Enabled = false;
             this.toggleFontBoldItem1.Id = 371;
             this.toggleFontBoldItem1.Name = "toggleFontBoldItem1";
             // 
             // toggleFontItalicItem1
             // 
+            this.toggleFontItalicItem1.Caption = "Italic";
+            this.toggleFontItalicItem1.Enabled = false;
             this.toggleFontItalicItem1.Id = 372;
             this.toggleFontItalicItem1.Name = "toggleFontItalicItem1";
             // 
             // toggleFontUnderlineItem1
             // 
+            this.toggleFontUnderlineItem1.Caption = "Underline";
+            this.toggleFontUnderlineItem1.Enabled = false;
             this.toggleFontUnderlineItem1.Id = 373;
             this.toggleFontUnderlineItem1.Name = "toggleFontUnderlineItem1";
             // 
             // toggleFontDoubleUnderlineItem1
             // 
+            this.toggleFontDoubleUnderlineItem1.Caption = "Double Underline";
+            this.toggleFontDoubleUnderlineItem1.Enabled = false;
             this.toggleFontDoubleUnderlineItem1.Id = 374;
             this.toggleFontDoubleUnderlineItem1.Name = "toggleFontDoubleUnderlineItem1";
             // 
             // toggleFontStrikeoutItem1
             // 
+            this.toggleFontStrikeoutItem1.Caption = "Strikethrough";
+            this.toggleFontStrikeoutItem1.Enabled = false;
             this.toggleFontStrikeoutItem1.Id = 375;
             this.toggleFontStrikeoutItem1.Name = "toggleFontStrikeoutItem1";
             // 
             // toggleFontDoubleStrikeoutItem1
             // 
+            this.toggleFontDoubleStrikeoutItem1.Caption = "Double Strikethrough";
+            this.toggleFontDoubleStrikeoutItem1.Enabled = false;
             this.toggleFontDoubleStrikeoutItem1.Id = 376;
             this.toggleFontDoubleStrikeoutItem1.Name = "toggleFontDoubleStrikeoutItem1";
             // 
             // toggleFontSuperscriptItem1
             // 
+            this.toggleFontSuperscriptItem1.Caption = "Superscript";
+            this.toggleFontSuperscriptItem1.Enabled = false;
             this.toggleFontSuperscriptItem1.Id = 377;
             this.toggleFontSuperscriptItem1.Name = "toggleFontSuperscriptItem1";
             // 
             // toggleFontSubscriptItem1
             // 
+            this.toggleFontSubscriptItem1.Caption = "Subscript";
+            this.toggleFontSubscriptItem1.Enabled = false;
             this.toggleFontSubscriptItem1.Id = 378;
             this.toggleFontSubscriptItem1.Name = "toggleFontSubscriptItem1";
             // 
@@ -3600,16 +2849,22 @@ namespace Simulations
             // 
             // changeFontColorItem1
             // 
+            this.changeFontColorItem1.Caption = "Font Color";
+            this.changeFontColorItem1.Enabled = false;
             this.changeFontColorItem1.Id = 379;
             this.changeFontColorItem1.Name = "changeFontColorItem1";
             // 
             // changeFontBackColorItem1
             // 
+            this.changeFontBackColorItem1.Caption = "Text Highlight Color";
+            this.changeFontBackColorItem1.Enabled = false;
             this.changeFontBackColorItem1.Id = 380;
             this.changeFontBackColorItem1.Name = "changeFontBackColorItem1";
             // 
             // changeTextCaseItem1
             // 
+            this.changeTextCaseItem1.Caption = "Change Case";
+            this.changeTextCaseItem1.Enabled = false;
             this.changeTextCaseItem1.Id = 381;
             this.changeTextCaseItem1.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
             new DevExpress.XtraBars.LinkPersistInfo(this.makeTextUpperCaseItem1),
@@ -3620,26 +2875,36 @@ namespace Simulations
             // 
             // makeTextUpperCaseItem1
             // 
+            this.makeTextUpperCaseItem1.Caption = "UPPERCASE";
+            this.makeTextUpperCaseItem1.Enabled = false;
             this.makeTextUpperCaseItem1.Id = 382;
             this.makeTextUpperCaseItem1.Name = "makeTextUpperCaseItem1";
             // 
             // makeTextLowerCaseItem1
             // 
+            this.makeTextLowerCaseItem1.Caption = "lowercase";
+            this.makeTextLowerCaseItem1.Enabled = false;
             this.makeTextLowerCaseItem1.Id = 383;
             this.makeTextLowerCaseItem1.Name = "makeTextLowerCaseItem1";
             // 
             // capitalizeEachWordCaseItem1
             // 
+            this.capitalizeEachWordCaseItem1.Caption = "Capitalize Each Word";
+            this.capitalizeEachWordCaseItem1.Enabled = false;
             this.capitalizeEachWordCaseItem1.Id = 384;
             this.capitalizeEachWordCaseItem1.Name = "capitalizeEachWordCaseItem1";
             // 
             // toggleTextCaseItem1
             // 
+            this.toggleTextCaseItem1.Caption = "tOGGLE cASE";
+            this.toggleTextCaseItem1.Enabled = false;
             this.toggleTextCaseItem1.Id = 385;
             this.toggleTextCaseItem1.Name = "toggleTextCaseItem1";
             // 
             // clearFormattingItem1
             // 
+            this.clearFormattingItem1.Caption = "Clear Formatting";
+            this.clearFormattingItem1.Enabled = false;
             this.clearFormattingItem1.Id = 386;
             this.clearFormattingItem1.Name = "clearFormattingItem1";
             // 
@@ -3657,16 +2922,22 @@ namespace Simulations
             // 
             // toggleBulletedListItem1
             // 
+            this.toggleBulletedListItem1.Caption = "Bullets";
+            this.toggleBulletedListItem1.Enabled = false;
             this.toggleBulletedListItem1.Id = 387;
             this.toggleBulletedListItem1.Name = "toggleBulletedListItem1";
             // 
             // toggleNumberingListItem1
             // 
+            this.toggleNumberingListItem1.Caption = "Numbering";
+            this.toggleNumberingListItem1.Enabled = false;
             this.toggleNumberingListItem1.Id = 388;
             this.toggleNumberingListItem1.Name = "toggleNumberingListItem1";
             // 
             // toggleMultiLevelListItem1
             // 
+            this.toggleMultiLevelListItem1.Caption = "Multilevel list";
+            this.toggleMultiLevelListItem1.Enabled = false;
             this.toggleMultiLevelListItem1.Id = 389;
             this.toggleMultiLevelListItem1.Name = "toggleMultiLevelListItem1";
             // 
@@ -3684,16 +2955,22 @@ namespace Simulations
             // 
             // decreaseIndentItem1
             // 
+            this.decreaseIndentItem1.Caption = "Decrease Indent";
+            this.decreaseIndentItem1.Enabled = false;
             this.decreaseIndentItem1.Id = 390;
             this.decreaseIndentItem1.Name = "decreaseIndentItem1";
             // 
             // increaseIndentItem1
             // 
+            this.increaseIndentItem1.Caption = "Increase Indent";
+            this.increaseIndentItem1.Enabled = false;
             this.increaseIndentItem1.Id = 391;
             this.increaseIndentItem1.Name = "increaseIndentItem1";
             // 
             // toggleShowWhitespaceItem1
             // 
+            this.toggleShowWhitespaceItem1.Caption = "Show/Hide ¶";
+            this.toggleShowWhitespaceItem1.Enabled = false;
             this.toggleShowWhitespaceItem1.Id = 396;
             this.toggleShowWhitespaceItem1.Name = "toggleShowWhitespaceItem1";
             // 
@@ -3713,21 +2990,29 @@ namespace Simulations
             // 
             // toggleParagraphAlignmentLeftItem1
             // 
+            this.toggleParagraphAlignmentLeftItem1.Caption = "Align Text Left";
+            this.toggleParagraphAlignmentLeftItem1.Enabled = false;
             this.toggleParagraphAlignmentLeftItem1.Id = 392;
             this.toggleParagraphAlignmentLeftItem1.Name = "toggleParagraphAlignmentLeftItem1";
             // 
             // toggleParagraphAlignmentCenterItem1
             // 
+            this.toggleParagraphAlignmentCenterItem1.Caption = "Center";
+            this.toggleParagraphAlignmentCenterItem1.Enabled = false;
             this.toggleParagraphAlignmentCenterItem1.Id = 393;
             this.toggleParagraphAlignmentCenterItem1.Name = "toggleParagraphAlignmentCenterItem1";
             // 
             // toggleParagraphAlignmentRightItem1
             // 
+            this.toggleParagraphAlignmentRightItem1.Caption = "Align Text Right";
+            this.toggleParagraphAlignmentRightItem1.Enabled = false;
             this.toggleParagraphAlignmentRightItem1.Id = 394;
             this.toggleParagraphAlignmentRightItem1.Name = "toggleParagraphAlignmentRightItem1";
             // 
             // toggleParagraphAlignmentJustifyItem1
             // 
+            this.toggleParagraphAlignmentJustifyItem1.Caption = "Justify";
+            this.toggleParagraphAlignmentJustifyItem1.Enabled = false;
             this.toggleParagraphAlignmentJustifyItem1.Id = 395;
             this.toggleParagraphAlignmentJustifyItem1.Name = "toggleParagraphAlignmentJustifyItem1";
             // 
@@ -3743,6 +3028,8 @@ namespace Simulations
             // 
             // changeParagraphLineSpacingItem1
             // 
+            this.changeParagraphLineSpacingItem1.Caption = "Line Spacing";
+            this.changeParagraphLineSpacingItem1.Enabled = false;
             this.changeParagraphLineSpacingItem1.Id = 397;
             this.changeParagraphLineSpacingItem1.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
             new DevExpress.XtraBars.LinkPersistInfo(this.setSingleParagraphSpacingItem1),
@@ -3757,167 +3044,227 @@ namespace Simulations
             // 
             // setSingleParagraphSpacingItem1
             // 
+            this.setSingleParagraphSpacingItem1.Caption = "1.0";
+            this.setSingleParagraphSpacingItem1.Enabled = false;
             this.setSingleParagraphSpacingItem1.Id = 398;
             this.setSingleParagraphSpacingItem1.Name = "setSingleParagraphSpacingItem1";
             // 
             // setSesquialteralParagraphSpacingItem1
             // 
+            this.setSesquialteralParagraphSpacingItem1.Caption = "1.5";
+            this.setSesquialteralParagraphSpacingItem1.Enabled = false;
             this.setSesquialteralParagraphSpacingItem1.Id = 399;
             this.setSesquialteralParagraphSpacingItem1.Name = "setSesquialteralParagraphSpacingItem1";
             // 
             // setDoubleParagraphSpacingItem1
             // 
+            this.setDoubleParagraphSpacingItem1.Caption = "2.0";
+            this.setDoubleParagraphSpacingItem1.Enabled = false;
             this.setDoubleParagraphSpacingItem1.Id = 400;
             this.setDoubleParagraphSpacingItem1.Name = "setDoubleParagraphSpacingItem1";
             // 
             // showLineSpacingFormItem1
             // 
+            this.showLineSpacingFormItem1.Caption = "Line Spacing Options...";
+            this.showLineSpacingFormItem1.Enabled = false;
             this.showLineSpacingFormItem1.Id = 401;
             this.showLineSpacingFormItem1.Name = "showLineSpacingFormItem1";
             // 
             // addSpacingBeforeParagraphItem1
             // 
+            this.addSpacingBeforeParagraphItem1.Caption = "Add Space &Before Paragraph";
+            this.addSpacingBeforeParagraphItem1.Enabled = false;
             this.addSpacingBeforeParagraphItem1.Id = 402;
             this.addSpacingBeforeParagraphItem1.Name = "addSpacingBeforeParagraphItem1";
             // 
             // removeSpacingBeforeParagraphItem1
             // 
+            this.removeSpacingBeforeParagraphItem1.Caption = "Remove Space &Before Paragraph";
+            this.removeSpacingBeforeParagraphItem1.Enabled = false;
             this.removeSpacingBeforeParagraphItem1.Id = 403;
             this.removeSpacingBeforeParagraphItem1.Name = "removeSpacingBeforeParagraphItem1";
             // 
             // addSpacingAfterParagraphItem1
             // 
+            this.addSpacingAfterParagraphItem1.Caption = "Add Space &After Paragraph";
+            this.addSpacingAfterParagraphItem1.Enabled = false;
             this.addSpacingAfterParagraphItem1.Id = 404;
             this.addSpacingAfterParagraphItem1.Name = "addSpacingAfterParagraphItem1";
             // 
             // removeSpacingAfterParagraphItem1
             // 
+            this.removeSpacingAfterParagraphItem1.Caption = "Remove Space &After Paragraph";
+            this.removeSpacingAfterParagraphItem1.Enabled = false;
             this.removeSpacingAfterParagraphItem1.Id = 405;
             this.removeSpacingAfterParagraphItem1.Name = "removeSpacingAfterParagraphItem1";
             // 
             // changeParagraphBackColorItem1
             // 
+            this.changeParagraphBackColorItem1.Caption = "Shading";
+            this.changeParagraphBackColorItem1.Enabled = false;
             this.changeParagraphBackColorItem1.Id = 406;
             this.changeParagraphBackColorItem1.Name = "changeParagraphBackColorItem1";
             // 
             // findItem1
             // 
+            this.findItem1.Caption = "Find";
+            this.findItem1.Enabled = false;
             this.findItem1.Id = 408;
             this.findItem1.Name = "findItem1";
             // 
             // replaceItem1
             // 
+            this.replaceItem1.Caption = "Replace";
+            this.replaceItem1.Enabled = false;
             this.replaceItem1.Id = 409;
             this.replaceItem1.Name = "replaceItem1";
             // 
             // insertPageBreakItem21
             // 
+            this.insertPageBreakItem21.Caption = "Page Break";
+            this.insertPageBreakItem21.Enabled = false;
             this.insertPageBreakItem21.Id = 410;
             this.insertPageBreakItem21.Name = "insertPageBreakItem21";
             // 
             // insertTableItem1
             // 
+            this.insertTableItem1.Caption = "Table";
+            this.insertTableItem1.Enabled = false;
             this.insertTableItem1.Id = 411;
             this.insertTableItem1.Name = "insertTableItem1";
             // 
             // insertPictureItem1
             // 
+            this.insertPictureItem1.Caption = "Inline Picture";
+            this.insertPictureItem1.Enabled = false;
             this.insertPictureItem1.Id = 412;
             this.insertPictureItem1.Name = "insertPictureItem1";
             // 
             // insertFloatingPictureItem1
             // 
+            this.insertFloatingPictureItem1.Caption = "Picture";
+            this.insertFloatingPictureItem1.Enabled = false;
             this.insertFloatingPictureItem1.Id = 413;
             this.insertFloatingPictureItem1.Name = "insertFloatingPictureItem1";
             // 
             // insertBookmarkItem1
             // 
+            this.insertBookmarkItem1.Caption = "Bookmark";
+            this.insertBookmarkItem1.Enabled = false;
             this.insertBookmarkItem1.Id = 414;
             this.insertBookmarkItem1.Name = "insertBookmarkItem1";
             // 
             // insertHyperlinkItem1
             // 
+            this.insertHyperlinkItem1.Caption = "Hyperlink";
+            this.insertHyperlinkItem1.Enabled = false;
             this.insertHyperlinkItem1.Id = 415;
             this.insertHyperlinkItem1.Name = "insertHyperlinkItem1";
             // 
             // editPageHeaderItem1
             // 
+            this.editPageHeaderItem1.Caption = "Header";
+            this.editPageHeaderItem1.Enabled = false;
             this.editPageHeaderItem1.Id = 416;
             this.editPageHeaderItem1.Name = "editPageHeaderItem1";
             // 
             // editPageFooterItem1
             // 
+            this.editPageFooterItem1.Caption = "Footer";
+            this.editPageFooterItem1.Enabled = false;
             this.editPageFooterItem1.Id = 417;
             this.editPageFooterItem1.Name = "editPageFooterItem1";
             // 
             // insertPageNumberItem1
             // 
+            this.insertPageNumberItem1.Caption = "Page Number";
+            this.insertPageNumberItem1.Enabled = false;
             this.insertPageNumberItem1.Id = 418;
             this.insertPageNumberItem1.Name = "insertPageNumberItem1";
             // 
             // insertPageCountItem1
             // 
+            this.insertPageCountItem1.Caption = "Page Count";
+            this.insertPageCountItem1.Enabled = false;
             this.insertPageCountItem1.Id = 419;
             this.insertPageCountItem1.Name = "insertPageCountItem1";
             // 
             // insertTextBoxItem1
             // 
+            this.insertTextBoxItem1.Caption = "Text Box";
+            this.insertTextBoxItem1.Enabled = false;
             this.insertTextBoxItem1.Id = 420;
             this.insertTextBoxItem1.Name = "insertTextBoxItem1";
             // 
             // insertSymbolItem1
             // 
+            this.insertSymbolItem1.Caption = "Symbol";
+            this.insertSymbolItem1.Enabled = false;
             this.insertSymbolItem1.Id = 421;
             this.insertSymbolItem1.Name = "insertSymbolItem1";
             // 
             // toggleFirstRowItem1
             // 
+            this.toggleFirstRowItem1.Caption = "Header Row";
             this.toggleFirstRowItem1.CheckBoxVisibility = DevExpress.XtraBars.CheckBoxVisibility.BeforeText;
+            this.toggleFirstRowItem1.Enabled = false;
             this.toggleFirstRowItem1.Id = 422;
             this.toggleFirstRowItem1.Name = "toggleFirstRowItem1";
             // 
             // toggleLastRowItem1
             // 
+            this.toggleLastRowItem1.Caption = "Total Row";
             this.toggleLastRowItem1.CheckBoxVisibility = DevExpress.XtraBars.CheckBoxVisibility.BeforeText;
+            this.toggleLastRowItem1.Enabled = false;
             this.toggleLastRowItem1.Id = 423;
             this.toggleLastRowItem1.Name = "toggleLastRowItem1";
             // 
             // toggleBandedRowsItem1
             // 
+            this.toggleBandedRowsItem1.Caption = "Banded Rows";
             this.toggleBandedRowsItem1.CheckBoxVisibility = DevExpress.XtraBars.CheckBoxVisibility.BeforeText;
+            this.toggleBandedRowsItem1.Enabled = false;
             this.toggleBandedRowsItem1.Id = 424;
             this.toggleBandedRowsItem1.Name = "toggleBandedRowsItem1";
             // 
             // toggleFirstColumnItem1
             // 
+            this.toggleFirstColumnItem1.Caption = "First Column";
             this.toggleFirstColumnItem1.CheckBoxVisibility = DevExpress.XtraBars.CheckBoxVisibility.BeforeText;
+            this.toggleFirstColumnItem1.Enabled = false;
             this.toggleFirstColumnItem1.Id = 425;
             this.toggleFirstColumnItem1.Name = "toggleFirstColumnItem1";
             // 
             // toggleLastColumnItem1
             // 
+            this.toggleLastColumnItem1.Caption = "Last Column";
             this.toggleLastColumnItem1.CheckBoxVisibility = DevExpress.XtraBars.CheckBoxVisibility.BeforeText;
+            this.toggleLastColumnItem1.Enabled = false;
             this.toggleLastColumnItem1.Id = 426;
             this.toggleLastColumnItem1.Name = "toggleLastColumnItem1";
             // 
             // toggleBandedColumnsItem1
             // 
+            this.toggleBandedColumnsItem1.Caption = "Banded Columns";
             this.toggleBandedColumnsItem1.CheckBoxVisibility = DevExpress.XtraBars.CheckBoxVisibility.BeforeText;
+            this.toggleBandedColumnsItem1.Enabled = false;
             this.toggleBandedColumnsItem1.Id = 427;
             this.toggleBandedColumnsItem1.Name = "toggleBandedColumnsItem1";
             // 
             // galleryChangeTableStyleItem1
             // 
+            this.galleryChangeTableStyleItem1.Caption = "Quick Styles";
             this.galleryChangeTableStyleItem1.CurrentItem = null;
             this.galleryChangeTableStyleItem1.CurrentItemStyle = null;
             this.galleryChangeTableStyleItem1.CurrentStyle = null;
             this.galleryChangeTableStyleItem1.DeleteItemLink = null;
+            this.galleryChangeTableStyleItem1.Enabled = false;
             // 
             // 
             // 
             this.galleryChangeTableStyleItem1.Gallery.ColumnCount = 3;
             this.galleryChangeTableStyleItem1.Gallery.Groups.AddRange(new DevExpress.XtraBars.Ribbon.GalleryItemGroup[] {
-            galleryItemGroup2});
+            galleryItemGroup8});
             this.galleryChangeTableStyleItem1.Gallery.ImageSize = new System.Drawing.Size(65, 46);
             this.galleryChangeTableStyleItem1.Id = 428;
             this.galleryChangeTableStyleItem1.ModifyItemLink = null;
@@ -3928,14 +3275,8 @@ namespace Simulations
             // changeTableBorderLineStyleItem1
             // 
             this.changeTableBorderLineStyleItem1.Edit = this.repositoryItemBorderLineStyle1;
-            borderInfo1.Color = System.Drawing.Color.Black;
-            borderInfo1.Frame = false;
-            borderInfo1.Offset = 0;
-            borderInfo1.Shadow = false;
-            borderInfo1.Style = DevExpress.XtraRichEdit.Model.BorderLineStyle.Single;
-            borderInfo1.Width = 10;
-            this.changeTableBorderLineStyleItem1.EditValue = borderInfo1;
             this.changeTableBorderLineStyleItem1.EditWidth = 130;
+            this.changeTableBorderLineStyleItem1.Enabled = false;
             this.changeTableBorderLineStyleItem1.Id = 429;
             this.changeTableBorderLineStyleItem1.Name = "changeTableBorderLineStyleItem1";
             // 
@@ -3944,14 +3285,14 @@ namespace Simulations
             this.repositoryItemBorderLineStyle1.AutoHeight = false;
             this.repositoryItemBorderLineStyle1.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.repositoryItemBorderLineStyle1.Control = this.richEditControl1;
+            this.repositoryItemBorderLineStyle1.Control = null;
             this.repositoryItemBorderLineStyle1.Name = "repositoryItemBorderLineStyle1";
             // 
             // changeTableBorderLineWeightItem1
             // 
             this.changeTableBorderLineWeightItem1.Edit = this.repositoryItemBorderLineWeight1;
-            this.changeTableBorderLineWeightItem1.EditValue = 20;
             this.changeTableBorderLineWeightItem1.EditWidth = 130;
+            this.changeTableBorderLineWeightItem1.Enabled = false;
             this.changeTableBorderLineWeightItem1.Id = 430;
             this.changeTableBorderLineWeightItem1.Name = "changeTableBorderLineWeightItem1";
             // 
@@ -3960,16 +3301,20 @@ namespace Simulations
             this.repositoryItemBorderLineWeight1.AutoHeight = false;
             this.repositoryItemBorderLineWeight1.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.repositoryItemBorderLineWeight1.Control = this.richEditControl1;
+            this.repositoryItemBorderLineWeight1.Control = null;
             this.repositoryItemBorderLineWeight1.Name = "repositoryItemBorderLineWeight1";
             // 
             // changeTableBorderColorItem1
             // 
+            this.changeTableBorderColorItem1.Caption = "Pen Color";
+            this.changeTableBorderColorItem1.Enabled = false;
             this.changeTableBorderColorItem1.Id = 431;
             this.changeTableBorderColorItem1.Name = "changeTableBorderColorItem1";
             // 
             // changeTableBordersItem1
             // 
+            this.changeTableBordersItem1.Caption = "Borders";
+            this.changeTableBordersItem1.Enabled = false;
             this.changeTableBordersItem1.Id = 432;
             this.changeTableBordersItem1.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
             new DevExpress.XtraBars.LinkPersistInfo(this.toggleTableCellsBottomBorderItem1),
@@ -3987,66 +3332,92 @@ namespace Simulations
             // 
             // toggleTableCellsBottomBorderItem1
             // 
+            this.toggleTableCellsBottomBorderItem1.Caption = "&Bottom Border";
+            this.toggleTableCellsBottomBorderItem1.Enabled = false;
             this.toggleTableCellsBottomBorderItem1.Id = 433;
             this.toggleTableCellsBottomBorderItem1.Name = "toggleTableCellsBottomBorderItem1";
             // 
             // toggleTableCellsTopBorderItem1
             // 
+            this.toggleTableCellsTopBorderItem1.Caption = "To&p Border";
+            this.toggleTableCellsTopBorderItem1.Enabled = false;
             this.toggleTableCellsTopBorderItem1.Id = 434;
             this.toggleTableCellsTopBorderItem1.Name = "toggleTableCellsTopBorderItem1";
             // 
             // toggleTableCellsLeftBorderItem1
             // 
+            this.toggleTableCellsLeftBorderItem1.Caption = "&Left Border";
+            this.toggleTableCellsLeftBorderItem1.Enabled = false;
             this.toggleTableCellsLeftBorderItem1.Id = 435;
             this.toggleTableCellsLeftBorderItem1.Name = "toggleTableCellsLeftBorderItem1";
             // 
             // toggleTableCellsRightBorderItem1
             // 
+            this.toggleTableCellsRightBorderItem1.Caption = "&Right Border";
+            this.toggleTableCellsRightBorderItem1.Enabled = false;
             this.toggleTableCellsRightBorderItem1.Id = 436;
             this.toggleTableCellsRightBorderItem1.Name = "toggleTableCellsRightBorderItem1";
             // 
             // resetTableCellsAllBordersItem1
             // 
+            this.resetTableCellsAllBordersItem1.Caption = "&No Border";
+            this.resetTableCellsAllBordersItem1.Enabled = false;
             this.resetTableCellsAllBordersItem1.Id = 437;
             this.resetTableCellsAllBordersItem1.Name = "resetTableCellsAllBordersItem1";
             // 
             // toggleTableCellsAllBordersItem1
             // 
+            this.toggleTableCellsAllBordersItem1.Caption = "&All Borders";
+            this.toggleTableCellsAllBordersItem1.Enabled = false;
             this.toggleTableCellsAllBordersItem1.Id = 438;
             this.toggleTableCellsAllBordersItem1.Name = "toggleTableCellsAllBordersItem1";
             // 
             // toggleTableCellsOutsideBorderItem1
             // 
+            this.toggleTableCellsOutsideBorderItem1.Caption = "Out&side Borders";
+            this.toggleTableCellsOutsideBorderItem1.Enabled = false;
             this.toggleTableCellsOutsideBorderItem1.Id = 439;
             this.toggleTableCellsOutsideBorderItem1.Name = "toggleTableCellsOutsideBorderItem1";
             // 
             // toggleTableCellsInsideBorderItem1
             // 
+            this.toggleTableCellsInsideBorderItem1.Caption = "&Inside Borders";
+            this.toggleTableCellsInsideBorderItem1.Enabled = false;
             this.toggleTableCellsInsideBorderItem1.Id = 440;
             this.toggleTableCellsInsideBorderItem1.Name = "toggleTableCellsInsideBorderItem1";
             // 
             // toggleTableCellsInsideHorizontalBorderItem1
             // 
+            this.toggleTableCellsInsideHorizontalBorderItem1.Caption = "Inside &Horizontal Border";
+            this.toggleTableCellsInsideHorizontalBorderItem1.Enabled = false;
             this.toggleTableCellsInsideHorizontalBorderItem1.Id = 441;
             this.toggleTableCellsInsideHorizontalBorderItem1.Name = "toggleTableCellsInsideHorizontalBorderItem1";
             // 
             // toggleTableCellsInsideVerticalBorderItem1
             // 
+            this.toggleTableCellsInsideVerticalBorderItem1.Caption = "Inside &Vertical Border";
+            this.toggleTableCellsInsideVerticalBorderItem1.Enabled = false;
             this.toggleTableCellsInsideVerticalBorderItem1.Id = 442;
             this.toggleTableCellsInsideVerticalBorderItem1.Name = "toggleTableCellsInsideVerticalBorderItem1";
             // 
             // toggleShowTableGridLinesItem1
             // 
+            this.toggleShowTableGridLinesItem1.Caption = "View &Gridlines";
+            this.toggleShowTableGridLinesItem1.Enabled = false;
             this.toggleShowTableGridLinesItem1.Id = 443;
             this.toggleShowTableGridLinesItem1.Name = "toggleShowTableGridLinesItem1";
             // 
             // changeTableCellsShadingItem1
             // 
+            this.changeTableCellsShadingItem1.Caption = "Shading";
+            this.changeTableCellsShadingItem1.Enabled = false;
             this.changeTableCellsShadingItem1.Id = 444;
             this.changeTableCellsShadingItem1.Name = "changeTableCellsShadingItem1";
             // 
             // selectTableElementsItem1
             // 
+            this.selectTableElementsItem1.Caption = "Select";
+            this.selectTableElementsItem1.Enabled = false;
             this.selectTableElementsItem1.Id = 445;
             this.selectTableElementsItem1.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
             new DevExpress.XtraBars.LinkPersistInfo(this.selectTableCellItem1),
@@ -4057,31 +3428,43 @@ namespace Simulations
             // 
             // selectTableCellItem1
             // 
+            this.selectTableCellItem1.Caption = "Select Cell";
+            this.selectTableCellItem1.Enabled = false;
             this.selectTableCellItem1.Id = 446;
             this.selectTableCellItem1.Name = "selectTableCellItem1";
             // 
             // selectTableColumnItem1
             // 
+            this.selectTableColumnItem1.Caption = "Select Column";
+            this.selectTableColumnItem1.Enabled = false;
             this.selectTableColumnItem1.Id = 447;
             this.selectTableColumnItem1.Name = "selectTableColumnItem1";
             // 
             // selectTableRowItem1
             // 
+            this.selectTableRowItem1.Caption = "Select Row";
+            this.selectTableRowItem1.Enabled = false;
             this.selectTableRowItem1.Id = 448;
             this.selectTableRowItem1.Name = "selectTableRowItem1";
             // 
             // selectTableItem1
             // 
+            this.selectTableItem1.Caption = "Select Table";
+            this.selectTableItem1.Enabled = false;
             this.selectTableItem1.Id = 449;
             this.selectTableItem1.Name = "selectTableItem1";
             // 
             // showTablePropertiesFormItem1
             // 
+            this.showTablePropertiesFormItem1.Caption = "Properties";
+            this.showTablePropertiesFormItem1.Enabled = false;
             this.showTablePropertiesFormItem1.Id = 450;
             this.showTablePropertiesFormItem1.Name = "showTablePropertiesFormItem1";
             // 
             // deleteTableElementsItem1
             // 
+            this.deleteTableElementsItem1.Caption = "Delete";
+            this.deleteTableElementsItem1.Enabled = false;
             this.deleteTableElementsItem1.Id = 451;
             this.deleteTableElementsItem1.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
             new DevExpress.XtraBars.LinkPersistInfo(this.showDeleteTableCellsFormItem1),
@@ -4092,61 +3475,85 @@ namespace Simulations
             // 
             // showDeleteTableCellsFormItem1
             // 
+            this.showDeleteTableCellsFormItem1.Caption = "Delete Cells...";
+            this.showDeleteTableCellsFormItem1.Enabled = false;
             this.showDeleteTableCellsFormItem1.Id = 452;
             this.showDeleteTableCellsFormItem1.Name = "showDeleteTableCellsFormItem1";
             // 
             // deleteTableColumnsItem1
             // 
+            this.deleteTableColumnsItem1.Caption = "Delete Columns";
+            this.deleteTableColumnsItem1.Enabled = false;
             this.deleteTableColumnsItem1.Id = 453;
             this.deleteTableColumnsItem1.Name = "deleteTableColumnsItem1";
             // 
             // deleteTableRowsItem1
             // 
+            this.deleteTableRowsItem1.Caption = "Delete Rows";
+            this.deleteTableRowsItem1.Enabled = false;
             this.deleteTableRowsItem1.Id = 454;
             this.deleteTableRowsItem1.Name = "deleteTableRowsItem1";
             // 
             // deleteTableItem1
             // 
+            this.deleteTableItem1.Caption = "Delete Table";
+            this.deleteTableItem1.Enabled = false;
             this.deleteTableItem1.Id = 455;
             this.deleteTableItem1.Name = "deleteTableItem1";
             // 
             // insertTableRowAboveItem1
             // 
+            this.insertTableRowAboveItem1.Caption = "Insert Above";
+            this.insertTableRowAboveItem1.Enabled = false;
             this.insertTableRowAboveItem1.Id = 456;
             this.insertTableRowAboveItem1.Name = "insertTableRowAboveItem1";
             // 
             // insertTableRowBelowItem1
             // 
+            this.insertTableRowBelowItem1.Caption = "Insert Below";
+            this.insertTableRowBelowItem1.Enabled = false;
             this.insertTableRowBelowItem1.Id = 457;
             this.insertTableRowBelowItem1.Name = "insertTableRowBelowItem1";
             // 
             // insertTableColumnToLeftItem1
             // 
+            this.insertTableColumnToLeftItem1.Caption = "Insert Left";
+            this.insertTableColumnToLeftItem1.Enabled = false;
             this.insertTableColumnToLeftItem1.Id = 458;
             this.insertTableColumnToLeftItem1.Name = "insertTableColumnToLeftItem1";
             // 
             // insertTableColumnToRightItem1
             // 
+            this.insertTableColumnToRightItem1.Caption = "Insert Right";
+            this.insertTableColumnToRightItem1.Enabled = false;
             this.insertTableColumnToRightItem1.Id = 459;
             this.insertTableColumnToRightItem1.Name = "insertTableColumnToRightItem1";
             // 
             // mergeTableCellsItem1
             // 
+            this.mergeTableCellsItem1.Caption = "Merge Cells";
+            this.mergeTableCellsItem1.Enabled = false;
             this.mergeTableCellsItem1.Id = 460;
             this.mergeTableCellsItem1.Name = "mergeTableCellsItem1";
             // 
             // showSplitTableCellsForm1
             // 
+            this.showSplitTableCellsForm1.Caption = "Split Cells";
+            this.showSplitTableCellsForm1.Enabled = false;
             this.showSplitTableCellsForm1.Id = 461;
             this.showSplitTableCellsForm1.Name = "showSplitTableCellsForm1";
             // 
             // splitTableItem1
             // 
+            this.splitTableItem1.Caption = "Split Table";
+            this.splitTableItem1.Enabled = false;
             this.splitTableItem1.Id = 462;
             this.splitTableItem1.Name = "splitTableItem1";
             // 
             // toggleTableAutoFitItem1
             // 
+            this.toggleTableAutoFitItem1.Caption = "AutoFit";
+            this.toggleTableAutoFitItem1.Enabled = false;
             this.toggleTableAutoFitItem1.Id = 463;
             this.toggleTableAutoFitItem1.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
             new DevExpress.XtraBars.LinkPersistInfo(this.toggleTableAutoFitContentsItem1),
@@ -4156,116 +3563,162 @@ namespace Simulations
             // 
             // toggleTableAutoFitContentsItem1
             // 
+            this.toggleTableAutoFitContentsItem1.Caption = "AutoFit Contents";
+            this.toggleTableAutoFitContentsItem1.Enabled = false;
             this.toggleTableAutoFitContentsItem1.Id = 464;
             this.toggleTableAutoFitContentsItem1.Name = "toggleTableAutoFitContentsItem1";
             // 
             // toggleTableAutoFitWindowItem1
             // 
+            this.toggleTableAutoFitWindowItem1.Caption = "AutoFit Window";
+            this.toggleTableAutoFitWindowItem1.Enabled = false;
             this.toggleTableAutoFitWindowItem1.Id = 465;
             this.toggleTableAutoFitWindowItem1.Name = "toggleTableAutoFitWindowItem1";
             // 
             // toggleTableFixedColumnWidthItem1
             // 
+            this.toggleTableFixedColumnWidthItem1.Caption = "Fixed Column Width";
+            this.toggleTableFixedColumnWidthItem1.Enabled = false;
             this.toggleTableFixedColumnWidthItem1.Id = 466;
             this.toggleTableFixedColumnWidthItem1.Name = "toggleTableFixedColumnWidthItem1";
             // 
             // toggleTableCellsTopLeftAlignmentItem1
             // 
+            this.toggleTableCellsTopLeftAlignmentItem1.Caption = "Align Top Left";
+            this.toggleTableCellsTopLeftAlignmentItem1.Enabled = false;
             this.toggleTableCellsTopLeftAlignmentItem1.Id = 467;
             this.toggleTableCellsTopLeftAlignmentItem1.Name = "toggleTableCellsTopLeftAlignmentItem1";
             // 
             // toggleTableCellsMiddleLeftAlignmentItem1
             // 
+            this.toggleTableCellsMiddleLeftAlignmentItem1.Caption = "Align Center Left";
+            this.toggleTableCellsMiddleLeftAlignmentItem1.Enabled = false;
             this.toggleTableCellsMiddleLeftAlignmentItem1.Id = 468;
             this.toggleTableCellsMiddleLeftAlignmentItem1.Name = "toggleTableCellsMiddleLeftAlignmentItem1";
             // 
             // toggleTableCellsBottomLeftAlignmentItem1
             // 
+            this.toggleTableCellsBottomLeftAlignmentItem1.Caption = "Align Bottom Left";
+            this.toggleTableCellsBottomLeftAlignmentItem1.Enabled = false;
             this.toggleTableCellsBottomLeftAlignmentItem1.Id = 469;
             this.toggleTableCellsBottomLeftAlignmentItem1.Name = "toggleTableCellsBottomLeftAlignmentItem1";
             // 
             // toggleTableCellsTopCenterAlignmentItem1
             // 
+            this.toggleTableCellsTopCenterAlignmentItem1.Caption = "Align Top Center";
+            this.toggleTableCellsTopCenterAlignmentItem1.Enabled = false;
             this.toggleTableCellsTopCenterAlignmentItem1.Id = 470;
             this.toggleTableCellsTopCenterAlignmentItem1.Name = "toggleTableCellsTopCenterAlignmentItem1";
             // 
             // toggleTableCellsMiddleCenterAlignmentItem1
             // 
+            this.toggleTableCellsMiddleCenterAlignmentItem1.Caption = "Align Center";
+            this.toggleTableCellsMiddleCenterAlignmentItem1.Enabled = false;
             this.toggleTableCellsMiddleCenterAlignmentItem1.Id = 471;
             this.toggleTableCellsMiddleCenterAlignmentItem1.Name = "toggleTableCellsMiddleCenterAlignmentItem1";
             // 
             // toggleTableCellsBottomCenterAlignmentItem1
             // 
+            this.toggleTableCellsBottomCenterAlignmentItem1.Caption = "Align Bottom Center";
+            this.toggleTableCellsBottomCenterAlignmentItem1.Enabled = false;
             this.toggleTableCellsBottomCenterAlignmentItem1.Id = 472;
             this.toggleTableCellsBottomCenterAlignmentItem1.Name = "toggleTableCellsBottomCenterAlignmentItem1";
             // 
             // toggleTableCellsTopRightAlignmentItem1
             // 
+            this.toggleTableCellsTopRightAlignmentItem1.Caption = "Align Top Right";
+            this.toggleTableCellsTopRightAlignmentItem1.Enabled = false;
             this.toggleTableCellsTopRightAlignmentItem1.Id = 473;
             this.toggleTableCellsTopRightAlignmentItem1.Name = "toggleTableCellsTopRightAlignmentItem1";
             // 
             // toggleTableCellsMiddleRightAlignmentItem1
             // 
+            this.toggleTableCellsMiddleRightAlignmentItem1.Caption = "Align Center Right";
+            this.toggleTableCellsMiddleRightAlignmentItem1.Enabled = false;
             this.toggleTableCellsMiddleRightAlignmentItem1.Id = 474;
             this.toggleTableCellsMiddleRightAlignmentItem1.Name = "toggleTableCellsMiddleRightAlignmentItem1";
             // 
             // toggleTableCellsBottomRightAlignmentItem1
             // 
+            this.toggleTableCellsBottomRightAlignmentItem1.Caption = "Align Bottom Right";
+            this.toggleTableCellsBottomRightAlignmentItem1.Enabled = false;
             this.toggleTableCellsBottomRightAlignmentItem1.Id = 475;
             this.toggleTableCellsBottomRightAlignmentItem1.Name = "toggleTableCellsBottomRightAlignmentItem1";
             // 
             // showTableOptionsFormItem1
             // 
+            this.showTableOptionsFormItem1.Caption = "Cell Margins";
+            this.showTableOptionsFormItem1.Enabled = false;
             this.showTableOptionsFormItem1.Id = 476;
             this.showTableOptionsFormItem1.Name = "showTableOptionsFormItem1";
             // 
             // undoItem1
             // 
+            this.undoItem1.Caption = "Undo";
+            this.undoItem1.Enabled = false;
             this.undoItem1.Id = 477;
             this.undoItem1.Name = "undoItem1";
             // 
             // redoItem1
             // 
+            this.redoItem1.Caption = "Redo";
+            this.redoItem1.Enabled = false;
             this.redoItem1.Id = 478;
             this.redoItem1.Name = "redoItem1";
             // 
             // fileNewItem1
             // 
+            this.fileNewItem1.Caption = "New";
+            this.fileNewItem1.Enabled = false;
             this.fileNewItem1.Id = 479;
             this.fileNewItem1.Name = "fileNewItem1";
             // 
             // fileOpenItem1
             // 
+            this.fileOpenItem1.Caption = "Open";
+            this.fileOpenItem1.Enabled = false;
             this.fileOpenItem1.Id = 480;
             this.fileOpenItem1.Name = "fileOpenItem1";
             // 
             // fileSaveItem1
             // 
+            this.fileSaveItem1.Caption = "Save";
+            this.fileSaveItem1.Enabled = false;
             this.fileSaveItem1.Id = 481;
             this.fileSaveItem1.Name = "fileSaveItem1";
             // 
             // fileSaveAsItem1
             // 
+            this.fileSaveAsItem1.Caption = "Save As";
+            this.fileSaveAsItem1.Enabled = false;
             this.fileSaveAsItem1.Id = 482;
             this.fileSaveAsItem1.Name = "fileSaveAsItem1";
             // 
             // quickPrintItem1
             // 
+            this.quickPrintItem1.Caption = "&Quick Print";
+            this.quickPrintItem1.Enabled = false;
             this.quickPrintItem1.Id = 483;
             this.quickPrintItem1.Name = "quickPrintItem1";
             // 
             // printItem1
             // 
+            this.printItem1.Caption = "&Print";
+            this.printItem1.Enabled = false;
             this.printItem1.Id = 484;
             this.printItem1.Name = "printItem1";
             // 
             // printPreviewItem1
             // 
+            this.printPreviewItem1.Caption = "Print Pre&view";
+            this.printPreviewItem1.Enabled = false;
             this.printPreviewItem1.Id = 485;
             this.printPreviewItem1.Name = "printPreviewItem1";
             // 
             // changeSectionPageMarginsItem1
             // 
+            this.changeSectionPageMarginsItem1.Caption = "Margins";
+            this.changeSectionPageMarginsItem1.Enabled = false;
             this.changeSectionPageMarginsItem1.Id = 486;
             this.changeSectionPageMarginsItem1.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
             new DevExpress.XtraBars.LinkPersistInfo(this.setNormalSectionPageMarginsItem1),
@@ -4277,31 +3730,44 @@ namespace Simulations
             // 
             // setNormalSectionPageMarginsItem1
             // 
+            this.setNormalSectionPageMarginsItem1.Caption = "Normal\r\nTop:\t     0.79\"\tBottom:\t     0.79\"\r\nLeft:\t     1.18\"\tRight:\t\t     0.59\"";
+            this.setNormalSectionPageMarginsItem1.Enabled = false;
             this.setNormalSectionPageMarginsItem1.Id = 487;
             this.setNormalSectionPageMarginsItem1.Name = "setNormalSectionPageMarginsItem1";
             // 
             // setNarrowSectionPageMarginsItem1
             // 
+            this.setNarrowSectionPageMarginsItem1.Caption = "Narrow\r\nTop:\t      0.5\"\tBottom:\t      0.5\"\r\nLeft:\t      0.5\"\tRight:\t\t      0.5\"";
+            this.setNarrowSectionPageMarginsItem1.Enabled = false;
             this.setNarrowSectionPageMarginsItem1.Id = 488;
             this.setNarrowSectionPageMarginsItem1.Name = "setNarrowSectionPageMarginsItem1";
             // 
             // setModerateSectionPageMarginsItem1
             // 
+            this.setModerateSectionPageMarginsItem1.Caption = "Moderate\r\nTop:\t        1\"\tBottom:\t        1\"\r\nLeft:\t     0.75\"\tRight:\t\t     0.75\"" +
+    "";
+            this.setModerateSectionPageMarginsItem1.Enabled = false;
             this.setModerateSectionPageMarginsItem1.Id = 489;
             this.setModerateSectionPageMarginsItem1.Name = "setModerateSectionPageMarginsItem1";
             // 
             // setWideSectionPageMarginsItem1
             // 
+            this.setWideSectionPageMarginsItem1.Caption = "Wide\r\nTop:\t        1\"\tBottom:\t        1\"\r\nLeft:\t        2\"\tRight:\t\t        2\"";
+            this.setWideSectionPageMarginsItem1.Enabled = false;
             this.setWideSectionPageMarginsItem1.Id = 490;
             this.setWideSectionPageMarginsItem1.Name = "setWideSectionPageMarginsItem1";
             // 
             // showPageMarginsSetupFormItem1
             // 
+            this.showPageMarginsSetupFormItem1.Caption = "Custom M&argins...";
+            this.showPageMarginsSetupFormItem1.Enabled = false;
             this.showPageMarginsSetupFormItem1.Id = 491;
             this.showPageMarginsSetupFormItem1.Name = "showPageMarginsSetupFormItem1";
             // 
             // changeSectionPageOrientationItem1
             // 
+            this.changeSectionPageOrientationItem1.Caption = "Orientation";
+            this.changeSectionPageOrientationItem1.Enabled = false;
             this.changeSectionPageOrientationItem1.Id = 492;
             this.changeSectionPageOrientationItem1.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
             new DevExpress.XtraBars.LinkPersistInfo(this.setPortraitPageOrientationItem1),
@@ -4310,21 +3776,29 @@ namespace Simulations
             // 
             // setPortraitPageOrientationItem1
             // 
+            this.setPortraitPageOrientationItem1.Caption = "Portrait";
+            this.setPortraitPageOrientationItem1.Enabled = false;
             this.setPortraitPageOrientationItem1.Id = 493;
             this.setPortraitPageOrientationItem1.Name = "setPortraitPageOrientationItem1";
             // 
             // setLandscapePageOrientationItem1
             // 
+            this.setLandscapePageOrientationItem1.Caption = "Landscape";
+            this.setLandscapePageOrientationItem1.Enabled = false;
             this.setLandscapePageOrientationItem1.Id = 494;
             this.setLandscapePageOrientationItem1.Name = "setLandscapePageOrientationItem1";
             // 
             // changeSectionPaperKindItem1
             // 
+            this.changeSectionPaperKindItem1.Caption = "Size";
+            this.changeSectionPaperKindItem1.Enabled = false;
             this.changeSectionPaperKindItem1.Id = 495;
             this.changeSectionPaperKindItem1.Name = "changeSectionPaperKindItem1";
             // 
             // changeSectionColumnsItem1
             // 
+            this.changeSectionColumnsItem1.Caption = "Columns";
+            this.changeSectionColumnsItem1.Enabled = false;
             this.changeSectionColumnsItem1.Id = 496;
             this.changeSectionColumnsItem1.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
             new DevExpress.XtraBars.LinkPersistInfo(this.setSectionOneColumnItem1),
@@ -4335,26 +3809,36 @@ namespace Simulations
             // 
             // setSectionOneColumnItem1
             // 
+            this.setSectionOneColumnItem1.Caption = "One";
+            this.setSectionOneColumnItem1.Enabled = false;
             this.setSectionOneColumnItem1.Id = 497;
             this.setSectionOneColumnItem1.Name = "setSectionOneColumnItem1";
             // 
             // setSectionTwoColumnsItem1
             // 
+            this.setSectionTwoColumnsItem1.Caption = "Two";
+            this.setSectionTwoColumnsItem1.Enabled = false;
             this.setSectionTwoColumnsItem1.Id = 498;
             this.setSectionTwoColumnsItem1.Name = "setSectionTwoColumnsItem1";
             // 
             // setSectionThreeColumnsItem1
             // 
+            this.setSectionThreeColumnsItem1.Caption = "Three";
+            this.setSectionThreeColumnsItem1.Enabled = false;
             this.setSectionThreeColumnsItem1.Id = 499;
             this.setSectionThreeColumnsItem1.Name = "setSectionThreeColumnsItem1";
             // 
             // showColumnsSetupFormItem1
             // 
+            this.showColumnsSetupFormItem1.Caption = "More &Columns...";
+            this.showColumnsSetupFormItem1.Enabled = false;
             this.showColumnsSetupFormItem1.Id = 500;
             this.showColumnsSetupFormItem1.Name = "showColumnsSetupFormItem1";
             // 
             // insertBreakItem1
             // 
+            this.insertBreakItem1.Caption = "Breaks";
+            this.insertBreakItem1.Enabled = false;
             this.insertBreakItem1.Id = 501;
             this.insertBreakItem1.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
             new DevExpress.XtraBars.LinkPersistInfo(this.insertPageBreakItem1),
@@ -4366,31 +3850,43 @@ namespace Simulations
             // 
             // insertPageBreakItem1
             // 
+            this.insertPageBreakItem1.Caption = "Page";
+            this.insertPageBreakItem1.Enabled = false;
             this.insertPageBreakItem1.Id = 502;
             this.insertPageBreakItem1.Name = "insertPageBreakItem1";
             // 
             // insertColumnBreakItem1
             // 
+            this.insertColumnBreakItem1.Caption = "Column";
+            this.insertColumnBreakItem1.Enabled = false;
             this.insertColumnBreakItem1.Id = 503;
             this.insertColumnBreakItem1.Name = "insertColumnBreakItem1";
             // 
             // insertSectionBreakNextPageItem1
             // 
+            this.insertSectionBreakNextPageItem1.Caption = "Section (Next Page)";
+            this.insertSectionBreakNextPageItem1.Enabled = false;
             this.insertSectionBreakNextPageItem1.Id = 504;
             this.insertSectionBreakNextPageItem1.Name = "insertSectionBreakNextPageItem1";
             // 
             // insertSectionBreakEvenPageItem1
             // 
+            this.insertSectionBreakEvenPageItem1.Caption = "Section (Even Page)";
+            this.insertSectionBreakEvenPageItem1.Enabled = false;
             this.insertSectionBreakEvenPageItem1.Id = 505;
             this.insertSectionBreakEvenPageItem1.Name = "insertSectionBreakEvenPageItem1";
             // 
             // insertSectionBreakOddPageItem1
             // 
+            this.insertSectionBreakOddPageItem1.Caption = "Section (Odd Page)";
+            this.insertSectionBreakOddPageItem1.Enabled = false;
             this.insertSectionBreakOddPageItem1.Id = 506;
             this.insertSectionBreakOddPageItem1.Name = "insertSectionBreakOddPageItem1";
             // 
             // changeSectionLineNumberingItem1
             // 
+            this.changeSectionLineNumberingItem1.Caption = "Line Numbers";
+            this.changeSectionLineNumberingItem1.Enabled = false;
             this.changeSectionLineNumberingItem1.Id = 507;
             this.changeSectionLineNumberingItem1.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
             new DevExpress.XtraBars.LinkPersistInfo(this.setSectionLineNumberingNoneItem1),
@@ -4403,36 +3899,50 @@ namespace Simulations
             // 
             // setSectionLineNumberingNoneItem1
             // 
+            this.setSectionLineNumberingNoneItem1.Caption = "None";
+            this.setSectionLineNumberingNoneItem1.Enabled = false;
             this.setSectionLineNumberingNoneItem1.Id = 508;
             this.setSectionLineNumberingNoneItem1.Name = "setSectionLineNumberingNoneItem1";
             // 
             // setSectionLineNumberingContinuousItem1
             // 
+            this.setSectionLineNumberingContinuousItem1.Caption = "Continuous";
+            this.setSectionLineNumberingContinuousItem1.Enabled = false;
             this.setSectionLineNumberingContinuousItem1.Id = 509;
             this.setSectionLineNumberingContinuousItem1.Name = "setSectionLineNumberingContinuousItem1";
             // 
             // setSectionLineNumberingRestartNewPageItem1
             // 
+            this.setSectionLineNumberingRestartNewPageItem1.Caption = "Restart Each Page";
+            this.setSectionLineNumberingRestartNewPageItem1.Enabled = false;
             this.setSectionLineNumberingRestartNewPageItem1.Id = 510;
             this.setSectionLineNumberingRestartNewPageItem1.Name = "setSectionLineNumberingRestartNewPageItem1";
             // 
             // setSectionLineNumberingRestartNewSectionItem1
             // 
+            this.setSectionLineNumberingRestartNewSectionItem1.Caption = "Restart Each Section";
+            this.setSectionLineNumberingRestartNewSectionItem1.Enabled = false;
             this.setSectionLineNumberingRestartNewSectionItem1.Id = 511;
             this.setSectionLineNumberingRestartNewSectionItem1.Name = "setSectionLineNumberingRestartNewSectionItem1";
             // 
             // toggleParagraphSuppressLineNumbersItem1
             // 
+            this.toggleParagraphSuppressLineNumbersItem1.Caption = "Suppress for Current Paragraph";
+            this.toggleParagraphSuppressLineNumbersItem1.Enabled = false;
             this.toggleParagraphSuppressLineNumbersItem1.Id = 512;
             this.toggleParagraphSuppressLineNumbersItem1.Name = "toggleParagraphSuppressLineNumbersItem1";
             // 
             // showLineNumberingFormItem1
             // 
+            this.showLineNumberingFormItem1.Caption = "&Line Numbering Options...";
+            this.showLineNumberingFormItem1.Enabled = false;
             this.showLineNumberingFormItem1.Id = 513;
             this.showLineNumberingFormItem1.Name = "showLineNumberingFormItem1";
             // 
             // changePageColorItem1
             // 
+            this.changePageColorItem1.Caption = "Page Color";
+            this.changePageColorItem1.Enabled = false;
             this.changePageColorItem1.Id = 514;
             this.changePageColorItem1.Name = "changePageColorItem1";
             // 
@@ -4453,7 +3963,7 @@ namespace Simulations
             // tableToolsRibbonPageCategory1
             // 
             this.tableToolsRibbonPageCategory1.Color = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(233)))), ((int)(((byte)(20)))));
-            this.tableToolsRibbonPageCategory1.Control = this.richEditControl1;
+            this.tableToolsRibbonPageCategory1.Control = null;
             this.tableToolsRibbonPageCategory1.Name = "tableToolsRibbonPageCategory1";
             this.tableToolsRibbonPageCategory1.Pages.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPage[] {
             this.tableDesignRibbonPage1,
@@ -4599,14 +4109,14 @@ namespace Simulations
             this.printPreviewRibbonPageGroup3.ItemLinks.Add(this.printPreviewBarItem28);
             this.printPreviewRibbonPageGroup3.Kind = DevExpress.XtraPrinting.Preview.PrintPreviewRibbonPageGroupKind.PageSetup;
             this.printPreviewRibbonPageGroup3.Name = "printPreviewRibbonPageGroup3";
-            superToolTip49.FixedTooltipWidth = true;
-            toolTipTitleItem49.Text = "Page Setup";
-            toolTipItem49.LeftIndent = 6;
-            toolTipItem49.Text = "Show the Page Setup dialog.";
-            superToolTip49.Items.Add(toolTipTitleItem49);
-            superToolTip49.Items.Add(toolTipItem49);
-            superToolTip49.MaxWidth = 210;
-            this.printPreviewRibbonPageGroup3.SuperTip = superToolTip49;
+            superToolTip196.FixedTooltipWidth = true;
+            toolTipTitleItem196.Text = "Page Setup";
+            toolTipItem196.LeftIndent = 6;
+            toolTipItem196.Text = "Show the Page Setup dialog.";
+            superToolTip196.Items.Add(toolTipTitleItem196);
+            superToolTip196.Items.Add(toolTipItem196);
+            superToolTip196.MaxWidth = 210;
+            this.printPreviewRibbonPageGroup3.SuperTip = superToolTip196;
             this.printPreviewRibbonPageGroup3.Text = "Page Setup";
             // 
             // printPreviewRibbonPageGroup4
@@ -4688,12 +4198,12 @@ namespace Simulations
             this.editingRibbonPageGroup1});
             this.homeRibbonPage1.Image = ((System.Drawing.Image)(resources.GetObject("homeRibbonPage1.Image")));
             this.homeRibbonPage1.Name = "homeRibbonPage1";
-            reduceOperation1.Behavior = DevExpress.XtraBars.Ribbon.ReduceOperationBehavior.UntilAvailable;
-            reduceOperation1.Group = this.stylesRibbonPageGroup1;
-            reduceOperation1.ItemLinkIndex = 0;
-            reduceOperation1.ItemLinksCount = 0;
-            reduceOperation1.Operation = DevExpress.XtraBars.Ribbon.ReduceOperationType.Gallery;
-            this.homeRibbonPage1.ReduceOperations.Add(reduceOperation1);
+            reduceOperation4.Behavior = DevExpress.XtraBars.Ribbon.ReduceOperationBehavior.UntilAvailable;
+            reduceOperation4.Group = this.stylesRibbonPageGroup1;
+            reduceOperation4.ItemLinkIndex = 0;
+            reduceOperation4.ItemLinksCount = 0;
+            reduceOperation4.Operation = DevExpress.XtraBars.Ribbon.ReduceOperationType.Gallery;
+            this.homeRibbonPage1.ReduceOperations.Add(reduceOperation4);
             // 
             // clipboardRibbonPageGroup1
             // 
@@ -4802,54 +4312,6 @@ namespace Simulations
             this.symbolsRibbonPageGroup1.AllowTextClipping = false;
             this.symbolsRibbonPageGroup1.ItemLinks.Add(this.insertSymbolItem1);
             this.symbolsRibbonPageGroup1.Name = "symbolsRibbonPageGroup1";
-            // 
-            // groupBox_index
-            // 
-            this.groupBox_index.Controls.Add(this.Lb_CountTime);
-            this.groupBox_index.Controls.Add(this.progressBar_case);
-            this.groupBox_index.Controls.Add(this.groupBox14);
-            this.groupBox_index.Controls.Add(this.Gb_SonF1);
-            this.groupBox_index.Controls.Add(this.groupBox13);
-            this.groupBox_index.Controls.Add(this.groupBox11);
-            this.groupBox_index.Controls.Add(this.groupBox9);
-            this.groupBox_index.Controls.Add(this.groupBox4);
-            this.groupBox_index.Controls.Add(this.Bt_set);
-            this.groupBox_index.Controls.Add(this.Bt_stop);
-            this.groupBox_index.Controls.Add(this.lB_number);
-            this.groupBox_index.Controls.Add(this.Lb_fcase);
-            this.groupBox_index.Controls.Add(this.label8);
-            this.groupBox_index.Controls.Add(this.button4);
-            this.groupBox_index.Controls.Add(this.label_casenum);
-            this.groupBox_index.Controls.Add(this.label5);
-            this.groupBox_index.Controls.Add(this.label4);
-            this.groupBox_index.Controls.Add(this.label_casetime);
-            this.groupBox_index.Controls.Add(this.button3);
-            this.groupBox_index.Controls.Add(this.grid_case);
-            this.groupBox_index.Controls.Add(this.grid_Aiti);
-            this.groupBox_index.Location = new System.Drawing.Point(31, 76);
-            this.groupBox_index.Name = "groupBox_index";
-            this.groupBox_index.Size = new System.Drawing.Size(229, 152);
-            this.groupBox_index.TabIndex = 11;
-            this.groupBox_index.TabStop = false;
-            this.groupBox_index.Text = "Sim";
-            // 
-            // Lb_CountTime
-            // 
-            this.Lb_CountTime.AutoSize = true;
-            this.Lb_CountTime.Location = new System.Drawing.Point(398, 33);
-            this.Lb_CountTime.Name = "Lb_CountTime";
-            this.Lb_CountTime.Size = new System.Drawing.Size(61, 13);
-            this.Lb_CountTime.TabIndex = 46;
-            this.Lb_CountTime.Text = "Count Time";
-            // 
-            // progressBar_case
-            // 
-            this.progressBar_case.Location = new System.Drawing.Point(295, 32);
-            this.progressBar_case.MenuManager = this.ribbonControl;
-            this.progressBar_case.Name = "progressBar_case";
-            this.progressBar_case.Properties.Appearance.BackColor = System.Drawing.Color.White;
-            this.progressBar_case.Size = new System.Drawing.Size(100, 18);
-            this.progressBar_case.TabIndex = 45;
             // 
             // groupBox14
             // 
@@ -5169,64 +4631,25 @@ namespace Simulations
             // ReportChart
             // 
             this.ReportChart.AllowHtmlDraw = true;
-            this.ReportChart.Controls.Add(this.tabNavigationPage1);
             this.ReportChart.Controls.Add(this.tabNavigationPage2);
-            this.ReportChart.Controls.Add(this.tabNavigationPage3);
-            this.ReportChart.Controls.Add(this.tabNavigationPage4);
-            this.ReportChart.Controls.Add(this.tabNavigationPage5);
-            this.ReportChart.Controls.Add(this.tabNavigationPage6);
-            this.ReportChart.Controls.Add(this.tabNavigationPage7);
-            this.ReportChart.Controls.Add(this.tabNavigationPage8);
-            this.ReportChart.Controls.Add(this.tabNavigationPage9);
-            this.ReportChart.Controls.Add(this.tabNavigationPage10);
-            this.ReportChart.Controls.Add(this.tabNavigationPage11);
-            this.ReportChart.Controls.Add(this.tabNavigationPage12);
             this.ReportChart.Location = new System.Drawing.Point(155, 35);
             this.ReportChart.Name = "ReportChart";
             this.ReportChart.PageProperties.ShowMode = DevExpress.XtraBars.Navigation.ItemShowMode.ImageAndText;
             this.ReportChart.Pages.AddRange(new DevExpress.XtraBars.Navigation.NavigationPageBase[] {
-            this.tabNavigationPage1,
-            this.tabNavigationPage2,
-            this.tabNavigationPage3,
-            this.tabNavigationPage4,
-            this.tabNavigationPage5,
-            this.tabNavigationPage6,
-            this.tabNavigationPage7,
-            this.tabNavigationPage8,
-            this.tabNavigationPage9,
-            this.tabNavigationPage10,
-            this.tabNavigationPage11,
-            this.tabNavigationPage12});
-            this.ReportChart.RegularSize = new System.Drawing.Size(162, 24);
-            this.ReportChart.SelectedPage = this.tabNavigationPage1;
+            this.tabNavigationPage2});
+            this.ReportChart.RegularSize = new System.Drawing.Size(162, 88);
+            this.ReportChart.SelectedPage = this.tabNavigationPage2;
             this.ReportChart.SelectedPageIndex = 0;
-            this.ReportChart.Size = new System.Drawing.Size(162, 24);
+            this.ReportChart.Size = new System.Drawing.Size(162, 88);
             this.ReportChart.TabIndex = 17;
             this.ReportChart.Text = "tabPane1";
-            this.ReportChart.SelectedPageChanged += new DevExpress.XtraBars.Navigation.SelectedPageChangedEventHandler(this.ReportChart_SelectedPageChanged);
-            // 
-            // tabNavigationPage1
-            // 
-            this.tabNavigationPage1.Caption = "รายงาน";
-            this.tabNavigationPage1.Controls.Add(this.documentViewer1);
-            this.tabNavigationPage1.Name = "tabNavigationPage1";
-            this.tabNavigationPage1.Size = new System.Drawing.Size(144, 0);
-            // 
-            // documentViewer1
-            // 
-            this.documentViewer1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.documentViewer1.IsMetric = false;
-            this.documentViewer1.Location = new System.Drawing.Point(0, 0);
-            this.documentViewer1.Name = "documentViewer1";
-            this.documentViewer1.Size = new System.Drawing.Size(144, 0);
-            this.documentViewer1.TabIndex = 12;
             // 
             // tabNavigationPage2
             // 
             this.tabNavigationPage2.Caption = "ครังที่1";
             this.tabNavigationPage2.Controls.Add(this.ReportChart1);
             this.tabNavigationPage2.Name = "tabNavigationPage2";
-            this.tabNavigationPage2.Size = new System.Drawing.Size(144, 0);
+            this.tabNavigationPage2.Size = new System.Drawing.Size(144, 43);
             // 
             // ReportChart1
             // 
@@ -5234,158 +4657,8 @@ namespace Simulations
             this.ReportChart1.IsMetric = false;
             this.ReportChart1.Location = new System.Drawing.Point(0, 0);
             this.ReportChart1.Name = "ReportChart1";
-            this.ReportChart1.Size = new System.Drawing.Size(144, 0);
+            this.ReportChart1.Size = new System.Drawing.Size(144, 43);
             this.ReportChart1.TabIndex = 0;
-            // 
-            // tabNavigationPage3
-            // 
-            this.tabNavigationPage3.Caption = "ครังที่2";
-            this.tabNavigationPage3.Controls.Add(this.ReportChart2);
-            this.tabNavigationPage3.Name = "tabNavigationPage3";
-            this.tabNavigationPage3.Size = new System.Drawing.Size(144, 0);
-            // 
-            // ReportChart2
-            // 
-            this.ReportChart2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.ReportChart2.IsMetric = false;
-            this.ReportChart2.Location = new System.Drawing.Point(0, 0);
-            this.ReportChart2.Name = "ReportChart2";
-            this.ReportChart2.Size = new System.Drawing.Size(144, 0);
-            this.ReportChart2.TabIndex = 1;
-            // 
-            // tabNavigationPage4
-            // 
-            this.tabNavigationPage4.Caption = "ครังที่3";
-            this.tabNavigationPage4.Controls.Add(this.ReportChart3);
-            this.tabNavigationPage4.Name = "tabNavigationPage4";
-            this.tabNavigationPage4.Size = new System.Drawing.Size(144, 0);
-            // 
-            // ReportChart3
-            // 
-            this.ReportChart3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.ReportChart3.IsMetric = false;
-            this.ReportChart3.Location = new System.Drawing.Point(0, 0);
-            this.ReportChart3.Name = "ReportChart3";
-            this.ReportChart3.Size = new System.Drawing.Size(144, 0);
-            this.ReportChart3.TabIndex = 2;
-            // 
-            // tabNavigationPage5
-            // 
-            this.tabNavigationPage5.Caption = "ครังที่4";
-            this.tabNavigationPage5.Controls.Add(this.ReportChart4);
-            this.tabNavigationPage5.Name = "tabNavigationPage5";
-            this.tabNavigationPage5.Size = new System.Drawing.Size(144, 0);
-            // 
-            // ReportChart4
-            // 
-            this.ReportChart4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.ReportChart4.IsMetric = false;
-            this.ReportChart4.Location = new System.Drawing.Point(0, 0);
-            this.ReportChart4.Name = "ReportChart4";
-            this.ReportChart4.Size = new System.Drawing.Size(144, 0);
-            this.ReportChart4.TabIndex = 2;
-            // 
-            // tabNavigationPage6
-            // 
-            this.tabNavigationPage6.Caption = "ครังที่5";
-            this.tabNavigationPage6.Controls.Add(this.ReportChart5);
-            this.tabNavigationPage6.Name = "tabNavigationPage6";
-            this.tabNavigationPage6.Size = new System.Drawing.Size(144, 0);
-            // 
-            // ReportChart5
-            // 
-            this.ReportChart5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.ReportChart5.IsMetric = false;
-            this.ReportChart5.Location = new System.Drawing.Point(0, 0);
-            this.ReportChart5.Name = "ReportChart5";
-            this.ReportChart5.Size = new System.Drawing.Size(144, 0);
-            this.ReportChart5.TabIndex = 2;
-            // 
-            // tabNavigationPage7
-            // 
-            this.tabNavigationPage7.Caption = "ครังที่6";
-            this.tabNavigationPage7.Controls.Add(this.ReportChart6);
-            this.tabNavigationPage7.Name = "tabNavigationPage7";
-            this.tabNavigationPage7.Size = new System.Drawing.Size(144, 0);
-            // 
-            // ReportChart6
-            // 
-            this.ReportChart6.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.ReportChart6.IsMetric = false;
-            this.ReportChart6.Location = new System.Drawing.Point(0, 0);
-            this.ReportChart6.Name = "ReportChart6";
-            this.ReportChart6.Size = new System.Drawing.Size(144, 0);
-            this.ReportChart6.TabIndex = 2;
-            // 
-            // tabNavigationPage8
-            // 
-            this.tabNavigationPage8.Caption = "ครังที่7";
-            this.tabNavigationPage8.Controls.Add(this.ReportChart7);
-            this.tabNavigationPage8.Name = "tabNavigationPage8";
-            this.tabNavigationPage8.Size = new System.Drawing.Size(144, 0);
-            // 
-            // ReportChart7
-            // 
-            this.ReportChart7.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.ReportChart7.IsMetric = false;
-            this.ReportChart7.Location = new System.Drawing.Point(0, 0);
-            this.ReportChart7.Name = "ReportChart7";
-            this.ReportChart7.Size = new System.Drawing.Size(144, 0);
-            this.ReportChart7.TabIndex = 2;
-            // 
-            // tabNavigationPage9
-            // 
-            this.tabNavigationPage9.Caption = "ครังที่8";
-            this.tabNavigationPage9.Controls.Add(this.ReportChart8);
-            this.tabNavigationPage9.Name = "tabNavigationPage9";
-            this.tabNavigationPage9.Size = new System.Drawing.Size(144, 0);
-            // 
-            // ReportChart8
-            // 
-            this.ReportChart8.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.ReportChart8.IsMetric = false;
-            this.ReportChart8.Location = new System.Drawing.Point(0, 0);
-            this.ReportChart8.Name = "ReportChart8";
-            this.ReportChart8.Size = new System.Drawing.Size(144, 0);
-            this.ReportChart8.TabIndex = 2;
-            // 
-            // tabNavigationPage10
-            // 
-            this.tabNavigationPage10.Caption = "ครังที่9";
-            this.tabNavigationPage10.Controls.Add(this.ReportChart9);
-            this.tabNavigationPage10.Name = "tabNavigationPage10";
-            this.tabNavigationPage10.Size = new System.Drawing.Size(144, 0);
-            // 
-            // ReportChart9
-            // 
-            this.ReportChart9.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.ReportChart9.IsMetric = false;
-            this.ReportChart9.Location = new System.Drawing.Point(0, 0);
-            this.ReportChart9.Name = "ReportChart9";
-            this.ReportChart9.Size = new System.Drawing.Size(144, 0);
-            this.ReportChart9.TabIndex = 2;
-            // 
-            // tabNavigationPage11
-            // 
-            this.tabNavigationPage11.Caption = "ครังที่10";
-            this.tabNavigationPage11.Controls.Add(this.ReportChart10);
-            this.tabNavigationPage11.Name = "tabNavigationPage11";
-            this.tabNavigationPage11.Size = new System.Drawing.Size(144, 0);
-            // 
-            // ReportChart10
-            // 
-            this.ReportChart10.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.ReportChart10.IsMetric = false;
-            this.ReportChart10.Location = new System.Drawing.Point(0, 0);
-            this.ReportChart10.Name = "ReportChart10";
-            this.ReportChart10.Size = new System.Drawing.Size(144, 0);
-            this.ReportChart10.TabIndex = 2;
-            // 
-            // tabNavigationPage12
-            // 
-            this.tabNavigationPage12.Caption = "tabNavigationPage12";
-            this.tabNavigationPage12.Name = "tabNavigationPage12";
-            this.tabNavigationPage12.Size = new System.Drawing.Size(144, 0);
             // 
             // Barview10
             // 
@@ -5412,7 +4685,7 @@ namespace Simulations
             // 
             this.xtraTabPage31.Controls.Add(this.Barview_1);
             this.xtraTabPage31.Name = "xtraTabPage31";
-            this.xtraTabPage31.Size = new System.Drawing.Size(288, 197);
+            this.xtraTabPage31.Size = new System.Drawing.Size(27, 14);
             this.xtraTabPage31.Text = "xtraTabPage31";
             // 
             // Barview_1
@@ -5442,7 +4715,7 @@ namespace Simulations
             // 
             this.xtraTabPage62.Controls.Add(this.Barview1);
             this.xtraTabPage62.Name = "xtraTabPage62";
-            this.xtraTabPage62.Size = new System.Drawing.Size(288, 197);
+            this.xtraTabPage62.Size = new System.Drawing.Size(27, 14);
             this.xtraTabPage62.Text = "ครั้งที่ 1";
             // 
             // Barview1
@@ -5457,7 +4730,7 @@ namespace Simulations
             // 
             this.xtraTabPage53.Controls.Add(this.Barview2);
             this.xtraTabPage53.Name = "xtraTabPage53";
-            this.xtraTabPage53.Size = new System.Drawing.Size(79, 26);
+            this.xtraTabPage53.Size = new System.Drawing.Size(27, 14);
             this.xtraTabPage53.Text = "ครั้งที่ 2";
             // 
             // Barview2
@@ -5472,7 +4745,7 @@ namespace Simulations
             // 
             this.xtraTabPage54.Controls.Add(this.Barview3);
             this.xtraTabPage54.Name = "xtraTabPage54";
-            this.xtraTabPage54.Size = new System.Drawing.Size(79, 26);
+            this.xtraTabPage54.Size = new System.Drawing.Size(27, 14);
             this.xtraTabPage54.Text = "ครั้งที่ 3";
             // 
             // Barview3
@@ -5487,7 +4760,7 @@ namespace Simulations
             // 
             this.xtraTabPage55.Controls.Add(this.Barview4);
             this.xtraTabPage55.Name = "xtraTabPage55";
-            this.xtraTabPage55.Size = new System.Drawing.Size(79, 26);
+            this.xtraTabPage55.Size = new System.Drawing.Size(27, 14);
             this.xtraTabPage55.Text = "ครั้งที่ 4";
             // 
             // Barview4
@@ -5502,7 +4775,7 @@ namespace Simulations
             // 
             this.xtraTabPage56.Controls.Add(this.Barview5);
             this.xtraTabPage56.Name = "xtraTabPage56";
-            this.xtraTabPage56.Size = new System.Drawing.Size(79, 26);
+            this.xtraTabPage56.Size = new System.Drawing.Size(27, 14);
             this.xtraTabPage56.Text = "ครั้งที่ 5";
             // 
             // Barview5
@@ -5517,7 +4790,7 @@ namespace Simulations
             // 
             this.xtraTabPage57.Controls.Add(this.Barview6);
             this.xtraTabPage57.Name = "xtraTabPage57";
-            this.xtraTabPage57.Size = new System.Drawing.Size(79, 26);
+            this.xtraTabPage57.Size = new System.Drawing.Size(27, 14);
             this.xtraTabPage57.Text = "ครั้งที่ 6";
             // 
             // Barview6
@@ -5532,7 +4805,7 @@ namespace Simulations
             // 
             this.xtraTabPage58.Controls.Add(this.Barview7);
             this.xtraTabPage58.Name = "xtraTabPage58";
-            this.xtraTabPage58.Size = new System.Drawing.Size(79, 26);
+            this.xtraTabPage58.Size = new System.Drawing.Size(27, 14);
             this.xtraTabPage58.Text = "ครั้งที่ 7";
             // 
             // Barview7
@@ -5547,7 +4820,7 @@ namespace Simulations
             // 
             this.xtraTabPage59.Controls.Add(this.Barview8);
             this.xtraTabPage59.Name = "xtraTabPage59";
-            this.xtraTabPage59.Size = new System.Drawing.Size(79, 26);
+            this.xtraTabPage59.Size = new System.Drawing.Size(27, 14);
             this.xtraTabPage59.Text = "ครั้งที่ 8";
             // 
             // Barview8
@@ -5562,7 +4835,7 @@ namespace Simulations
             // 
             this.xtraTabPage60.Controls.Add(this.Barview9);
             this.xtraTabPage60.Name = "xtraTabPage60";
-            this.xtraTabPage60.Size = new System.Drawing.Size(79, 26);
+            this.xtraTabPage60.Size = new System.Drawing.Size(27, 14);
             this.xtraTabPage60.Text = "ครั้งที่ 9";
             // 
             // Barview9
@@ -5577,7 +4850,7 @@ namespace Simulations
             // 
             this.xtraTabPage61.Controls.Add(this.Barview_10);
             this.xtraTabPage61.Name = "xtraTabPage61";
-            this.xtraTabPage61.Size = new System.Drawing.Size(79, 26);
+            this.xtraTabPage61.Size = new System.Drawing.Size(27, 14);
             this.xtraTabPage61.Text = "ครั้งที่ 10";
             // 
             // Barview_10
@@ -5595,7 +4868,7 @@ namespace Simulations
             this.TabControl_All.PageImagePosition = DevExpress.XtraTab.TabPageImagePosition.None;
             this.TabControl_All.SelectedTabPage = this.tab_Foff;
             this.TabControl_All.ShowTabHeader = DevExpress.Utils.DefaultBoolean.True;
-            this.TabControl_All.Size = new System.Drawing.Size(61, 50);
+            this.TabControl_All.Size = new System.Drawing.Size(150, 85);
             this.TabControl_All.TabIndex = 14;
             this.TabControl_All.TabPages.AddRange(new DevExpress.XtraTab.XtraTabPage[] {
             this.tab_Foff,
@@ -5609,7 +4882,7 @@ namespace Simulations
             // 
             this.tab_Foff.Controls.Add(this.Tab_Foff_test);
             this.tab_Foff.Name = "tab_Foff";
-            this.tab_Foff.Size = new System.Drawing.Size(55, 22);
+            this.tab_Foff.Size = new System.Drawing.Size(144, 57);
             this.tab_Foff.Text = "FIFO Off Dynamic";
             // 
             // Tab_Foff_test
@@ -5620,16 +4893,7 @@ namespace Simulations
             this.Tab_Foff_test.Size = new System.Drawing.Size(900, 500);
             this.Tab_Foff_test.TabIndex = 14;
             this.Tab_Foff_test.TabPages.AddRange(new DevExpress.XtraTab.XtraTabPage[] {
-            this.Foff_1,
-            this.Foff_2,
-            this.Foff_3,
-            this.Foff_4,
-            this.Foff_5,
-            this.Foff_6,
-            this.Foff_7,
-            this.Foff_8,
-            this.Foff_9,
-            this.Foff_10});
+            this.Foff_1});
             // 
             // Foff_1
             // 
@@ -5697,605 +4961,11 @@ namespace Simulations
             this.Chart_Foff1.Size = new System.Drawing.Size(400, 220);
             this.Chart_Foff1.TabIndex = 0;
             // 
-            // Foff_2
-            // 
-            this.Foff_2.Controls.Add(this.groupBox8);
-            this.Foff_2.Name = "Foff_2";
-            this.Foff_2.Size = new System.Drawing.Size(894, 472);
-            this.Foff_2.Text = "ครั้งที่ 2";
-            // 
-            // groupBox8
-            // 
-            this.groupBox8.Controls.Add(this.Chart_Foff2_3);
-            this.groupBox8.Controls.Add(this.Chart_Foff2_1);
-            this.groupBox8.Controls.Add(this.Chart_Foff2_2);
-            this.groupBox8.Controls.Add(this.Chart_Foff2_time);
-            this.groupBox8.Controls.Add(this.Chart_Foff2);
-            this.groupBox8.Location = new System.Drawing.Point(5, 5);
-            this.groupBox8.Name = "groupBox8";
-            this.groupBox8.Size = new System.Drawing.Size(900, 500);
-            this.groupBox8.TabIndex = 1;
-            this.groupBox8.TabStop = false;
-            this.groupBox8.Text = "groupBox4";
-            // 
-            // Chart_Foff2_3
-            // 
-            this.Chart_Foff2_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_Foff2_3.Name = "Chart_Foff2_3";
-            this.Chart_Foff2_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff2_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_Foff2_3.TabIndex = 4;
-            // 
-            // Chart_Foff2_1
-            // 
-            this.Chart_Foff2_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_Foff2_1.Name = "Chart_Foff2_1";
-            this.Chart_Foff2_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff2_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_Foff2_1.TabIndex = 2;
-            // 
-            // Chart_Foff2_2
-            // 
-            this.Chart_Foff2_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_Foff2_2.Name = "Chart_Foff2_2";
-            this.Chart_Foff2_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff2_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_Foff2_2.TabIndex = 3;
-            // 
-            // Chart_Foff2_time
-            // 
-            this.Chart_Foff2_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_Foff2_time.Name = "Chart_Foff2_time";
-            this.Chart_Foff2_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff2_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_Foff2_time.TabIndex = 1;
-            // 
-            // Chart_Foff2
-            // 
-            this.Chart_Foff2.IndicatorsPaletteName = "Palette 1";
-            this.Chart_Foff2.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_Foff2.Location = new System.Drawing.Point(20, 20);
-            this.Chart_Foff2.Name = "Chart_Foff2";
-            this.Chart_Foff2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff2.Size = new System.Drawing.Size(400, 220);
-            this.Chart_Foff2.TabIndex = 0;
-            // 
-            // Foff_3
-            // 
-            this.Foff_3.Controls.Add(this.groupBox15);
-            this.Foff_3.Name = "Foff_3";
-            this.Foff_3.Size = new System.Drawing.Size(894, 472);
-            this.Foff_3.Text = "ครั้งที่ 3";
-            // 
-            // groupBox15
-            // 
-            this.groupBox15.Controls.Add(this.Chart_Foff3_3);
-            this.groupBox15.Controls.Add(this.Chart_Foff3_1);
-            this.groupBox15.Controls.Add(this.Chart_Foff3_2);
-            this.groupBox15.Controls.Add(this.Chart_Foff3_time);
-            this.groupBox15.Controls.Add(this.Chart_Foff3);
-            this.groupBox15.Location = new System.Drawing.Point(5, 5);
-            this.groupBox15.Name = "groupBox15";
-            this.groupBox15.Size = new System.Drawing.Size(900, 500);
-            this.groupBox15.TabIndex = 1;
-            this.groupBox15.TabStop = false;
-            this.groupBox15.Text = "groupBox4";
-            // 
-            // Chart_Foff3_3
-            // 
-            this.Chart_Foff3_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_Foff3_3.Name = "Chart_Foff3_3";
-            this.Chart_Foff3_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff3_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_Foff3_3.TabIndex = 4;
-            // 
-            // Chart_Foff3_1
-            // 
-            this.Chart_Foff3_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_Foff3_1.Name = "Chart_Foff3_1";
-            this.Chart_Foff3_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff3_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_Foff3_1.TabIndex = 2;
-            // 
-            // Chart_Foff3_2
-            // 
-            this.Chart_Foff3_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_Foff3_2.Name = "Chart_Foff3_2";
-            this.Chart_Foff3_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff3_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_Foff3_2.TabIndex = 3;
-            // 
-            // Chart_Foff3_time
-            // 
-            this.Chart_Foff3_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_Foff3_time.Name = "Chart_Foff3_time";
-            this.Chart_Foff3_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff3_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_Foff3_time.TabIndex = 1;
-            // 
-            // Chart_Foff3
-            // 
-            this.Chart_Foff3.IndicatorsPaletteName = "Palette 1";
-            this.Chart_Foff3.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_Foff3.Location = new System.Drawing.Point(20, 20);
-            this.Chart_Foff3.Name = "Chart_Foff3";
-            this.Chart_Foff3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff3.Size = new System.Drawing.Size(400, 220);
-            this.Chart_Foff3.TabIndex = 0;
-            // 
-            // Foff_4
-            // 
-            this.Foff_4.Controls.Add(this.groupBox17);
-            this.Foff_4.Name = "Foff_4";
-            this.Foff_4.Size = new System.Drawing.Size(894, 472);
-            this.Foff_4.Text = "ครั้งที่ 4";
-            // 
-            // groupBox17
-            // 
-            this.groupBox17.Controls.Add(this.Chart_Foff4_3);
-            this.groupBox17.Controls.Add(this.Chart_Foff4_1);
-            this.groupBox17.Controls.Add(this.Chart_Foff4_2);
-            this.groupBox17.Controls.Add(this.Chart_Foff4_time);
-            this.groupBox17.Controls.Add(this.Chart_Foff4);
-            this.groupBox17.Location = new System.Drawing.Point(5, 5);
-            this.groupBox17.Name = "groupBox17";
-            this.groupBox17.Size = new System.Drawing.Size(900, 500);
-            this.groupBox17.TabIndex = 1;
-            this.groupBox17.TabStop = false;
-            this.groupBox17.Text = "groupBox4";
-            // 
-            // Chart_Foff4_3
-            // 
-            this.Chart_Foff4_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_Foff4_3.Name = "Chart_Foff4_3";
-            this.Chart_Foff4_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff4_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_Foff4_3.TabIndex = 4;
-            // 
-            // Chart_Foff4_1
-            // 
-            this.Chart_Foff4_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_Foff4_1.Name = "Chart_Foff4_1";
-            this.Chart_Foff4_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff4_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_Foff4_1.TabIndex = 2;
-            // 
-            // Chart_Foff4_2
-            // 
-            this.Chart_Foff4_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_Foff4_2.Name = "Chart_Foff4_2";
-            this.Chart_Foff4_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff4_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_Foff4_2.TabIndex = 3;
-            // 
-            // Chart_Foff4_time
-            // 
-            this.Chart_Foff4_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_Foff4_time.Name = "Chart_Foff4_time";
-            this.Chart_Foff4_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff4_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_Foff4_time.TabIndex = 1;
-            // 
-            // Chart_Foff4
-            // 
-            this.Chart_Foff4.IndicatorsPaletteName = "Palette 1";
-            this.Chart_Foff4.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_Foff4.Location = new System.Drawing.Point(20, 20);
-            this.Chart_Foff4.Name = "Chart_Foff4";
-            this.Chart_Foff4.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff4.Size = new System.Drawing.Size(400, 220);
-            this.Chart_Foff4.TabIndex = 0;
-            // 
-            // Foff_5
-            // 
-            this.Foff_5.Controls.Add(this.groupBox19);
-            this.Foff_5.Name = "Foff_5";
-            this.Foff_5.Size = new System.Drawing.Size(894, 472);
-            this.Foff_5.Text = "ครั้งที่ 5";
-            // 
-            // groupBox19
-            // 
-            this.groupBox19.Controls.Add(this.Chart_Foff5_3);
-            this.groupBox19.Controls.Add(this.Chart_Foff5_1);
-            this.groupBox19.Controls.Add(this.Chart_Foff5_2);
-            this.groupBox19.Controls.Add(this.Chart_Foff5_time);
-            this.groupBox19.Controls.Add(this.Chart_Foff5);
-            this.groupBox19.Location = new System.Drawing.Point(5, 5);
-            this.groupBox19.Name = "groupBox19";
-            this.groupBox19.Size = new System.Drawing.Size(900, 500);
-            this.groupBox19.TabIndex = 1;
-            this.groupBox19.TabStop = false;
-            this.groupBox19.Text = "groupBox4";
-            // 
-            // Chart_Foff5_3
-            // 
-            this.Chart_Foff5_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_Foff5_3.Name = "Chart_Foff5_3";
-            this.Chart_Foff5_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff5_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_Foff5_3.TabIndex = 4;
-            // 
-            // Chart_Foff5_1
-            // 
-            this.Chart_Foff5_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_Foff5_1.Name = "Chart_Foff5_1";
-            this.Chart_Foff5_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff5_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_Foff5_1.TabIndex = 2;
-            // 
-            // Chart_Foff5_2
-            // 
-            this.Chart_Foff5_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_Foff5_2.Name = "Chart_Foff5_2";
-            this.Chart_Foff5_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff5_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_Foff5_2.TabIndex = 3;
-            // 
-            // Chart_Foff5_time
-            // 
-            this.Chart_Foff5_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_Foff5_time.Name = "Chart_Foff5_time";
-            this.Chart_Foff5_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff5_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_Foff5_time.TabIndex = 1;
-            // 
-            // Chart_Foff5
-            // 
-            this.Chart_Foff5.IndicatorsPaletteName = "Palette 1";
-            this.Chart_Foff5.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_Foff5.Location = new System.Drawing.Point(20, 20);
-            this.Chart_Foff5.Name = "Chart_Foff5";
-            this.Chart_Foff5.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff5.Size = new System.Drawing.Size(400, 220);
-            this.Chart_Foff5.TabIndex = 0;
-            // 
-            // Foff_6
-            // 
-            this.Foff_6.Controls.Add(this.groupBox21);
-            this.Foff_6.Name = "Foff_6";
-            this.Foff_6.Size = new System.Drawing.Size(894, 472);
-            this.Foff_6.Text = "ครั้งที่ 6";
-            // 
-            // groupBox21
-            // 
-            this.groupBox21.Controls.Add(this.Chart_Foff6_3);
-            this.groupBox21.Controls.Add(this.Chart_Foff6_1);
-            this.groupBox21.Controls.Add(this.Chart_Foff6_2);
-            this.groupBox21.Controls.Add(this.Chart_Foff6_time);
-            this.groupBox21.Controls.Add(this.Chart_Foff6);
-            this.groupBox21.Location = new System.Drawing.Point(5, 5);
-            this.groupBox21.Name = "groupBox21";
-            this.groupBox21.Size = new System.Drawing.Size(900, 500);
-            this.groupBox21.TabIndex = 1;
-            this.groupBox21.TabStop = false;
-            this.groupBox21.Text = "groupBox4";
-            // 
-            // Chart_Foff6_3
-            // 
-            this.Chart_Foff6_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_Foff6_3.Name = "Chart_Foff6_3";
-            this.Chart_Foff6_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff6_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_Foff6_3.TabIndex = 4;
-            // 
-            // Chart_Foff6_1
-            // 
-            this.Chart_Foff6_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_Foff6_1.Name = "Chart_Foff6_1";
-            this.Chart_Foff6_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff6_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_Foff6_1.TabIndex = 2;
-            // 
-            // Chart_Foff6_2
-            // 
-            this.Chart_Foff6_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_Foff6_2.Name = "Chart_Foff6_2";
-            this.Chart_Foff6_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff6_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_Foff6_2.TabIndex = 3;
-            // 
-            // Chart_Foff6_time
-            // 
-            this.Chart_Foff6_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_Foff6_time.Name = "Chart_Foff6_time";
-            this.Chart_Foff6_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff6_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_Foff6_time.TabIndex = 1;
-            // 
-            // Chart_Foff6
-            // 
-            this.Chart_Foff6.IndicatorsPaletteName = "Palette 1";
-            this.Chart_Foff6.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_Foff6.Location = new System.Drawing.Point(20, 20);
-            this.Chart_Foff6.Name = "Chart_Foff6";
-            this.Chart_Foff6.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff6.Size = new System.Drawing.Size(400, 220);
-            this.Chart_Foff6.TabIndex = 0;
-            // 
-            // Foff_7
-            // 
-            this.Foff_7.Controls.Add(this.groupBox23);
-            this.Foff_7.Name = "Foff_7";
-            this.Foff_7.Size = new System.Drawing.Size(894, 472);
-            this.Foff_7.Text = "ครั้งที่ 7";
-            // 
-            // groupBox23
-            // 
-            this.groupBox23.Controls.Add(this.Chart_Foff7_3);
-            this.groupBox23.Controls.Add(this.Chart_Foff7_1);
-            this.groupBox23.Controls.Add(this.Chart_Foff7_2);
-            this.groupBox23.Controls.Add(this.Chart_Foff7_time);
-            this.groupBox23.Controls.Add(this.Chart_Foff7);
-            this.groupBox23.Location = new System.Drawing.Point(5, 5);
-            this.groupBox23.Name = "groupBox23";
-            this.groupBox23.Size = new System.Drawing.Size(900, 500);
-            this.groupBox23.TabIndex = 1;
-            this.groupBox23.TabStop = false;
-            this.groupBox23.Text = "groupBox4";
-            // 
-            // Chart_Foff7_3
-            // 
-            this.Chart_Foff7_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_Foff7_3.Name = "Chart_Foff7_3";
-            this.Chart_Foff7_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff7_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_Foff7_3.TabIndex = 4;
-            // 
-            // Chart_Foff7_1
-            // 
-            this.Chart_Foff7_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_Foff7_1.Name = "Chart_Foff7_1";
-            this.Chart_Foff7_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff7_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_Foff7_1.TabIndex = 2;
-            // 
-            // Chart_Foff7_2
-            // 
-            this.Chart_Foff7_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_Foff7_2.Name = "Chart_Foff7_2";
-            this.Chart_Foff7_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff7_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_Foff7_2.TabIndex = 3;
-            // 
-            // Chart_Foff7_time
-            // 
-            this.Chart_Foff7_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_Foff7_time.Name = "Chart_Foff7_time";
-            this.Chart_Foff7_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff7_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_Foff7_time.TabIndex = 1;
-            // 
-            // Chart_Foff7
-            // 
-            this.Chart_Foff7.IndicatorsPaletteName = "Palette 1";
-            this.Chart_Foff7.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_Foff7.Location = new System.Drawing.Point(20, 20);
-            this.Chart_Foff7.Name = "Chart_Foff7";
-            this.Chart_Foff7.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff7.Size = new System.Drawing.Size(400, 220);
-            this.Chart_Foff7.TabIndex = 0;
-            // 
-            // Foff_8
-            // 
-            this.Foff_8.Controls.Add(this.groupBox25);
-            this.Foff_8.Name = "Foff_8";
-            this.Foff_8.Size = new System.Drawing.Size(894, 472);
-            this.Foff_8.Text = "ครั้งที่ 8";
-            // 
-            // groupBox25
-            // 
-            this.groupBox25.Controls.Add(this.Chart_Foff8_3);
-            this.groupBox25.Controls.Add(this.Chart_Foff8_1);
-            this.groupBox25.Controls.Add(this.Chart_Foff8_2);
-            this.groupBox25.Controls.Add(this.Chart_Foff8_time);
-            this.groupBox25.Controls.Add(this.Chart_Foff8);
-            this.groupBox25.Location = new System.Drawing.Point(5, 5);
-            this.groupBox25.Name = "groupBox25";
-            this.groupBox25.Size = new System.Drawing.Size(900, 500);
-            this.groupBox25.TabIndex = 1;
-            this.groupBox25.TabStop = false;
-            this.groupBox25.Text = "groupBox4";
-            // 
-            // Chart_Foff8_3
-            // 
-            this.Chart_Foff8_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_Foff8_3.Name = "Chart_Foff8_3";
-            this.Chart_Foff8_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff8_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_Foff8_3.TabIndex = 4;
-            // 
-            // Chart_Foff8_1
-            // 
-            this.Chart_Foff8_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_Foff8_1.Name = "Chart_Foff8_1";
-            this.Chart_Foff8_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff8_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_Foff8_1.TabIndex = 2;
-            // 
-            // Chart_Foff8_2
-            // 
-            this.Chart_Foff8_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_Foff8_2.Name = "Chart_Foff8_2";
-            this.Chart_Foff8_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff8_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_Foff8_2.TabIndex = 3;
-            // 
-            // Chart_Foff8_time
-            // 
-            this.Chart_Foff8_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_Foff8_time.Name = "Chart_Foff8_time";
-            this.Chart_Foff8_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff8_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_Foff8_time.TabIndex = 1;
-            // 
-            // Chart_Foff8
-            // 
-            this.Chart_Foff8.IndicatorsPaletteName = "Palette 1";
-            this.Chart_Foff8.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_Foff8.Location = new System.Drawing.Point(20, 20);
-            this.Chart_Foff8.Name = "Chart_Foff8";
-            this.Chart_Foff8.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff8.Size = new System.Drawing.Size(400, 220);
-            this.Chart_Foff8.TabIndex = 0;
-            // 
-            // Foff_9
-            // 
-            this.Foff_9.Controls.Add(this.groupBox27);
-            this.Foff_9.Name = "Foff_9";
-            this.Foff_9.Size = new System.Drawing.Size(894, 472);
-            this.Foff_9.Text = "ครั้งที่ 9";
-            // 
-            // groupBox27
-            // 
-            this.groupBox27.Controls.Add(this.Chart_Foff9_3);
-            this.groupBox27.Controls.Add(this.Chart_Foff9_1);
-            this.groupBox27.Controls.Add(this.Chart_Foff9_2);
-            this.groupBox27.Controls.Add(this.Chart_Foff9_time);
-            this.groupBox27.Controls.Add(this.Chart_Foff9);
-            this.groupBox27.Location = new System.Drawing.Point(5, 5);
-            this.groupBox27.Name = "groupBox27";
-            this.groupBox27.Size = new System.Drawing.Size(900, 500);
-            this.groupBox27.TabIndex = 1;
-            this.groupBox27.TabStop = false;
-            this.groupBox27.Text = "groupBox4";
-            // 
-            // Chart_Foff9_3
-            // 
-            this.Chart_Foff9_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_Foff9_3.Name = "Chart_Foff9_3";
-            this.Chart_Foff9_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff9_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_Foff9_3.TabIndex = 4;
-            // 
-            // Chart_Foff9_1
-            // 
-            this.Chart_Foff9_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_Foff9_1.Name = "Chart_Foff9_1";
-            this.Chart_Foff9_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff9_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_Foff9_1.TabIndex = 2;
-            // 
-            // Chart_Foff9_2
-            // 
-            this.Chart_Foff9_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_Foff9_2.Name = "Chart_Foff9_2";
-            this.Chart_Foff9_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff9_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_Foff9_2.TabIndex = 3;
-            // 
-            // Chart_Foff9_time
-            // 
-            this.Chart_Foff9_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_Foff9_time.Name = "Chart_Foff9_time";
-            this.Chart_Foff9_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff9_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_Foff9_time.TabIndex = 1;
-            // 
-            // Chart_Foff9
-            // 
-            this.Chart_Foff9.IndicatorsPaletteName = "Palette 1";
-            this.Chart_Foff9.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_Foff9.Location = new System.Drawing.Point(20, 20);
-            this.Chart_Foff9.Name = "Chart_Foff9";
-            this.Chart_Foff9.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff9.Size = new System.Drawing.Size(400, 220);
-            this.Chart_Foff9.TabIndex = 0;
-            // 
-            // Foff_10
-            // 
-            this.Foff_10.Controls.Add(this.groupBox29);
-            this.Foff_10.Name = "Foff_10";
-            this.Foff_10.Size = new System.Drawing.Size(894, 472);
-            this.Foff_10.Text = "ครั้งที่ 10";
-            // 
-            // groupBox29
-            // 
-            this.groupBox29.Controls.Add(this.Chart_Foff10_3);
-            this.groupBox29.Controls.Add(this.Chart_Foff10_1);
-            this.groupBox29.Controls.Add(this.Chart_Foff10_2);
-            this.groupBox29.Controls.Add(this.Chart_Foff10_time);
-            this.groupBox29.Controls.Add(this.Chart_Foff10);
-            this.groupBox29.Location = new System.Drawing.Point(5, 5);
-            this.groupBox29.Name = "groupBox29";
-            this.groupBox29.Size = new System.Drawing.Size(900, 500);
-            this.groupBox29.TabIndex = 1;
-            this.groupBox29.TabStop = false;
-            this.groupBox29.Text = "groupBox4";
-            // 
-            // Chart_Foff10_3
-            // 
-            this.Chart_Foff10_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_Foff10_3.Name = "Chart_Foff10_3";
-            this.Chart_Foff10_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff10_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_Foff10_3.TabIndex = 4;
-            // 
-            // Chart_Foff10_1
-            // 
-            this.Chart_Foff10_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_Foff10_1.Name = "Chart_Foff10_1";
-            this.Chart_Foff10_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff10_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_Foff10_1.TabIndex = 2;
-            // 
-            // Chart_Foff10_2
-            // 
-            this.Chart_Foff10_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_Foff10_2.Name = "Chart_Foff10_2";
-            this.Chart_Foff10_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff10_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_Foff10_2.TabIndex = 3;
-            // 
-            // Chart_Foff10_time
-            // 
-            this.Chart_Foff10_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_Foff10_time.Name = "Chart_Foff10_time";
-            this.Chart_Foff10_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff10_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_Foff10_time.TabIndex = 1;
-            // 
-            // Chart_Foff10
-            // 
-            this.Chart_Foff10.IndicatorsPaletteName = "Palette 1";
-            this.Chart_Foff10.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_Foff10.Location = new System.Drawing.Point(20, 20);
-            this.Chart_Foff10.Name = "Chart_Foff10";
-            this.Chart_Foff10.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_Foff10.Size = new System.Drawing.Size(400, 220);
-            this.Chart_Foff10.TabIndex = 0;
-            // 
             // tab_Fonf
             // 
             this.tab_Fonf.Controls.Add(this.Tab_FonF_test);
             this.tab_Fonf.Name = "tab_Fonf";
-            this.tab_Fonf.Size = new System.Drawing.Size(55, 22);
+            this.tab_Fonf.Size = new System.Drawing.Size(144, 57);
             this.tab_Fonf.Text = "FIFO On Dynamic FIFO";
             // 
             // Tab_FonF_test
@@ -6306,16 +4976,7 @@ namespace Simulations
             this.Tab_FonF_test.Size = new System.Drawing.Size(900, 500);
             this.Tab_FonF_test.TabIndex = 15;
             this.Tab_FonF_test.TabPages.AddRange(new DevExpress.XtraTab.XtraTabPage[] {
-            this.xtraTabPage1,
-            this.xtraTabPage2,
-            this.xtraTabPage3,
-            this.xtraTabPage4,
-            this.xtraTabPage5,
-            this.xtraTabPage6,
-            this.xtraTabPage7,
-            this.xtraTabPage8,
-            this.xtraTabPage9,
-            this.xtraTabPage10});
+            this.xtraTabPage1});
             // 
             // xtraTabPage1
             // 
@@ -6383,605 +5044,11 @@ namespace Simulations
             this.Chart_FonF1.Size = new System.Drawing.Size(400, 220);
             this.Chart_FonF1.TabIndex = 0;
             // 
-            // xtraTabPage2
-            // 
-            this.xtraTabPage2.Controls.Add(this.groupBox33);
-            this.xtraTabPage2.Name = "xtraTabPage2";
-            this.xtraTabPage2.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage2.Text = "ครั้งที่ 2";
-            // 
-            // groupBox33
-            // 
-            this.groupBox33.Controls.Add(this.Chart_FonF2_3);
-            this.groupBox33.Controls.Add(this.Chart_FonF2_1);
-            this.groupBox33.Controls.Add(this.Chart_FonF2_2);
-            this.groupBox33.Controls.Add(this.Chart_FonF2_time);
-            this.groupBox33.Controls.Add(this.Chart_FonF2);
-            this.groupBox33.Location = new System.Drawing.Point(5, 5);
-            this.groupBox33.Name = "groupBox33";
-            this.groupBox33.Size = new System.Drawing.Size(900, 500);
-            this.groupBox33.TabIndex = 1;
-            this.groupBox33.TabStop = false;
-            this.groupBox33.Text = "groupBox4";
-            // 
-            // Chart_FonF2_3
-            // 
-            this.Chart_FonF2_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_FonF2_3.Name = "Chart_FonF2_3";
-            this.Chart_FonF2_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF2_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonF2_3.TabIndex = 4;
-            // 
-            // Chart_FonF2_1
-            // 
-            this.Chart_FonF2_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_FonF2_1.Name = "Chart_FonF2_1";
-            this.Chart_FonF2_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF2_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonF2_1.TabIndex = 2;
-            // 
-            // Chart_FonF2_2
-            // 
-            this.Chart_FonF2_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_FonF2_2.Name = "Chart_FonF2_2";
-            this.Chart_FonF2_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF2_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonF2_2.TabIndex = 3;
-            // 
-            // Chart_FonF2_time
-            // 
-            this.Chart_FonF2_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_FonF2_time.Name = "Chart_FonF2_time";
-            this.Chart_FonF2_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF2_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonF2_time.TabIndex = 1;
-            // 
-            // Chart_FonF2
-            // 
-            this.Chart_FonF2.IndicatorsPaletteName = "Palette 1";
-            this.Chart_FonF2.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_FonF2.Location = new System.Drawing.Point(20, 20);
-            this.Chart_FonF2.Name = "Chart_FonF2";
-            this.Chart_FonF2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF2.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonF2.TabIndex = 0;
-            // 
-            // xtraTabPage3
-            // 
-            this.xtraTabPage3.Controls.Add(this.groupBox35);
-            this.xtraTabPage3.Name = "xtraTabPage3";
-            this.xtraTabPage3.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage3.Text = "ครั้งที่ 3";
-            // 
-            // groupBox35
-            // 
-            this.groupBox35.Controls.Add(this.Chart_FonF3_3);
-            this.groupBox35.Controls.Add(this.Chart_FonF3_1);
-            this.groupBox35.Controls.Add(this.Chart_FonF3_2);
-            this.groupBox35.Controls.Add(this.Chart_FonF3_time);
-            this.groupBox35.Controls.Add(this.Chart_FonF3);
-            this.groupBox35.Location = new System.Drawing.Point(5, 5);
-            this.groupBox35.Name = "groupBox35";
-            this.groupBox35.Size = new System.Drawing.Size(900, 500);
-            this.groupBox35.TabIndex = 1;
-            this.groupBox35.TabStop = false;
-            this.groupBox35.Text = "groupBox4";
-            // 
-            // Chart_FonF3_3
-            // 
-            this.Chart_FonF3_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_FonF3_3.Name = "Chart_FonF3_3";
-            this.Chart_FonF3_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF3_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonF3_3.TabIndex = 4;
-            // 
-            // Chart_FonF3_1
-            // 
-            this.Chart_FonF3_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_FonF3_1.Name = "Chart_FonF3_1";
-            this.Chart_FonF3_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF3_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonF3_1.TabIndex = 2;
-            // 
-            // Chart_FonF3_2
-            // 
-            this.Chart_FonF3_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_FonF3_2.Name = "Chart_FonF3_2";
-            this.Chart_FonF3_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF3_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonF3_2.TabIndex = 3;
-            // 
-            // Chart_FonF3_time
-            // 
-            this.Chart_FonF3_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_FonF3_time.Name = "Chart_FonF3_time";
-            this.Chart_FonF3_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF3_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonF3_time.TabIndex = 1;
-            // 
-            // Chart_FonF3
-            // 
-            this.Chart_FonF3.IndicatorsPaletteName = "Palette 1";
-            this.Chart_FonF3.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_FonF3.Location = new System.Drawing.Point(20, 20);
-            this.Chart_FonF3.Name = "Chart_FonF3";
-            this.Chart_FonF3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF3.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonF3.TabIndex = 0;
-            // 
-            // xtraTabPage4
-            // 
-            this.xtraTabPage4.Controls.Add(this.groupBox37);
-            this.xtraTabPage4.Name = "xtraTabPage4";
-            this.xtraTabPage4.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage4.Text = "ครั้งที่ 4";
-            // 
-            // groupBox37
-            // 
-            this.groupBox37.Controls.Add(this.Chart_FonF4_3);
-            this.groupBox37.Controls.Add(this.Chart_FonF4_1);
-            this.groupBox37.Controls.Add(this.Chart_FonF4_2);
-            this.groupBox37.Controls.Add(this.Chart_FonF4_time);
-            this.groupBox37.Controls.Add(this.Chart_FonF4);
-            this.groupBox37.Location = new System.Drawing.Point(5, 5);
-            this.groupBox37.Name = "groupBox37";
-            this.groupBox37.Size = new System.Drawing.Size(900, 500);
-            this.groupBox37.TabIndex = 1;
-            this.groupBox37.TabStop = false;
-            this.groupBox37.Text = "groupBox4";
-            // 
-            // Chart_FonF4_3
-            // 
-            this.Chart_FonF4_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_FonF4_3.Name = "Chart_FonF4_3";
-            this.Chart_FonF4_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF4_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonF4_3.TabIndex = 4;
-            // 
-            // Chart_FonF4_1
-            // 
-            this.Chart_FonF4_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_FonF4_1.Name = "Chart_FonF4_1";
-            this.Chart_FonF4_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF4_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonF4_1.TabIndex = 2;
-            // 
-            // Chart_FonF4_2
-            // 
-            this.Chart_FonF4_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_FonF4_2.Name = "Chart_FonF4_2";
-            this.Chart_FonF4_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF4_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonF4_2.TabIndex = 3;
-            // 
-            // Chart_FonF4_time
-            // 
-            this.Chart_FonF4_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_FonF4_time.Name = "Chart_FonF4_time";
-            this.Chart_FonF4_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF4_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonF4_time.TabIndex = 1;
-            // 
-            // Chart_FonF4
-            // 
-            this.Chart_FonF4.IndicatorsPaletteName = "Palette 1";
-            this.Chart_FonF4.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_FonF4.Location = new System.Drawing.Point(20, 20);
-            this.Chart_FonF4.Name = "Chart_FonF4";
-            this.Chart_FonF4.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF4.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonF4.TabIndex = 0;
-            // 
-            // xtraTabPage5
-            // 
-            this.xtraTabPage5.Controls.Add(this.groupBox39);
-            this.xtraTabPage5.Name = "xtraTabPage5";
-            this.xtraTabPage5.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage5.Text = "ครั้งที่ 5";
-            // 
-            // groupBox39
-            // 
-            this.groupBox39.Controls.Add(this.Chart_FonF5_3);
-            this.groupBox39.Controls.Add(this.Chart_FonF5_1);
-            this.groupBox39.Controls.Add(this.Chart_FonF5_2);
-            this.groupBox39.Controls.Add(this.Chart_FonF5_time);
-            this.groupBox39.Controls.Add(this.Chart_FonF5);
-            this.groupBox39.Location = new System.Drawing.Point(5, 5);
-            this.groupBox39.Name = "groupBox39";
-            this.groupBox39.Size = new System.Drawing.Size(900, 500);
-            this.groupBox39.TabIndex = 1;
-            this.groupBox39.TabStop = false;
-            this.groupBox39.Text = "groupBox4";
-            // 
-            // Chart_FonF5_3
-            // 
-            this.Chart_FonF5_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_FonF5_3.Name = "Chart_FonF5_3";
-            this.Chart_FonF5_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF5_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonF5_3.TabIndex = 4;
-            // 
-            // Chart_FonF5_1
-            // 
-            this.Chart_FonF5_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_FonF5_1.Name = "Chart_FonF5_1";
-            this.Chart_FonF5_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF5_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonF5_1.TabIndex = 2;
-            // 
-            // Chart_FonF5_2
-            // 
-            this.Chart_FonF5_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_FonF5_2.Name = "Chart_FonF5_2";
-            this.Chart_FonF5_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF5_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonF5_2.TabIndex = 3;
-            // 
-            // Chart_FonF5_time
-            // 
-            this.Chart_FonF5_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_FonF5_time.Name = "Chart_FonF5_time";
-            this.Chart_FonF5_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF5_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonF5_time.TabIndex = 1;
-            // 
-            // Chart_FonF5
-            // 
-            this.Chart_FonF5.IndicatorsPaletteName = "Palette 1";
-            this.Chart_FonF5.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_FonF5.Location = new System.Drawing.Point(20, 20);
-            this.Chart_FonF5.Name = "Chart_FonF5";
-            this.Chart_FonF5.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF5.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonF5.TabIndex = 0;
-            // 
-            // xtraTabPage6
-            // 
-            this.xtraTabPage6.Controls.Add(this.groupBox41);
-            this.xtraTabPage6.Name = "xtraTabPage6";
-            this.xtraTabPage6.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage6.Text = "ครั้งที่ 6";
-            // 
-            // groupBox41
-            // 
-            this.groupBox41.Controls.Add(this.Chart_FonF6_3);
-            this.groupBox41.Controls.Add(this.Chart_FonF6_1);
-            this.groupBox41.Controls.Add(this.Chart_FonF6_2);
-            this.groupBox41.Controls.Add(this.Chart_FonF6_time);
-            this.groupBox41.Controls.Add(this.Chart_FonF6);
-            this.groupBox41.Location = new System.Drawing.Point(5, 5);
-            this.groupBox41.Name = "groupBox41";
-            this.groupBox41.Size = new System.Drawing.Size(900, 500);
-            this.groupBox41.TabIndex = 1;
-            this.groupBox41.TabStop = false;
-            this.groupBox41.Text = "groupBox4";
-            // 
-            // Chart_FonF6_3
-            // 
-            this.Chart_FonF6_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_FonF6_3.Name = "Chart_FonF6_3";
-            this.Chart_FonF6_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF6_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonF6_3.TabIndex = 4;
-            // 
-            // Chart_FonF6_1
-            // 
-            this.Chart_FonF6_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_FonF6_1.Name = "Chart_FonF6_1";
-            this.Chart_FonF6_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF6_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonF6_1.TabIndex = 2;
-            // 
-            // Chart_FonF6_2
-            // 
-            this.Chart_FonF6_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_FonF6_2.Name = "Chart_FonF6_2";
-            this.Chart_FonF6_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF6_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonF6_2.TabIndex = 3;
-            // 
-            // Chart_FonF6_time
-            // 
-            this.Chart_FonF6_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_FonF6_time.Name = "Chart_FonF6_time";
-            this.Chart_FonF6_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF6_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonF6_time.TabIndex = 1;
-            // 
-            // Chart_FonF6
-            // 
-            this.Chart_FonF6.IndicatorsPaletteName = "Palette 1";
-            this.Chart_FonF6.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_FonF6.Location = new System.Drawing.Point(20, 20);
-            this.Chart_FonF6.Name = "Chart_FonF6";
-            this.Chart_FonF6.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF6.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonF6.TabIndex = 0;
-            // 
-            // xtraTabPage7
-            // 
-            this.xtraTabPage7.Controls.Add(this.groupBox43);
-            this.xtraTabPage7.Name = "xtraTabPage7";
-            this.xtraTabPage7.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage7.Text = "ครั้งที่ 7";
-            // 
-            // groupBox43
-            // 
-            this.groupBox43.Controls.Add(this.Chart_FonF7_3);
-            this.groupBox43.Controls.Add(this.Chart_FonF7_1);
-            this.groupBox43.Controls.Add(this.Chart_FonF7_2);
-            this.groupBox43.Controls.Add(this.Chart_FonF7_time);
-            this.groupBox43.Controls.Add(this.Chart_FonF7);
-            this.groupBox43.Location = new System.Drawing.Point(5, 5);
-            this.groupBox43.Name = "groupBox43";
-            this.groupBox43.Size = new System.Drawing.Size(900, 500);
-            this.groupBox43.TabIndex = 1;
-            this.groupBox43.TabStop = false;
-            this.groupBox43.Text = "groupBox4";
-            // 
-            // Chart_FonF7_3
-            // 
-            this.Chart_FonF7_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_FonF7_3.Name = "Chart_FonF7_3";
-            this.Chart_FonF7_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF7_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonF7_3.TabIndex = 4;
-            // 
-            // Chart_FonF7_1
-            // 
-            this.Chart_FonF7_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_FonF7_1.Name = "Chart_FonF7_1";
-            this.Chart_FonF7_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF7_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonF7_1.TabIndex = 2;
-            // 
-            // Chart_FonF7_2
-            // 
-            this.Chart_FonF7_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_FonF7_2.Name = "Chart_FonF7_2";
-            this.Chart_FonF7_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF7_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonF7_2.TabIndex = 3;
-            // 
-            // Chart_FonF7_time
-            // 
-            this.Chart_FonF7_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_FonF7_time.Name = "Chart_FonF7_time";
-            this.Chart_FonF7_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF7_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonF7_time.TabIndex = 1;
-            // 
-            // Chart_FonF7
-            // 
-            this.Chart_FonF7.IndicatorsPaletteName = "Palette 1";
-            this.Chart_FonF7.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_FonF7.Location = new System.Drawing.Point(20, 20);
-            this.Chart_FonF7.Name = "Chart_FonF7";
-            this.Chart_FonF7.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF7.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonF7.TabIndex = 0;
-            // 
-            // xtraTabPage8
-            // 
-            this.xtraTabPage8.Controls.Add(this.groupBox45);
-            this.xtraTabPage8.Name = "xtraTabPage8";
-            this.xtraTabPage8.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage8.Text = "ครั้งที่ 8";
-            // 
-            // groupBox45
-            // 
-            this.groupBox45.Controls.Add(this.Chart_FonF8_3);
-            this.groupBox45.Controls.Add(this.Chart_FonF8_1);
-            this.groupBox45.Controls.Add(this.Chart_FonF8_2);
-            this.groupBox45.Controls.Add(this.Chart_FonF8_time);
-            this.groupBox45.Controls.Add(this.Chart_FonF8);
-            this.groupBox45.Location = new System.Drawing.Point(5, 5);
-            this.groupBox45.Name = "groupBox45";
-            this.groupBox45.Size = new System.Drawing.Size(900, 500);
-            this.groupBox45.TabIndex = 1;
-            this.groupBox45.TabStop = false;
-            this.groupBox45.Text = "groupBox4";
-            // 
-            // Chart_FonF8_3
-            // 
-            this.Chart_FonF8_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_FonF8_3.Name = "Chart_FonF8_3";
-            this.Chart_FonF8_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF8_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonF8_3.TabIndex = 4;
-            // 
-            // Chart_FonF8_1
-            // 
-            this.Chart_FonF8_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_FonF8_1.Name = "Chart_FonF8_1";
-            this.Chart_FonF8_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF8_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonF8_1.TabIndex = 2;
-            // 
-            // Chart_FonF8_2
-            // 
-            this.Chart_FonF8_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_FonF8_2.Name = "Chart_FonF8_2";
-            this.Chart_FonF8_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF8_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonF8_2.TabIndex = 3;
-            // 
-            // Chart_FonF8_time
-            // 
-            this.Chart_FonF8_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_FonF8_time.Name = "Chart_FonF8_time";
-            this.Chart_FonF8_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF8_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonF8_time.TabIndex = 1;
-            // 
-            // Chart_FonF8
-            // 
-            this.Chart_FonF8.IndicatorsPaletteName = "Palette 1";
-            this.Chart_FonF8.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_FonF8.Location = new System.Drawing.Point(20, 20);
-            this.Chart_FonF8.Name = "Chart_FonF8";
-            this.Chart_FonF8.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF8.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonF8.TabIndex = 0;
-            // 
-            // xtraTabPage9
-            // 
-            this.xtraTabPage9.Controls.Add(this.groupBox47);
-            this.xtraTabPage9.Name = "xtraTabPage9";
-            this.xtraTabPage9.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage9.Text = "ครั้งที่ 9";
-            // 
-            // groupBox47
-            // 
-            this.groupBox47.Controls.Add(this.Chart_FonF9_3);
-            this.groupBox47.Controls.Add(this.Chart_FonF9_1);
-            this.groupBox47.Controls.Add(this.Chart_FonF9_2);
-            this.groupBox47.Controls.Add(this.Chart_FonF9_time);
-            this.groupBox47.Controls.Add(this.Chart_FonF9);
-            this.groupBox47.Location = new System.Drawing.Point(5, 5);
-            this.groupBox47.Name = "groupBox47";
-            this.groupBox47.Size = new System.Drawing.Size(900, 500);
-            this.groupBox47.TabIndex = 1;
-            this.groupBox47.TabStop = false;
-            this.groupBox47.Text = "groupBox4";
-            // 
-            // Chart_FonF9_3
-            // 
-            this.Chart_FonF9_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_FonF9_3.Name = "Chart_FonF9_3";
-            this.Chart_FonF9_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF9_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonF9_3.TabIndex = 4;
-            // 
-            // Chart_FonF9_1
-            // 
-            this.Chart_FonF9_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_FonF9_1.Name = "Chart_FonF9_1";
-            this.Chart_FonF9_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF9_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonF9_1.TabIndex = 2;
-            // 
-            // Chart_FonF9_2
-            // 
-            this.Chart_FonF9_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_FonF9_2.Name = "Chart_FonF9_2";
-            this.Chart_FonF9_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF9_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonF9_2.TabIndex = 3;
-            // 
-            // Chart_FonF9_time
-            // 
-            this.Chart_FonF9_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_FonF9_time.Name = "Chart_FonF9_time";
-            this.Chart_FonF9_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF9_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonF9_time.TabIndex = 1;
-            // 
-            // Chart_FonF9
-            // 
-            this.Chart_FonF9.IndicatorsPaletteName = "Palette 1";
-            this.Chart_FonF9.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_FonF9.Location = new System.Drawing.Point(20, 20);
-            this.Chart_FonF9.Name = "Chart_FonF9";
-            this.Chart_FonF9.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF9.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonF9.TabIndex = 0;
-            // 
-            // xtraTabPage10
-            // 
-            this.xtraTabPage10.Controls.Add(this.groupBox49);
-            this.xtraTabPage10.Name = "xtraTabPage10";
-            this.xtraTabPage10.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage10.Text = "ครั้งที่ 10";
-            // 
-            // groupBox49
-            // 
-            this.groupBox49.Controls.Add(this.Chart_FonF10_3);
-            this.groupBox49.Controls.Add(this.Chart_FonF10_1);
-            this.groupBox49.Controls.Add(this.Chart_FonF10_2);
-            this.groupBox49.Controls.Add(this.Chart_FonF10_time);
-            this.groupBox49.Controls.Add(this.Chart_FonF10);
-            this.groupBox49.Location = new System.Drawing.Point(5, 5);
-            this.groupBox49.Name = "groupBox49";
-            this.groupBox49.Size = new System.Drawing.Size(900, 500);
-            this.groupBox49.TabIndex = 1;
-            this.groupBox49.TabStop = false;
-            this.groupBox49.Text = "groupBox4";
-            // 
-            // Chart_FonF10_3
-            // 
-            this.Chart_FonF10_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_FonF10_3.Name = "Chart_FonF10_3";
-            this.Chart_FonF10_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF10_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonF10_3.TabIndex = 4;
-            // 
-            // Chart_FonF10_1
-            // 
-            this.Chart_FonF10_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_FonF10_1.Name = "Chart_FonF10_1";
-            this.Chart_FonF10_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF10_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonF10_1.TabIndex = 2;
-            // 
-            // Chart_FonF10_2
-            // 
-            this.Chart_FonF10_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_FonF10_2.Name = "Chart_FonF10_2";
-            this.Chart_FonF10_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF10_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonF10_2.TabIndex = 3;
-            // 
-            // Chart_FonF10_time
-            // 
-            this.Chart_FonF10_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_FonF10_time.Name = "Chart_FonF10_time";
-            this.Chart_FonF10_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF10_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonF10_time.TabIndex = 1;
-            // 
-            // Chart_FonF10
-            // 
-            this.Chart_FonF10.IndicatorsPaletteName = "Palette 1";
-            this.Chart_FonF10.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_FonF10.Location = new System.Drawing.Point(20, 20);
-            this.Chart_FonF10.Name = "Chart_FonF10";
-            this.Chart_FonF10.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonF10.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonF10.TabIndex = 0;
-            // 
             // tab_Fonj
             // 
             this.tab_Fonj.Controls.Add(this.Tab_FonS_test);
             this.tab_Fonj.Name = "tab_Fonj";
-            this.tab_Fonj.Size = new System.Drawing.Size(55, 22);
+            this.tab_Fonj.Size = new System.Drawing.Size(144, 57);
             this.tab_Fonj.Text = "FIFO On Dynamic SJF";
             // 
             // Tab_FonS_test
@@ -6992,16 +5059,7 @@ namespace Simulations
             this.Tab_FonS_test.Size = new System.Drawing.Size(900, 500);
             this.Tab_FonS_test.TabIndex = 16;
             this.Tab_FonS_test.TabPages.AddRange(new DevExpress.XtraTab.XtraTabPage[] {
-            this.xtraTabPage11,
-            this.xtraTabPage12,
-            this.xtraTabPage13,
-            this.xtraTabPage14,
-            this.xtraTabPage15,
-            this.xtraTabPage16,
-            this.xtraTabPage17,
-            this.xtraTabPage18,
-            this.xtraTabPage19,
-            this.xtraTabPage20});
+            this.xtraTabPage11});
             // 
             // xtraTabPage11
             // 
@@ -7069,605 +5127,11 @@ namespace Simulations
             this.Chart_FonS1.Size = new System.Drawing.Size(400, 220);
             this.Chart_FonS1.TabIndex = 0;
             // 
-            // xtraTabPage12
-            // 
-            this.xtraTabPage12.Controls.Add(this.groupBox53);
-            this.xtraTabPage12.Name = "xtraTabPage12";
-            this.xtraTabPage12.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage12.Text = "ครั้งที่ 2";
-            // 
-            // groupBox53
-            // 
-            this.groupBox53.Controls.Add(this.Chart_FonS2_2);
-            this.groupBox53.Controls.Add(this.Chart_FonS2_3);
-            this.groupBox53.Controls.Add(this.Chart_FonS2_1);
-            this.groupBox53.Controls.Add(this.Chart_FonS2_time);
-            this.groupBox53.Controls.Add(this.Chart_FonS2);
-            this.groupBox53.Location = new System.Drawing.Point(5, 5);
-            this.groupBox53.Name = "groupBox53";
-            this.groupBox53.Size = new System.Drawing.Size(900, 500);
-            this.groupBox53.TabIndex = 1;
-            this.groupBox53.TabStop = false;
-            this.groupBox53.Text = "groupBox4";
-            // 
-            // Chart_FonS2_2
-            // 
-            this.Chart_FonS2_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_FonS2_2.Name = "Chart_FonS2_2";
-            this.Chart_FonS2_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS2_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonS2_2.TabIndex = 3;
-            // 
-            // Chart_FonS2_3
-            // 
-            this.Chart_FonS2_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_FonS2_3.Name = "Chart_FonS2_3";
-            this.Chart_FonS2_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS2_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonS2_3.TabIndex = 4;
-            // 
-            // Chart_FonS2_1
-            // 
-            this.Chart_FonS2_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_FonS2_1.Name = "Chart_FonS2_1";
-            this.Chart_FonS2_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS2_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonS2_1.TabIndex = 2;
-            // 
-            // Chart_FonS2_time
-            // 
-            this.Chart_FonS2_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_FonS2_time.Name = "Chart_FonS2_time";
-            this.Chart_FonS2_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS2_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonS2_time.TabIndex = 1;
-            // 
-            // Chart_FonS2
-            // 
-            this.Chart_FonS2.IndicatorsPaletteName = "Palette 1";
-            this.Chart_FonS2.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_FonS2.Location = new System.Drawing.Point(20, 20);
-            this.Chart_FonS2.Name = "Chart_FonS2";
-            this.Chart_FonS2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS2.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonS2.TabIndex = 0;
-            // 
-            // xtraTabPage13
-            // 
-            this.xtraTabPage13.Controls.Add(this.groupBox55);
-            this.xtraTabPage13.Name = "xtraTabPage13";
-            this.xtraTabPage13.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage13.Text = "ครั้งที่ 3";
-            // 
-            // groupBox55
-            // 
-            this.groupBox55.Controls.Add(this.Chart_FonS3_3);
-            this.groupBox55.Controls.Add(this.Chart_FonS3_1);
-            this.groupBox55.Controls.Add(this.Chart_FonS3_2);
-            this.groupBox55.Controls.Add(this.Chart_FonS3_time);
-            this.groupBox55.Controls.Add(this.Chart_FonS3);
-            this.groupBox55.Location = new System.Drawing.Point(5, 5);
-            this.groupBox55.Name = "groupBox55";
-            this.groupBox55.Size = new System.Drawing.Size(900, 500);
-            this.groupBox55.TabIndex = 1;
-            this.groupBox55.TabStop = false;
-            this.groupBox55.Text = "groupBox4";
-            // 
-            // Chart_FonS3_3
-            // 
-            this.Chart_FonS3_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_FonS3_3.Name = "Chart_FonS3_3";
-            this.Chart_FonS3_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS3_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonS3_3.TabIndex = 4;
-            // 
-            // Chart_FonS3_1
-            // 
-            this.Chart_FonS3_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_FonS3_1.Name = "Chart_FonS3_1";
-            this.Chart_FonS3_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS3_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonS3_1.TabIndex = 2;
-            // 
-            // Chart_FonS3_2
-            // 
-            this.Chart_FonS3_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_FonS3_2.Name = "Chart_FonS3_2";
-            this.Chart_FonS3_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS3_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonS3_2.TabIndex = 3;
-            // 
-            // Chart_FonS3_time
-            // 
-            this.Chart_FonS3_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_FonS3_time.Name = "Chart_FonS3_time";
-            this.Chart_FonS3_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS3_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonS3_time.TabIndex = 1;
-            // 
-            // Chart_FonS3
-            // 
-            this.Chart_FonS3.IndicatorsPaletteName = "Palette 1";
-            this.Chart_FonS3.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_FonS3.Location = new System.Drawing.Point(20, 20);
-            this.Chart_FonS3.Name = "Chart_FonS3";
-            this.Chart_FonS3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS3.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonS3.TabIndex = 0;
-            // 
-            // xtraTabPage14
-            // 
-            this.xtraTabPage14.Controls.Add(this.groupBox57);
-            this.xtraTabPage14.Name = "xtraTabPage14";
-            this.xtraTabPage14.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage14.Text = "ครั้งที่ 4";
-            // 
-            // groupBox57
-            // 
-            this.groupBox57.Controls.Add(this.Chart_FonS4_3);
-            this.groupBox57.Controls.Add(this.Chart_FonS4_1);
-            this.groupBox57.Controls.Add(this.Chart_FonS4_2);
-            this.groupBox57.Controls.Add(this.Chart_FonS4_time);
-            this.groupBox57.Controls.Add(this.Chart_FonS4);
-            this.groupBox57.Location = new System.Drawing.Point(5, 5);
-            this.groupBox57.Name = "groupBox57";
-            this.groupBox57.Size = new System.Drawing.Size(900, 500);
-            this.groupBox57.TabIndex = 1;
-            this.groupBox57.TabStop = false;
-            this.groupBox57.Text = "groupBox4";
-            // 
-            // Chart_FonS4_3
-            // 
-            this.Chart_FonS4_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_FonS4_3.Name = "Chart_FonS4_3";
-            this.Chart_FonS4_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS4_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonS4_3.TabIndex = 4;
-            // 
-            // Chart_FonS4_1
-            // 
-            this.Chart_FonS4_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_FonS4_1.Name = "Chart_FonS4_1";
-            this.Chart_FonS4_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS4_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonS4_1.TabIndex = 2;
-            // 
-            // Chart_FonS4_2
-            // 
-            this.Chart_FonS4_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_FonS4_2.Name = "Chart_FonS4_2";
-            this.Chart_FonS4_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS4_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonS4_2.TabIndex = 3;
-            // 
-            // Chart_FonS4_time
-            // 
-            this.Chart_FonS4_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_FonS4_time.Name = "Chart_FonS4_time";
-            this.Chart_FonS4_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS4_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonS4_time.TabIndex = 1;
-            // 
-            // Chart_FonS4
-            // 
-            this.Chart_FonS4.IndicatorsPaletteName = "Palette 1";
-            this.Chart_FonS4.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_FonS4.Location = new System.Drawing.Point(20, 20);
-            this.Chart_FonS4.Name = "Chart_FonS4";
-            this.Chart_FonS4.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS4.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonS4.TabIndex = 0;
-            // 
-            // xtraTabPage15
-            // 
-            this.xtraTabPage15.Controls.Add(this.groupBox59);
-            this.xtraTabPage15.Name = "xtraTabPage15";
-            this.xtraTabPage15.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage15.Text = "ครั้งที่ 5";
-            // 
-            // groupBox59
-            // 
-            this.groupBox59.Controls.Add(this.Chart_FonS5_2);
-            this.groupBox59.Controls.Add(this.Chart_FonS5_3);
-            this.groupBox59.Controls.Add(this.Chart_FonS5_1);
-            this.groupBox59.Controls.Add(this.Chart_FonS5_time);
-            this.groupBox59.Controls.Add(this.Chart_FonS5);
-            this.groupBox59.Location = new System.Drawing.Point(5, 5);
-            this.groupBox59.Name = "groupBox59";
-            this.groupBox59.Size = new System.Drawing.Size(900, 500);
-            this.groupBox59.TabIndex = 1;
-            this.groupBox59.TabStop = false;
-            this.groupBox59.Text = "groupBox4";
-            // 
-            // Chart_FonS5_2
-            // 
-            this.Chart_FonS5_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_FonS5_2.Name = "Chart_FonS5_2";
-            this.Chart_FonS5_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS5_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonS5_2.TabIndex = 3;
-            // 
-            // Chart_FonS5_3
-            // 
-            this.Chart_FonS5_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_FonS5_3.Name = "Chart_FonS5_3";
-            this.Chart_FonS5_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS5_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonS5_3.TabIndex = 4;
-            // 
-            // Chart_FonS5_1
-            // 
-            this.Chart_FonS5_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_FonS5_1.Name = "Chart_FonS5_1";
-            this.Chart_FonS5_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS5_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonS5_1.TabIndex = 2;
-            // 
-            // Chart_FonS5_time
-            // 
-            this.Chart_FonS5_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_FonS5_time.Name = "Chart_FonS5_time";
-            this.Chart_FonS5_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS5_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonS5_time.TabIndex = 1;
-            // 
-            // Chart_FonS5
-            // 
-            this.Chart_FonS5.IndicatorsPaletteName = "Palette 1";
-            this.Chart_FonS5.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_FonS5.Location = new System.Drawing.Point(20, 20);
-            this.Chart_FonS5.Name = "Chart_FonS5";
-            this.Chart_FonS5.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS5.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonS5.TabIndex = 0;
-            // 
-            // xtraTabPage16
-            // 
-            this.xtraTabPage16.Controls.Add(this.groupBox61);
-            this.xtraTabPage16.Name = "xtraTabPage16";
-            this.xtraTabPage16.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage16.Text = "ครั้งที่ 6";
-            // 
-            // groupBox61
-            // 
-            this.groupBox61.Controls.Add(this.Chart_FonS6_3);
-            this.groupBox61.Controls.Add(this.Chart_FonS6_1);
-            this.groupBox61.Controls.Add(this.Chart_FonS6_2);
-            this.groupBox61.Controls.Add(this.Chart_FonS6_time);
-            this.groupBox61.Controls.Add(this.Chart_FonS6);
-            this.groupBox61.Location = new System.Drawing.Point(5, 5);
-            this.groupBox61.Name = "groupBox61";
-            this.groupBox61.Size = new System.Drawing.Size(900, 500);
-            this.groupBox61.TabIndex = 1;
-            this.groupBox61.TabStop = false;
-            this.groupBox61.Text = "groupBox4";
-            // 
-            // Chart_FonS6_3
-            // 
-            this.Chart_FonS6_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_FonS6_3.Name = "Chart_FonS6_3";
-            this.Chart_FonS6_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS6_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonS6_3.TabIndex = 4;
-            // 
-            // Chart_FonS6_1
-            // 
-            this.Chart_FonS6_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_FonS6_1.Name = "Chart_FonS6_1";
-            this.Chart_FonS6_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS6_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonS6_1.TabIndex = 2;
-            // 
-            // Chart_FonS6_2
-            // 
-            this.Chart_FonS6_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_FonS6_2.Name = "Chart_FonS6_2";
-            this.Chart_FonS6_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS6_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonS6_2.TabIndex = 3;
-            // 
-            // Chart_FonS6_time
-            // 
-            this.Chart_FonS6_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_FonS6_time.Name = "Chart_FonS6_time";
-            this.Chart_FonS6_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS6_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonS6_time.TabIndex = 1;
-            // 
-            // Chart_FonS6
-            // 
-            this.Chart_FonS6.IndicatorsPaletteName = "Palette 1";
-            this.Chart_FonS6.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_FonS6.Location = new System.Drawing.Point(20, 20);
-            this.Chart_FonS6.Name = "Chart_FonS6";
-            this.Chart_FonS6.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS6.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonS6.TabIndex = 0;
-            // 
-            // xtraTabPage17
-            // 
-            this.xtraTabPage17.Controls.Add(this.groupBox63);
-            this.xtraTabPage17.Name = "xtraTabPage17";
-            this.xtraTabPage17.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage17.Text = "ครั้งที่ 7";
-            // 
-            // groupBox63
-            // 
-            this.groupBox63.Controls.Add(this.Chart_FonS7_3);
-            this.groupBox63.Controls.Add(this.Chart_FonS7_1);
-            this.groupBox63.Controls.Add(this.Chart_FonS7_2);
-            this.groupBox63.Controls.Add(this.Chart_FonS7_time);
-            this.groupBox63.Controls.Add(this.Chart_FonS7_);
-            this.groupBox63.Location = new System.Drawing.Point(5, 5);
-            this.groupBox63.Name = "groupBox63";
-            this.groupBox63.Size = new System.Drawing.Size(900, 500);
-            this.groupBox63.TabIndex = 1;
-            this.groupBox63.TabStop = false;
-            this.groupBox63.Text = "groupBox4";
-            // 
-            // Chart_FonS7_3
-            // 
-            this.Chart_FonS7_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_FonS7_3.Name = "Chart_FonS7_3";
-            this.Chart_FonS7_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS7_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonS7_3.TabIndex = 4;
-            // 
-            // Chart_FonS7_1
-            // 
-            this.Chart_FonS7_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_FonS7_1.Name = "Chart_FonS7_1";
-            this.Chart_FonS7_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS7_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonS7_1.TabIndex = 2;
-            // 
-            // Chart_FonS7_2
-            // 
-            this.Chart_FonS7_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_FonS7_2.Name = "Chart_FonS7_2";
-            this.Chart_FonS7_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS7_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonS7_2.TabIndex = 3;
-            // 
-            // Chart_FonS7_time
-            // 
-            this.Chart_FonS7_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_FonS7_time.Name = "Chart_FonS7_time";
-            this.Chart_FonS7_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS7_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonS7_time.TabIndex = 1;
-            // 
-            // Chart_FonS7_
-            // 
-            this.Chart_FonS7_.IndicatorsPaletteName = "Palette 1";
-            this.Chart_FonS7_.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_FonS7_.Location = new System.Drawing.Point(20, 20);
-            this.Chart_FonS7_.Name = "Chart_FonS7_";
-            this.Chart_FonS7_.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS7_.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonS7_.TabIndex = 0;
-            // 
-            // xtraTabPage18
-            // 
-            this.xtraTabPage18.Controls.Add(this.groupBox65);
-            this.xtraTabPage18.Name = "xtraTabPage18";
-            this.xtraTabPage18.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage18.Text = "ครั้งที่ 8";
-            // 
-            // groupBox65
-            // 
-            this.groupBox65.Controls.Add(this.Chart_FonS8_3);
-            this.groupBox65.Controls.Add(this.Chart_FonS8_1);
-            this.groupBox65.Controls.Add(this.Chart_FonS8_2);
-            this.groupBox65.Controls.Add(this.Chart_FonS8_time);
-            this.groupBox65.Controls.Add(this.Chart_FonS8);
-            this.groupBox65.Location = new System.Drawing.Point(5, 5);
-            this.groupBox65.Name = "groupBox65";
-            this.groupBox65.Size = new System.Drawing.Size(900, 500);
-            this.groupBox65.TabIndex = 1;
-            this.groupBox65.TabStop = false;
-            this.groupBox65.Text = "groupBox4";
-            // 
-            // Chart_FonS8_3
-            // 
-            this.Chart_FonS8_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_FonS8_3.Name = "Chart_FonS8_3";
-            this.Chart_FonS8_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS8_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonS8_3.TabIndex = 4;
-            // 
-            // Chart_FonS8_1
-            // 
-            this.Chart_FonS8_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_FonS8_1.Name = "Chart_FonS8_1";
-            this.Chart_FonS8_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS8_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonS8_1.TabIndex = 2;
-            // 
-            // Chart_FonS8_2
-            // 
-            this.Chart_FonS8_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_FonS8_2.Name = "Chart_FonS8_2";
-            this.Chart_FonS8_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS8_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonS8_2.TabIndex = 3;
-            // 
-            // Chart_FonS8_time
-            // 
-            this.Chart_FonS8_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_FonS8_time.Name = "Chart_FonS8_time";
-            this.Chart_FonS8_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS8_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonS8_time.TabIndex = 1;
-            // 
-            // Chart_FonS8
-            // 
-            this.Chart_FonS8.IndicatorsPaletteName = "Palette 1";
-            this.Chart_FonS8.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_FonS8.Location = new System.Drawing.Point(20, 20);
-            this.Chart_FonS8.Name = "Chart_FonS8";
-            this.Chart_FonS8.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS8.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonS8.TabIndex = 0;
-            // 
-            // xtraTabPage19
-            // 
-            this.xtraTabPage19.Controls.Add(this.groupBox67);
-            this.xtraTabPage19.Name = "xtraTabPage19";
-            this.xtraTabPage19.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage19.Text = "ครั้งที่ 9";
-            // 
-            // groupBox67
-            // 
-            this.groupBox67.Controls.Add(this.Chart_FonS9_3);
-            this.groupBox67.Controls.Add(this.Chart_FonS9_1);
-            this.groupBox67.Controls.Add(this.Chart_FonS9_2);
-            this.groupBox67.Controls.Add(this.Chart_FonS9_time);
-            this.groupBox67.Controls.Add(this.Chart_FonS9);
-            this.groupBox67.Location = new System.Drawing.Point(5, 5);
-            this.groupBox67.Name = "groupBox67";
-            this.groupBox67.Size = new System.Drawing.Size(900, 500);
-            this.groupBox67.TabIndex = 1;
-            this.groupBox67.TabStop = false;
-            this.groupBox67.Text = "groupBox4";
-            // 
-            // Chart_FonS9_3
-            // 
-            this.Chart_FonS9_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_FonS9_3.Name = "Chart_FonS9_3";
-            this.Chart_FonS9_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS9_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonS9_3.TabIndex = 4;
-            // 
-            // Chart_FonS9_1
-            // 
-            this.Chart_FonS9_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_FonS9_1.Name = "Chart_FonS9_1";
-            this.Chart_FonS9_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS9_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonS9_1.TabIndex = 2;
-            // 
-            // Chart_FonS9_2
-            // 
-            this.Chart_FonS9_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_FonS9_2.Name = "Chart_FonS9_2";
-            this.Chart_FonS9_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS9_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonS9_2.TabIndex = 3;
-            // 
-            // Chart_FonS9_time
-            // 
-            this.Chart_FonS9_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_FonS9_time.Name = "Chart_FonS9_time";
-            this.Chart_FonS9_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS9_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonS9_time.TabIndex = 1;
-            // 
-            // Chart_FonS9
-            // 
-            this.Chart_FonS9.IndicatorsPaletteName = "Palette 1";
-            this.Chart_FonS9.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_FonS9.Location = new System.Drawing.Point(20, 20);
-            this.Chart_FonS9.Name = "Chart_FonS9";
-            this.Chart_FonS9.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS9.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonS9.TabIndex = 0;
-            // 
-            // xtraTabPage20
-            // 
-            this.xtraTabPage20.Controls.Add(this.groupBox69);
-            this.xtraTabPage20.Name = "xtraTabPage20";
-            this.xtraTabPage20.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage20.Text = "ครั้งที่ 10";
-            // 
-            // groupBox69
-            // 
-            this.groupBox69.Controls.Add(this.Chart_FonS10_3);
-            this.groupBox69.Controls.Add(this.Chart_FonS10_1);
-            this.groupBox69.Controls.Add(this.Chart_FonS10_2);
-            this.groupBox69.Controls.Add(this.Chart_FonS10_time);
-            this.groupBox69.Controls.Add(this.Chart_FonS10);
-            this.groupBox69.Location = new System.Drawing.Point(5, 5);
-            this.groupBox69.Name = "groupBox69";
-            this.groupBox69.Size = new System.Drawing.Size(900, 500);
-            this.groupBox69.TabIndex = 1;
-            this.groupBox69.TabStop = false;
-            this.groupBox69.Text = "groupBox4";
-            // 
-            // Chart_FonS10_3
-            // 
-            this.Chart_FonS10_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_FonS10_3.Name = "Chart_FonS10_3";
-            this.Chart_FonS10_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS10_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonS10_3.TabIndex = 4;
-            // 
-            // Chart_FonS10_1
-            // 
-            this.Chart_FonS10_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_FonS10_1.Name = "Chart_FonS10_1";
-            this.Chart_FonS10_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS10_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonS10_1.TabIndex = 2;
-            // 
-            // Chart_FonS10_2
-            // 
-            this.Chart_FonS10_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_FonS10_2.Name = "Chart_FonS10_2";
-            this.Chart_FonS10_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS10_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_FonS10_2.TabIndex = 3;
-            // 
-            // Chart_FonS10_time
-            // 
-            this.Chart_FonS10_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_FonS10_time.Name = "Chart_FonS10_time";
-            this.Chart_FonS10_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS10_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonS10_time.TabIndex = 1;
-            // 
-            // Chart_FonS10
-            // 
-            this.Chart_FonS10.IndicatorsPaletteName = "Palette 1";
-            this.Chart_FonS10.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_FonS10.Location = new System.Drawing.Point(20, 20);
-            this.Chart_FonS10.Name = "Chart_FonS10";
-            this.Chart_FonS10.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_FonS10.Size = new System.Drawing.Size(400, 220);
-            this.Chart_FonS10.TabIndex = 0;
-            // 
             // tab_Joff
             // 
             this.tab_Joff.Controls.Add(this.xtraTabControl1);
             this.tab_Joff.Name = "tab_Joff";
-            this.tab_Joff.Size = new System.Drawing.Size(55, 22);
+            this.tab_Joff.Size = new System.Drawing.Size(144, 57);
             this.tab_Joff.Text = "SJF Off Dynamic";
             // 
             // xtraTabControl1
@@ -7678,16 +5142,7 @@ namespace Simulations
             this.xtraTabControl1.Size = new System.Drawing.Size(900, 500);
             this.xtraTabControl1.TabIndex = 15;
             this.xtraTabControl1.TabPages.AddRange(new DevExpress.XtraTab.XtraTabPage[] {
-            this.xtraTabPage21,
-            this.xtraTabPage22,
-            this.xtraTabPage23,
-            this.xtraTabPage24,
-            this.xtraTabPage25,
-            this.xtraTabPage26,
-            this.xtraTabPage27,
-            this.xtraTabPage28,
-            this.xtraTabPage29,
-            this.xtraTabPage30});
+            this.xtraTabPage21});
             // 
             // xtraTabPage21
             // 
@@ -7755,605 +5210,11 @@ namespace Simulations
             this.Chart_SoFF1.Size = new System.Drawing.Size(400, 220);
             this.Chart_SoFF1.TabIndex = 0;
             // 
-            // xtraTabPage22
-            // 
-            this.xtraTabPage22.Controls.Add(this.groupBox73);
-            this.xtraTabPage22.Name = "xtraTabPage22";
-            this.xtraTabPage22.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage22.Text = "ครั้งที่ 2";
-            // 
-            // groupBox73
-            // 
-            this.groupBox73.Controls.Add(this.Chart_SoFF2_3);
-            this.groupBox73.Controls.Add(this.Chart_SoFF2_1);
-            this.groupBox73.Controls.Add(this.Chart_SoFF2_2);
-            this.groupBox73.Controls.Add(this.Chart_SoFF2_time);
-            this.groupBox73.Controls.Add(this.Chart_SoFF2);
-            this.groupBox73.Location = new System.Drawing.Point(5, 5);
-            this.groupBox73.Name = "groupBox73";
-            this.groupBox73.Size = new System.Drawing.Size(900, 500);
-            this.groupBox73.TabIndex = 1;
-            this.groupBox73.TabStop = false;
-            this.groupBox73.Text = "groupBox4";
-            // 
-            // Chart_SoFF2_3
-            // 
-            this.Chart_SoFF2_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_SoFF2_3.Name = "Chart_SoFF2_3";
-            this.Chart_SoFF2_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF2_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SoFF2_3.TabIndex = 4;
-            // 
-            // Chart_SoFF2_1
-            // 
-            this.Chart_SoFF2_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_SoFF2_1.Name = "Chart_SoFF2_1";
-            this.Chart_SoFF2_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF2_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SoFF2_1.TabIndex = 2;
-            // 
-            // Chart_SoFF2_2
-            // 
-            this.Chart_SoFF2_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_SoFF2_2.Name = "Chart_SoFF2_2";
-            this.Chart_SoFF2_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF2_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SoFF2_2.TabIndex = 3;
-            // 
-            // Chart_SoFF2_time
-            // 
-            this.Chart_SoFF2_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_SoFF2_time.Name = "Chart_SoFF2_time";
-            this.Chart_SoFF2_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF2_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SoFF2_time.TabIndex = 1;
-            // 
-            // Chart_SoFF2
-            // 
-            this.Chart_SoFF2.IndicatorsPaletteName = "Palette 1";
-            this.Chart_SoFF2.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_SoFF2.Location = new System.Drawing.Point(20, 20);
-            this.Chart_SoFF2.Name = "Chart_SoFF2";
-            this.Chart_SoFF2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF2.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SoFF2.TabIndex = 0;
-            // 
-            // xtraTabPage23
-            // 
-            this.xtraTabPage23.Controls.Add(this.groupBox75);
-            this.xtraTabPage23.Name = "xtraTabPage23";
-            this.xtraTabPage23.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage23.Text = "ครั้งที่ 3";
-            // 
-            // groupBox75
-            // 
-            this.groupBox75.Controls.Add(this.Chart_SoFF3_3);
-            this.groupBox75.Controls.Add(this.Chart_SoFF3_1);
-            this.groupBox75.Controls.Add(this.Chart_SoFF3_2);
-            this.groupBox75.Controls.Add(this.Chart_SoFF3_time);
-            this.groupBox75.Controls.Add(this.Chart_SoFF3);
-            this.groupBox75.Location = new System.Drawing.Point(5, 5);
-            this.groupBox75.Name = "groupBox75";
-            this.groupBox75.Size = new System.Drawing.Size(900, 500);
-            this.groupBox75.TabIndex = 1;
-            this.groupBox75.TabStop = false;
-            this.groupBox75.Text = "groupBox4";
-            // 
-            // Chart_SoFF3_3
-            // 
-            this.Chart_SoFF3_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_SoFF3_3.Name = "Chart_SoFF3_3";
-            this.Chart_SoFF3_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF3_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SoFF3_3.TabIndex = 4;
-            // 
-            // Chart_SoFF3_1
-            // 
-            this.Chart_SoFF3_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_SoFF3_1.Name = "Chart_SoFF3_1";
-            this.Chart_SoFF3_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF3_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SoFF3_1.TabIndex = 2;
-            // 
-            // Chart_SoFF3_2
-            // 
-            this.Chart_SoFF3_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_SoFF3_2.Name = "Chart_SoFF3_2";
-            this.Chart_SoFF3_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF3_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SoFF3_2.TabIndex = 3;
-            // 
-            // Chart_SoFF3_time
-            // 
-            this.Chart_SoFF3_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_SoFF3_time.Name = "Chart_SoFF3_time";
-            this.Chart_SoFF3_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF3_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SoFF3_time.TabIndex = 1;
-            // 
-            // Chart_SoFF3
-            // 
-            this.Chart_SoFF3.IndicatorsPaletteName = "Palette 1";
-            this.Chart_SoFF3.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_SoFF3.Location = new System.Drawing.Point(20, 20);
-            this.Chart_SoFF3.Name = "Chart_SoFF3";
-            this.Chart_SoFF3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF3.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SoFF3.TabIndex = 0;
-            // 
-            // xtraTabPage24
-            // 
-            this.xtraTabPage24.Controls.Add(this.groupBox77);
-            this.xtraTabPage24.Name = "xtraTabPage24";
-            this.xtraTabPage24.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage24.Text = "ครั้งที่ 4";
-            // 
-            // groupBox77
-            // 
-            this.groupBox77.Controls.Add(this.Chart_SoFF4_3);
-            this.groupBox77.Controls.Add(this.Chart_SoFF4_1);
-            this.groupBox77.Controls.Add(this.Chart_SoFF4_2);
-            this.groupBox77.Controls.Add(this.Chart_SoFF4_time);
-            this.groupBox77.Controls.Add(this.Chart_SoFF4);
-            this.groupBox77.Location = new System.Drawing.Point(5, 5);
-            this.groupBox77.Name = "groupBox77";
-            this.groupBox77.Size = new System.Drawing.Size(900, 500);
-            this.groupBox77.TabIndex = 1;
-            this.groupBox77.TabStop = false;
-            this.groupBox77.Text = "groupBox4";
-            // 
-            // Chart_SoFF4_3
-            // 
-            this.Chart_SoFF4_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_SoFF4_3.Name = "Chart_SoFF4_3";
-            this.Chart_SoFF4_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF4_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SoFF4_3.TabIndex = 4;
-            // 
-            // Chart_SoFF4_1
-            // 
-            this.Chart_SoFF4_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_SoFF4_1.Name = "Chart_SoFF4_1";
-            this.Chart_SoFF4_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF4_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SoFF4_1.TabIndex = 2;
-            // 
-            // Chart_SoFF4_2
-            // 
-            this.Chart_SoFF4_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_SoFF4_2.Name = "Chart_SoFF4_2";
-            this.Chart_SoFF4_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF4_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SoFF4_2.TabIndex = 3;
-            // 
-            // Chart_SoFF4_time
-            // 
-            this.Chart_SoFF4_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_SoFF4_time.Name = "Chart_SoFF4_time";
-            this.Chart_SoFF4_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF4_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SoFF4_time.TabIndex = 1;
-            // 
-            // Chart_SoFF4
-            // 
-            this.Chart_SoFF4.IndicatorsPaletteName = "Palette 1";
-            this.Chart_SoFF4.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_SoFF4.Location = new System.Drawing.Point(20, 20);
-            this.Chart_SoFF4.Name = "Chart_SoFF4";
-            this.Chart_SoFF4.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF4.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SoFF4.TabIndex = 0;
-            // 
-            // xtraTabPage25
-            // 
-            this.xtraTabPage25.Controls.Add(this.groupBox79);
-            this.xtraTabPage25.Name = "xtraTabPage25";
-            this.xtraTabPage25.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage25.Text = "ครั้งที่ 5";
-            // 
-            // groupBox79
-            // 
-            this.groupBox79.Controls.Add(this.Chart_SoFF5_3);
-            this.groupBox79.Controls.Add(this.Chart_SoFF5_1);
-            this.groupBox79.Controls.Add(this.Chart_SoFF5_2);
-            this.groupBox79.Controls.Add(this.Chart_SoFF5_time);
-            this.groupBox79.Controls.Add(this.Chart_SoFF5);
-            this.groupBox79.Location = new System.Drawing.Point(5, 5);
-            this.groupBox79.Name = "groupBox79";
-            this.groupBox79.Size = new System.Drawing.Size(900, 500);
-            this.groupBox79.TabIndex = 1;
-            this.groupBox79.TabStop = false;
-            this.groupBox79.Text = "groupBox4";
-            // 
-            // Chart_SoFF5_3
-            // 
-            this.Chart_SoFF5_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_SoFF5_3.Name = "Chart_SoFF5_3";
-            this.Chart_SoFF5_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF5_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SoFF5_3.TabIndex = 4;
-            // 
-            // Chart_SoFF5_1
-            // 
-            this.Chart_SoFF5_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_SoFF5_1.Name = "Chart_SoFF5_1";
-            this.Chart_SoFF5_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF5_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SoFF5_1.TabIndex = 2;
-            // 
-            // Chart_SoFF5_2
-            // 
-            this.Chart_SoFF5_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_SoFF5_2.Name = "Chart_SoFF5_2";
-            this.Chart_SoFF5_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF5_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SoFF5_2.TabIndex = 3;
-            // 
-            // Chart_SoFF5_time
-            // 
-            this.Chart_SoFF5_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_SoFF5_time.Name = "Chart_SoFF5_time";
-            this.Chart_SoFF5_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF5_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SoFF5_time.TabIndex = 1;
-            // 
-            // Chart_SoFF5
-            // 
-            this.Chart_SoFF5.IndicatorsPaletteName = "Palette 1";
-            this.Chart_SoFF5.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_SoFF5.Location = new System.Drawing.Point(20, 20);
-            this.Chart_SoFF5.Name = "Chart_SoFF5";
-            this.Chart_SoFF5.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF5.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SoFF5.TabIndex = 0;
-            // 
-            // xtraTabPage26
-            // 
-            this.xtraTabPage26.Controls.Add(this.groupBox81);
-            this.xtraTabPage26.Name = "xtraTabPage26";
-            this.xtraTabPage26.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage26.Text = "ครั้งที่ 6";
-            // 
-            // groupBox81
-            // 
-            this.groupBox81.Controls.Add(this.Chart_SoFF6_3);
-            this.groupBox81.Controls.Add(this.Chart_SoFF6_1);
-            this.groupBox81.Controls.Add(this.Chart_SoFF6_2);
-            this.groupBox81.Controls.Add(this.Chart_SoFF6_time);
-            this.groupBox81.Controls.Add(this.Chart_SoFF6);
-            this.groupBox81.Location = new System.Drawing.Point(5, 5);
-            this.groupBox81.Name = "groupBox81";
-            this.groupBox81.Size = new System.Drawing.Size(900, 500);
-            this.groupBox81.TabIndex = 1;
-            this.groupBox81.TabStop = false;
-            this.groupBox81.Text = "groupBox4";
-            // 
-            // Chart_SoFF6_3
-            // 
-            this.Chart_SoFF6_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_SoFF6_3.Name = "Chart_SoFF6_3";
-            this.Chart_SoFF6_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF6_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SoFF6_3.TabIndex = 4;
-            // 
-            // Chart_SoFF6_1
-            // 
-            this.Chart_SoFF6_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_SoFF6_1.Name = "Chart_SoFF6_1";
-            this.Chart_SoFF6_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF6_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SoFF6_1.TabIndex = 2;
-            // 
-            // Chart_SoFF6_2
-            // 
-            this.Chart_SoFF6_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_SoFF6_2.Name = "Chart_SoFF6_2";
-            this.Chart_SoFF6_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF6_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SoFF6_2.TabIndex = 3;
-            // 
-            // Chart_SoFF6_time
-            // 
-            this.Chart_SoFF6_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_SoFF6_time.Name = "Chart_SoFF6_time";
-            this.Chart_SoFF6_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF6_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SoFF6_time.TabIndex = 1;
-            // 
-            // Chart_SoFF6
-            // 
-            this.Chart_SoFF6.IndicatorsPaletteName = "Palette 1";
-            this.Chart_SoFF6.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_SoFF6.Location = new System.Drawing.Point(20, 20);
-            this.Chart_SoFF6.Name = "Chart_SoFF6";
-            this.Chart_SoFF6.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF6.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SoFF6.TabIndex = 0;
-            // 
-            // xtraTabPage27
-            // 
-            this.xtraTabPage27.Controls.Add(this.groupBox83);
-            this.xtraTabPage27.Name = "xtraTabPage27";
-            this.xtraTabPage27.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage27.Text = "ครั้งที่ 7";
-            // 
-            // groupBox83
-            // 
-            this.groupBox83.Controls.Add(this.Chart_SoFF7_3);
-            this.groupBox83.Controls.Add(this.Chart_SoFF7_1);
-            this.groupBox83.Controls.Add(this.Chart_SoFF7_2);
-            this.groupBox83.Controls.Add(this.Chart_SoFF7_time);
-            this.groupBox83.Controls.Add(this.Chart_SoFF7);
-            this.groupBox83.Location = new System.Drawing.Point(5, 5);
-            this.groupBox83.Name = "groupBox83";
-            this.groupBox83.Size = new System.Drawing.Size(900, 500);
-            this.groupBox83.TabIndex = 1;
-            this.groupBox83.TabStop = false;
-            this.groupBox83.Text = "groupBox4";
-            // 
-            // Chart_SoFF7_3
-            // 
-            this.Chart_SoFF7_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_SoFF7_3.Name = "Chart_SoFF7_3";
-            this.Chart_SoFF7_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF7_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SoFF7_3.TabIndex = 4;
-            // 
-            // Chart_SoFF7_1
-            // 
-            this.Chart_SoFF7_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_SoFF7_1.Name = "Chart_SoFF7_1";
-            this.Chart_SoFF7_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF7_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SoFF7_1.TabIndex = 2;
-            // 
-            // Chart_SoFF7_2
-            // 
-            this.Chart_SoFF7_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_SoFF7_2.Name = "Chart_SoFF7_2";
-            this.Chart_SoFF7_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF7_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SoFF7_2.TabIndex = 3;
-            // 
-            // Chart_SoFF7_time
-            // 
-            this.Chart_SoFF7_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_SoFF7_time.Name = "Chart_SoFF7_time";
-            this.Chart_SoFF7_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF7_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SoFF7_time.TabIndex = 1;
-            // 
-            // Chart_SoFF7
-            // 
-            this.Chart_SoFF7.IndicatorsPaletteName = "Palette 1";
-            this.Chart_SoFF7.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_SoFF7.Location = new System.Drawing.Point(20, 20);
-            this.Chart_SoFF7.Name = "Chart_SoFF7";
-            this.Chart_SoFF7.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF7.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SoFF7.TabIndex = 0;
-            // 
-            // xtraTabPage28
-            // 
-            this.xtraTabPage28.Controls.Add(this.groupBox85);
-            this.xtraTabPage28.Name = "xtraTabPage28";
-            this.xtraTabPage28.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage28.Text = "ครั้งที่ 8";
-            // 
-            // groupBox85
-            // 
-            this.groupBox85.Controls.Add(this.Chart_SoFF8_3);
-            this.groupBox85.Controls.Add(this.Chart_SoFF8_1);
-            this.groupBox85.Controls.Add(this.Chart_SoFF8_2);
-            this.groupBox85.Controls.Add(this.Chart_SoFF8_time);
-            this.groupBox85.Controls.Add(this.Chart_SoFF8);
-            this.groupBox85.Location = new System.Drawing.Point(5, 5);
-            this.groupBox85.Name = "groupBox85";
-            this.groupBox85.Size = new System.Drawing.Size(900, 500);
-            this.groupBox85.TabIndex = 1;
-            this.groupBox85.TabStop = false;
-            this.groupBox85.Text = "groupBox4";
-            // 
-            // Chart_SoFF8_3
-            // 
-            this.Chart_SoFF8_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_SoFF8_3.Name = "Chart_SoFF8_3";
-            this.Chart_SoFF8_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF8_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SoFF8_3.TabIndex = 4;
-            // 
-            // Chart_SoFF8_1
-            // 
-            this.Chart_SoFF8_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_SoFF8_1.Name = "Chart_SoFF8_1";
-            this.Chart_SoFF8_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF8_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SoFF8_1.TabIndex = 2;
-            // 
-            // Chart_SoFF8_2
-            // 
-            this.Chart_SoFF8_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_SoFF8_2.Name = "Chart_SoFF8_2";
-            this.Chart_SoFF8_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF8_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SoFF8_2.TabIndex = 3;
-            // 
-            // Chart_SoFF8_time
-            // 
-            this.Chart_SoFF8_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_SoFF8_time.Name = "Chart_SoFF8_time";
-            this.Chart_SoFF8_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF8_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SoFF8_time.TabIndex = 1;
-            // 
-            // Chart_SoFF8
-            // 
-            this.Chart_SoFF8.IndicatorsPaletteName = "Palette 1";
-            this.Chart_SoFF8.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_SoFF8.Location = new System.Drawing.Point(20, 20);
-            this.Chart_SoFF8.Name = "Chart_SoFF8";
-            this.Chart_SoFF8.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF8.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SoFF8.TabIndex = 0;
-            // 
-            // xtraTabPage29
-            // 
-            this.xtraTabPage29.Controls.Add(this.groupBox87);
-            this.xtraTabPage29.Name = "xtraTabPage29";
-            this.xtraTabPage29.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage29.Text = "ครั้งที่ 9";
-            // 
-            // groupBox87
-            // 
-            this.groupBox87.Controls.Add(this.Chart_SoFF9_3);
-            this.groupBox87.Controls.Add(this.Chart_SoFF9_1);
-            this.groupBox87.Controls.Add(this.Chart_SoFF9_2);
-            this.groupBox87.Controls.Add(this.Chart_SoFF9_time);
-            this.groupBox87.Controls.Add(this.Chart_SoFF9);
-            this.groupBox87.Location = new System.Drawing.Point(5, 5);
-            this.groupBox87.Name = "groupBox87";
-            this.groupBox87.Size = new System.Drawing.Size(900, 500);
-            this.groupBox87.TabIndex = 1;
-            this.groupBox87.TabStop = false;
-            this.groupBox87.Text = "groupBox4";
-            // 
-            // Chart_SoFF9_3
-            // 
-            this.Chart_SoFF9_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_SoFF9_3.Name = "Chart_SoFF9_3";
-            this.Chart_SoFF9_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF9_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SoFF9_3.TabIndex = 4;
-            // 
-            // Chart_SoFF9_1
-            // 
-            this.Chart_SoFF9_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_SoFF9_1.Name = "Chart_SoFF9_1";
-            this.Chart_SoFF9_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF9_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SoFF9_1.TabIndex = 2;
-            // 
-            // Chart_SoFF9_2
-            // 
-            this.Chart_SoFF9_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_SoFF9_2.Name = "Chart_SoFF9_2";
-            this.Chart_SoFF9_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF9_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SoFF9_2.TabIndex = 3;
-            // 
-            // Chart_SoFF9_time
-            // 
-            this.Chart_SoFF9_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_SoFF9_time.Name = "Chart_SoFF9_time";
-            this.Chart_SoFF9_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF9_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SoFF9_time.TabIndex = 1;
-            // 
-            // Chart_SoFF9
-            // 
-            this.Chart_SoFF9.IndicatorsPaletteName = "Palette 1";
-            this.Chart_SoFF9.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_SoFF9.Location = new System.Drawing.Point(20, 20);
-            this.Chart_SoFF9.Name = "Chart_SoFF9";
-            this.Chart_SoFF9.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF9.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SoFF9.TabIndex = 0;
-            // 
-            // xtraTabPage30
-            // 
-            this.xtraTabPage30.Controls.Add(this.groupBox89);
-            this.xtraTabPage30.Name = "xtraTabPage30";
-            this.xtraTabPage30.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage30.Text = "ครั้งที่ 10";
-            // 
-            // groupBox89
-            // 
-            this.groupBox89.Controls.Add(this.Chart_SoFF10_3);
-            this.groupBox89.Controls.Add(this.Chart_SoFF10_1);
-            this.groupBox89.Controls.Add(this.Chart_SoFF10_2);
-            this.groupBox89.Controls.Add(this.Chart_SoFF10_time);
-            this.groupBox89.Controls.Add(this.Chart_SoFF10);
-            this.groupBox89.Location = new System.Drawing.Point(5, 5);
-            this.groupBox89.Name = "groupBox89";
-            this.groupBox89.Size = new System.Drawing.Size(900, 500);
-            this.groupBox89.TabIndex = 1;
-            this.groupBox89.TabStop = false;
-            this.groupBox89.Text = "groupBox4";
-            // 
-            // Chart_SoFF10_3
-            // 
-            this.Chart_SoFF10_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_SoFF10_3.Name = "Chart_SoFF10_3";
-            this.Chart_SoFF10_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF10_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SoFF10_3.TabIndex = 4;
-            // 
-            // Chart_SoFF10_1
-            // 
-            this.Chart_SoFF10_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_SoFF10_1.Name = "Chart_SoFF10_1";
-            this.Chart_SoFF10_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF10_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SoFF10_1.TabIndex = 2;
-            // 
-            // Chart_SoFF10_2
-            // 
-            this.Chart_SoFF10_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_SoFF10_2.Name = "Chart_SoFF10_2";
-            this.Chart_SoFF10_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF10_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SoFF10_2.TabIndex = 3;
-            // 
-            // Chart_SoFF10_time
-            // 
-            this.Chart_SoFF10_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_SoFF10_time.Name = "Chart_SoFF10_time";
-            this.Chart_SoFF10_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF10_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SoFF10_time.TabIndex = 1;
-            // 
-            // Chart_SoFF10
-            // 
-            this.Chart_SoFF10.IndicatorsPaletteName = "Palette 1";
-            this.Chart_SoFF10.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_SoFF10.Location = new System.Drawing.Point(20, 20);
-            this.Chart_SoFF10.Name = "Chart_SoFF10";
-            this.Chart_SoFF10.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SoFF10.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SoFF10.TabIndex = 0;
-            // 
             // tab_Jonf
             // 
             this.tab_Jonf.Controls.Add(this.Chart_SonF);
             this.tab_Jonf.Name = "tab_Jonf";
-            this.tab_Jonf.Size = new System.Drawing.Size(55, 22);
+            this.tab_Jonf.Size = new System.Drawing.Size(144, 57);
             this.tab_Jonf.Text = "SJF On Dynamic FIFO";
             // 
             // Chart_SonF
@@ -8364,16 +5225,7 @@ namespace Simulations
             this.Chart_SonF.Size = new System.Drawing.Size(900, 500);
             this.Chart_SonF.TabIndex = 16;
             this.Chart_SonF.TabPages.AddRange(new DevExpress.XtraTab.XtraTabPage[] {
-            this.xtraTabPage33,
-            this.xtraTabPage34,
-            this.xtraTabPage35,
-            this.xtraTabPage36,
-            this.xtraTabPage37,
-            this.xtraTabPage38,
-            this.xtraTabPage39,
-            this.xtraTabPage40,
-            this.xtraTabPage41,
-            this.xtraTabPage42});
+            this.xtraTabPage33});
             // 
             // xtraTabPage33
             // 
@@ -8441,605 +5293,11 @@ namespace Simulations
             this.Chart_SonF1.Size = new System.Drawing.Size(400, 220);
             this.Chart_SonF1.TabIndex = 0;
             // 
-            // xtraTabPage34
-            // 
-            this.xtraTabPage34.Controls.Add(this.groupBox93);
-            this.xtraTabPage34.Name = "xtraTabPage34";
-            this.xtraTabPage34.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage34.Text = "ครั้งที่ 2";
-            // 
-            // groupBox93
-            // 
-            this.groupBox93.Controls.Add(this.Chart_SonF2_3);
-            this.groupBox93.Controls.Add(this.Chart_SonF2_1);
-            this.groupBox93.Controls.Add(this.Chart_SonF2_2);
-            this.groupBox93.Controls.Add(this.Chart_SonF2_time);
-            this.groupBox93.Controls.Add(this.Chart_SonF2);
-            this.groupBox93.Location = new System.Drawing.Point(5, 5);
-            this.groupBox93.Name = "groupBox93";
-            this.groupBox93.Size = new System.Drawing.Size(900, 500);
-            this.groupBox93.TabIndex = 1;
-            this.groupBox93.TabStop = false;
-            this.groupBox93.Text = "groupBox4";
-            // 
-            // Chart_SonF2_3
-            // 
-            this.Chart_SonF2_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_SonF2_3.Name = "Chart_SonF2_3";
-            this.Chart_SonF2_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF2_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonF2_3.TabIndex = 4;
-            // 
-            // Chart_SonF2_1
-            // 
-            this.Chart_SonF2_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_SonF2_1.Name = "Chart_SonF2_1";
-            this.Chart_SonF2_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF2_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonF2_1.TabIndex = 2;
-            // 
-            // Chart_SonF2_2
-            // 
-            this.Chart_SonF2_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_SonF2_2.Name = "Chart_SonF2_2";
-            this.Chart_SonF2_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF2_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonF2_2.TabIndex = 3;
-            // 
-            // Chart_SonF2_time
-            // 
-            this.Chart_SonF2_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_SonF2_time.Name = "Chart_SonF2_time";
-            this.Chart_SonF2_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF2_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonF2_time.TabIndex = 1;
-            // 
-            // Chart_SonF2
-            // 
-            this.Chart_SonF2.IndicatorsPaletteName = "Palette 1";
-            this.Chart_SonF2.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_SonF2.Location = new System.Drawing.Point(20, 20);
-            this.Chart_SonF2.Name = "Chart_SonF2";
-            this.Chart_SonF2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF2.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonF2.TabIndex = 0;
-            // 
-            // xtraTabPage35
-            // 
-            this.xtraTabPage35.Controls.Add(this.groupBox95);
-            this.xtraTabPage35.Name = "xtraTabPage35";
-            this.xtraTabPage35.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage35.Text = "ครั้งที่ 3";
-            // 
-            // groupBox95
-            // 
-            this.groupBox95.Controls.Add(this.Chart_SonF3_3);
-            this.groupBox95.Controls.Add(this.Chart_SonF3_1);
-            this.groupBox95.Controls.Add(this.Chart_SonF3_2);
-            this.groupBox95.Controls.Add(this.Chart_SonF3_time);
-            this.groupBox95.Controls.Add(this.Chart_SonF3);
-            this.groupBox95.Location = new System.Drawing.Point(5, 5);
-            this.groupBox95.Name = "groupBox95";
-            this.groupBox95.Size = new System.Drawing.Size(900, 500);
-            this.groupBox95.TabIndex = 1;
-            this.groupBox95.TabStop = false;
-            this.groupBox95.Text = "groupBox4";
-            // 
-            // Chart_SonF3_3
-            // 
-            this.Chart_SonF3_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_SonF3_3.Name = "Chart_SonF3_3";
-            this.Chart_SonF3_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF3_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonF3_3.TabIndex = 4;
-            // 
-            // Chart_SonF3_1
-            // 
-            this.Chart_SonF3_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_SonF3_1.Name = "Chart_SonF3_1";
-            this.Chart_SonF3_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF3_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonF3_1.TabIndex = 2;
-            // 
-            // Chart_SonF3_2
-            // 
-            this.Chart_SonF3_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_SonF3_2.Name = "Chart_SonF3_2";
-            this.Chart_SonF3_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF3_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonF3_2.TabIndex = 3;
-            // 
-            // Chart_SonF3_time
-            // 
-            this.Chart_SonF3_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_SonF3_time.Name = "Chart_SonF3_time";
-            this.Chart_SonF3_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF3_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonF3_time.TabIndex = 1;
-            // 
-            // Chart_SonF3
-            // 
-            this.Chart_SonF3.IndicatorsPaletteName = "Palette 1";
-            this.Chart_SonF3.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_SonF3.Location = new System.Drawing.Point(20, 20);
-            this.Chart_SonF3.Name = "Chart_SonF3";
-            this.Chart_SonF3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF3.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonF3.TabIndex = 0;
-            // 
-            // xtraTabPage36
-            // 
-            this.xtraTabPage36.Controls.Add(this.groupBox97);
-            this.xtraTabPage36.Name = "xtraTabPage36";
-            this.xtraTabPage36.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage36.Text = "ครั้งที่ 4";
-            // 
-            // groupBox97
-            // 
-            this.groupBox97.Controls.Add(this.Chart_SonF4_3);
-            this.groupBox97.Controls.Add(this.Chart_SonF4_1);
-            this.groupBox97.Controls.Add(this.Chart_SonF4_2);
-            this.groupBox97.Controls.Add(this.Chart_SonF4_time);
-            this.groupBox97.Controls.Add(this.Chart_SonF4);
-            this.groupBox97.Location = new System.Drawing.Point(5, 5);
-            this.groupBox97.Name = "groupBox97";
-            this.groupBox97.Size = new System.Drawing.Size(900, 500);
-            this.groupBox97.TabIndex = 1;
-            this.groupBox97.TabStop = false;
-            this.groupBox97.Text = "groupBox4";
-            // 
-            // Chart_SonF4_3
-            // 
-            this.Chart_SonF4_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_SonF4_3.Name = "Chart_SonF4_3";
-            this.Chart_SonF4_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF4_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonF4_3.TabIndex = 4;
-            // 
-            // Chart_SonF4_1
-            // 
-            this.Chart_SonF4_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_SonF4_1.Name = "Chart_SonF4_1";
-            this.Chart_SonF4_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF4_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonF4_1.TabIndex = 2;
-            // 
-            // Chart_SonF4_2
-            // 
-            this.Chart_SonF4_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_SonF4_2.Name = "Chart_SonF4_2";
-            this.Chart_SonF4_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF4_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonF4_2.TabIndex = 3;
-            // 
-            // Chart_SonF4_time
-            // 
-            this.Chart_SonF4_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_SonF4_time.Name = "Chart_SonF4_time";
-            this.Chart_SonF4_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF4_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonF4_time.TabIndex = 1;
-            // 
-            // Chart_SonF4
-            // 
-            this.Chart_SonF4.IndicatorsPaletteName = "Palette 1";
-            this.Chart_SonF4.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_SonF4.Location = new System.Drawing.Point(20, 20);
-            this.Chart_SonF4.Name = "Chart_SonF4";
-            this.Chart_SonF4.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF4.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonF4.TabIndex = 0;
-            // 
-            // xtraTabPage37
-            // 
-            this.xtraTabPage37.Controls.Add(this.groupBox99);
-            this.xtraTabPage37.Name = "xtraTabPage37";
-            this.xtraTabPage37.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage37.Text = "ครั้งที่ 5";
-            // 
-            // groupBox99
-            // 
-            this.groupBox99.Controls.Add(this.Chart_SonF5_3);
-            this.groupBox99.Controls.Add(this.Chart_SonF5_1);
-            this.groupBox99.Controls.Add(this.Chart_SonF5_2);
-            this.groupBox99.Controls.Add(this.Chart_SonF5_time);
-            this.groupBox99.Controls.Add(this.Chart_SonF5);
-            this.groupBox99.Location = new System.Drawing.Point(5, 5);
-            this.groupBox99.Name = "groupBox99";
-            this.groupBox99.Size = new System.Drawing.Size(900, 500);
-            this.groupBox99.TabIndex = 1;
-            this.groupBox99.TabStop = false;
-            this.groupBox99.Text = "groupBox4";
-            // 
-            // Chart_SonF5_3
-            // 
-            this.Chart_SonF5_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_SonF5_3.Name = "Chart_SonF5_3";
-            this.Chart_SonF5_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF5_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonF5_3.TabIndex = 4;
-            // 
-            // Chart_SonF5_1
-            // 
-            this.Chart_SonF5_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_SonF5_1.Name = "Chart_SonF5_1";
-            this.Chart_SonF5_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF5_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonF5_1.TabIndex = 2;
-            // 
-            // Chart_SonF5_2
-            // 
-            this.Chart_SonF5_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_SonF5_2.Name = "Chart_SonF5_2";
-            this.Chart_SonF5_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF5_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonF5_2.TabIndex = 3;
-            // 
-            // Chart_SonF5_time
-            // 
-            this.Chart_SonF5_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_SonF5_time.Name = "Chart_SonF5_time";
-            this.Chart_SonF5_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF5_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonF5_time.TabIndex = 1;
-            // 
-            // Chart_SonF5
-            // 
-            this.Chart_SonF5.IndicatorsPaletteName = "Palette 1";
-            this.Chart_SonF5.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_SonF5.Location = new System.Drawing.Point(20, 20);
-            this.Chart_SonF5.Name = "Chart_SonF5";
-            this.Chart_SonF5.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF5.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonF5.TabIndex = 0;
-            // 
-            // xtraTabPage38
-            // 
-            this.xtraTabPage38.Controls.Add(this.groupBox101);
-            this.xtraTabPage38.Name = "xtraTabPage38";
-            this.xtraTabPage38.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage38.Text = "ครั้งที่ 6";
-            // 
-            // groupBox101
-            // 
-            this.groupBox101.Controls.Add(this.Chart_SonF6_3);
-            this.groupBox101.Controls.Add(this.Chart_SonF6_1);
-            this.groupBox101.Controls.Add(this.Chart_SonF6_2);
-            this.groupBox101.Controls.Add(this.Chart_SonF6_time);
-            this.groupBox101.Controls.Add(this.Chart_SonF6);
-            this.groupBox101.Location = new System.Drawing.Point(5, 5);
-            this.groupBox101.Name = "groupBox101";
-            this.groupBox101.Size = new System.Drawing.Size(900, 500);
-            this.groupBox101.TabIndex = 1;
-            this.groupBox101.TabStop = false;
-            this.groupBox101.Text = "groupBox4";
-            // 
-            // Chart_SonF6_3
-            // 
-            this.Chart_SonF6_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_SonF6_3.Name = "Chart_SonF6_3";
-            this.Chart_SonF6_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF6_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonF6_3.TabIndex = 4;
-            // 
-            // Chart_SonF6_1
-            // 
-            this.Chart_SonF6_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_SonF6_1.Name = "Chart_SonF6_1";
-            this.Chart_SonF6_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF6_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonF6_1.TabIndex = 2;
-            // 
-            // Chart_SonF6_2
-            // 
-            this.Chart_SonF6_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_SonF6_2.Name = "Chart_SonF6_2";
-            this.Chart_SonF6_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF6_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonF6_2.TabIndex = 3;
-            // 
-            // Chart_SonF6_time
-            // 
-            this.Chart_SonF6_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_SonF6_time.Name = "Chart_SonF6_time";
-            this.Chart_SonF6_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF6_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonF6_time.TabIndex = 1;
-            // 
-            // Chart_SonF6
-            // 
-            this.Chart_SonF6.IndicatorsPaletteName = "Palette 1";
-            this.Chart_SonF6.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_SonF6.Location = new System.Drawing.Point(20, 20);
-            this.Chart_SonF6.Name = "Chart_SonF6";
-            this.Chart_SonF6.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF6.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonF6.TabIndex = 0;
-            // 
-            // xtraTabPage39
-            // 
-            this.xtraTabPage39.Controls.Add(this.groupBox103);
-            this.xtraTabPage39.Name = "xtraTabPage39";
-            this.xtraTabPage39.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage39.Text = "ครั้งที่ 7";
-            // 
-            // groupBox103
-            // 
-            this.groupBox103.Controls.Add(this.Chart_SonF7_3);
-            this.groupBox103.Controls.Add(this.Chart_SonF7_1);
-            this.groupBox103.Controls.Add(this.Chart_SonF7_2);
-            this.groupBox103.Controls.Add(this.Chart_SonF7_time);
-            this.groupBox103.Controls.Add(this.Chart_SonF7);
-            this.groupBox103.Location = new System.Drawing.Point(5, 5);
-            this.groupBox103.Name = "groupBox103";
-            this.groupBox103.Size = new System.Drawing.Size(900, 500);
-            this.groupBox103.TabIndex = 1;
-            this.groupBox103.TabStop = false;
-            this.groupBox103.Text = "groupBox4";
-            // 
-            // Chart_SonF7_3
-            // 
-            this.Chart_SonF7_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_SonF7_3.Name = "Chart_SonF7_3";
-            this.Chart_SonF7_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF7_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonF7_3.TabIndex = 4;
-            // 
-            // Chart_SonF7_1
-            // 
-            this.Chart_SonF7_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_SonF7_1.Name = "Chart_SonF7_1";
-            this.Chart_SonF7_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF7_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonF7_1.TabIndex = 2;
-            // 
-            // Chart_SonF7_2
-            // 
-            this.Chart_SonF7_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_SonF7_2.Name = "Chart_SonF7_2";
-            this.Chart_SonF7_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF7_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonF7_2.TabIndex = 3;
-            // 
-            // Chart_SonF7_time
-            // 
-            this.Chart_SonF7_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_SonF7_time.Name = "Chart_SonF7_time";
-            this.Chart_SonF7_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF7_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonF7_time.TabIndex = 1;
-            // 
-            // Chart_SonF7
-            // 
-            this.Chart_SonF7.IndicatorsPaletteName = "Palette 1";
-            this.Chart_SonF7.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_SonF7.Location = new System.Drawing.Point(20, 20);
-            this.Chart_SonF7.Name = "Chart_SonF7";
-            this.Chart_SonF7.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF7.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonF7.TabIndex = 0;
-            // 
-            // xtraTabPage40
-            // 
-            this.xtraTabPage40.Controls.Add(this.groupBox105);
-            this.xtraTabPage40.Name = "xtraTabPage40";
-            this.xtraTabPage40.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage40.Text = "ครั้งที่ 8";
-            // 
-            // groupBox105
-            // 
-            this.groupBox105.Controls.Add(this.Chart_SonF8_3);
-            this.groupBox105.Controls.Add(this.Chart_SonF8_1);
-            this.groupBox105.Controls.Add(this.Chart_SonF8_2);
-            this.groupBox105.Controls.Add(this.Chart_SonF8_time);
-            this.groupBox105.Controls.Add(this.Chart_SonF8);
-            this.groupBox105.Location = new System.Drawing.Point(5, 5);
-            this.groupBox105.Name = "groupBox105";
-            this.groupBox105.Size = new System.Drawing.Size(900, 500);
-            this.groupBox105.TabIndex = 1;
-            this.groupBox105.TabStop = false;
-            this.groupBox105.Text = "groupBox4";
-            // 
-            // Chart_SonF8_3
-            // 
-            this.Chart_SonF8_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_SonF8_3.Name = "Chart_SonF8_3";
-            this.Chart_SonF8_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF8_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonF8_3.TabIndex = 4;
-            // 
-            // Chart_SonF8_1
-            // 
-            this.Chart_SonF8_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_SonF8_1.Name = "Chart_SonF8_1";
-            this.Chart_SonF8_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF8_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonF8_1.TabIndex = 2;
-            // 
-            // Chart_SonF8_2
-            // 
-            this.Chart_SonF8_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_SonF8_2.Name = "Chart_SonF8_2";
-            this.Chart_SonF8_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF8_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonF8_2.TabIndex = 3;
-            // 
-            // Chart_SonF8_time
-            // 
-            this.Chart_SonF8_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_SonF8_time.Name = "Chart_SonF8_time";
-            this.Chart_SonF8_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF8_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonF8_time.TabIndex = 1;
-            // 
-            // Chart_SonF8
-            // 
-            this.Chart_SonF8.IndicatorsPaletteName = "Palette 1";
-            this.Chart_SonF8.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_SonF8.Location = new System.Drawing.Point(20, 20);
-            this.Chart_SonF8.Name = "Chart_SonF8";
-            this.Chart_SonF8.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF8.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonF8.TabIndex = 0;
-            // 
-            // xtraTabPage41
-            // 
-            this.xtraTabPage41.Controls.Add(this.groupBox107);
-            this.xtraTabPage41.Name = "xtraTabPage41";
-            this.xtraTabPage41.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage41.Text = "ครั้งที่ 9";
-            // 
-            // groupBox107
-            // 
-            this.groupBox107.Controls.Add(this.Chart_SonF9_3);
-            this.groupBox107.Controls.Add(this.Chart_SonF9_1);
-            this.groupBox107.Controls.Add(this.Chart_SonF9_2);
-            this.groupBox107.Controls.Add(this.Chart_SonF9_time);
-            this.groupBox107.Controls.Add(this.Chart_SonF9);
-            this.groupBox107.Location = new System.Drawing.Point(5, 5);
-            this.groupBox107.Name = "groupBox107";
-            this.groupBox107.Size = new System.Drawing.Size(900, 500);
-            this.groupBox107.TabIndex = 1;
-            this.groupBox107.TabStop = false;
-            this.groupBox107.Text = "groupBox4";
-            // 
-            // Chart_SonF9_3
-            // 
-            this.Chart_SonF9_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_SonF9_3.Name = "Chart_SonF9_3";
-            this.Chart_SonF9_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF9_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonF9_3.TabIndex = 4;
-            // 
-            // Chart_SonF9_1
-            // 
-            this.Chart_SonF9_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_SonF9_1.Name = "Chart_SonF9_1";
-            this.Chart_SonF9_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF9_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonF9_1.TabIndex = 2;
-            // 
-            // Chart_SonF9_2
-            // 
-            this.Chart_SonF9_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_SonF9_2.Name = "Chart_SonF9_2";
-            this.Chart_SonF9_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF9_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonF9_2.TabIndex = 3;
-            // 
-            // Chart_SonF9_time
-            // 
-            this.Chart_SonF9_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_SonF9_time.Name = "Chart_SonF9_time";
-            this.Chart_SonF9_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF9_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonF9_time.TabIndex = 1;
-            // 
-            // Chart_SonF9
-            // 
-            this.Chart_SonF9.IndicatorsPaletteName = "Palette 1";
-            this.Chart_SonF9.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_SonF9.Location = new System.Drawing.Point(20, 20);
-            this.Chart_SonF9.Name = "Chart_SonF9";
-            this.Chart_SonF9.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF9.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonF9.TabIndex = 0;
-            // 
-            // xtraTabPage42
-            // 
-            this.xtraTabPage42.Controls.Add(this.groupBox109);
-            this.xtraTabPage42.Name = "xtraTabPage42";
-            this.xtraTabPage42.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage42.Text = "ครั้งที่ 10";
-            // 
-            // groupBox109
-            // 
-            this.groupBox109.Controls.Add(this.Chart_SonF10_3);
-            this.groupBox109.Controls.Add(this.Chart_SonF10_1);
-            this.groupBox109.Controls.Add(this.Chart_SonF10_2);
-            this.groupBox109.Controls.Add(this.Chart_SonF10_time);
-            this.groupBox109.Controls.Add(this.Chart_SonF10);
-            this.groupBox109.Location = new System.Drawing.Point(5, 5);
-            this.groupBox109.Name = "groupBox109";
-            this.groupBox109.Size = new System.Drawing.Size(900, 500);
-            this.groupBox109.TabIndex = 1;
-            this.groupBox109.TabStop = false;
-            this.groupBox109.Text = "groupBox4";
-            // 
-            // Chart_SonF10_3
-            // 
-            this.Chart_SonF10_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_SonF10_3.Name = "Chart_SonF10_3";
-            this.Chart_SonF10_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF10_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonF10_3.TabIndex = 4;
-            // 
-            // Chart_SonF10_1
-            // 
-            this.Chart_SonF10_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_SonF10_1.Name = "Chart_SonF10_1";
-            this.Chart_SonF10_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF10_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonF10_1.TabIndex = 2;
-            // 
-            // Chart_SonF10_2
-            // 
-            this.Chart_SonF10_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_SonF10_2.Name = "Chart_SonF10_2";
-            this.Chart_SonF10_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF10_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonF10_2.TabIndex = 3;
-            // 
-            // Chart_SonF10_time
-            // 
-            this.Chart_SonF10_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_SonF10_time.Name = "Chart_SonF10_time";
-            this.Chart_SonF10_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF10_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonF10_time.TabIndex = 1;
-            // 
-            // Chart_SonF10
-            // 
-            this.Chart_SonF10.IndicatorsPaletteName = "Palette 1";
-            this.Chart_SonF10.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_SonF10.Location = new System.Drawing.Point(20, 20);
-            this.Chart_SonF10.Name = "Chart_SonF10";
-            this.Chart_SonF10.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonF10.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonF10.TabIndex = 0;
-            // 
             // tab_Jonj
             // 
             this.tab_Jonj.Controls.Add(this.xtraTabControl2);
             this.tab_Jonj.Name = "tab_Jonj";
-            this.tab_Jonj.Size = new System.Drawing.Size(55, 22);
+            this.tab_Jonj.Size = new System.Drawing.Size(144, 57);
             this.tab_Jonj.Text = "SJF On Dynamic SJF";
             // 
             // xtraTabControl2
@@ -9050,16 +5308,7 @@ namespace Simulations
             this.xtraTabControl2.Size = new System.Drawing.Size(900, 500);
             this.xtraTabControl2.TabIndex = 17;
             this.xtraTabControl2.TabPages.AddRange(new DevExpress.XtraTab.XtraTabPage[] {
-            this.xtraTabPage43,
-            this.xtraTabPage44,
-            this.xtraTabPage45,
-            this.xtraTabPage46,
-            this.xtraTabPage47,
-            this.xtraTabPage48,
-            this.xtraTabPage49,
-            this.xtraTabPage50,
-            this.xtraTabPage51,
-            this.xtraTabPage52});
+            this.xtraTabPage43});
             // 
             // xtraTabPage43
             // 
@@ -9126,601 +5375,6 @@ namespace Simulations
             this.Chart_SonS1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
             this.Chart_SonS1.Size = new System.Drawing.Size(400, 220);
             this.Chart_SonS1.TabIndex = 0;
-            // 
-            // xtraTabPage44
-            // 
-            this.xtraTabPage44.Controls.Add(this.groupBox112);
-            this.xtraTabPage44.Name = "xtraTabPage44";
-            this.xtraTabPage44.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage44.Text = "ครั้งที่ 2";
-            // 
-            // groupBox112
-            // 
-            this.groupBox112.Controls.Add(this.Chart_SonS2_3);
-            this.groupBox112.Controls.Add(this.Chart_SonS2_1);
-            this.groupBox112.Controls.Add(this.Chart_SonS2_2);
-            this.groupBox112.Controls.Add(this.Chart_SonS2_time);
-            this.groupBox112.Controls.Add(this.Chart_SonS2);
-            this.groupBox112.Location = new System.Drawing.Point(5, 5);
-            this.groupBox112.Name = "groupBox112";
-            this.groupBox112.Size = new System.Drawing.Size(900, 500);
-            this.groupBox112.TabIndex = 1;
-            this.groupBox112.TabStop = false;
-            this.groupBox112.Text = "groupBox4";
-            // 
-            // Chart_SonS2_3
-            // 
-            this.Chart_SonS2_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_SonS2_3.Name = "Chart_SonS2_3";
-            this.Chart_SonS2_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS2_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonS2_3.TabIndex = 4;
-            // 
-            // Chart_SonS2_1
-            // 
-            this.Chart_SonS2_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_SonS2_1.Name = "Chart_SonS2_1";
-            this.Chart_SonS2_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS2_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonS2_1.TabIndex = 2;
-            // 
-            // Chart_SonS2_2
-            // 
-            this.Chart_SonS2_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_SonS2_2.Name = "Chart_SonS2_2";
-            this.Chart_SonS2_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS2_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonS2_2.TabIndex = 3;
-            // 
-            // Chart_SonS2_time
-            // 
-            this.Chart_SonS2_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_SonS2_time.Name = "Chart_SonS2_time";
-            this.Chart_SonS2_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS2_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonS2_time.TabIndex = 1;
-            // 
-            // Chart_SonS2
-            // 
-            this.Chart_SonS2.IndicatorsPaletteName = "Palette 1";
-            this.Chart_SonS2.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_SonS2.Location = new System.Drawing.Point(20, 20);
-            this.Chart_SonS2.Name = "Chart_SonS2";
-            this.Chart_SonS2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS2.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonS2.TabIndex = 0;
-            // 
-            // xtraTabPage45
-            // 
-            this.xtraTabPage45.Controls.Add(this.groupBox114);
-            this.xtraTabPage45.Name = "xtraTabPage45";
-            this.xtraTabPage45.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage45.Text = "ครั้งที่ 3";
-            // 
-            // groupBox114
-            // 
-            this.groupBox114.Controls.Add(this.Chart_SonS3_3);
-            this.groupBox114.Controls.Add(this.Chart_SonS3_1);
-            this.groupBox114.Controls.Add(this.Chart_SonS3_2);
-            this.groupBox114.Controls.Add(this.Chart_SonS3_time);
-            this.groupBox114.Controls.Add(this.Chart_SonS3);
-            this.groupBox114.Location = new System.Drawing.Point(5, 5);
-            this.groupBox114.Name = "groupBox114";
-            this.groupBox114.Size = new System.Drawing.Size(900, 500);
-            this.groupBox114.TabIndex = 1;
-            this.groupBox114.TabStop = false;
-            this.groupBox114.Text = "groupBox4";
-            // 
-            // Chart_SonS3_3
-            // 
-            this.Chart_SonS3_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_SonS3_3.Name = "Chart_SonS3_3";
-            this.Chart_SonS3_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS3_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonS3_3.TabIndex = 4;
-            // 
-            // Chart_SonS3_1
-            // 
-            this.Chart_SonS3_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_SonS3_1.Name = "Chart_SonS3_1";
-            this.Chart_SonS3_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS3_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonS3_1.TabIndex = 2;
-            // 
-            // Chart_SonS3_2
-            // 
-            this.Chart_SonS3_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_SonS3_2.Name = "Chart_SonS3_2";
-            this.Chart_SonS3_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS3_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonS3_2.TabIndex = 3;
-            // 
-            // Chart_SonS3_time
-            // 
-            this.Chart_SonS3_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_SonS3_time.Name = "Chart_SonS3_time";
-            this.Chart_SonS3_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS3_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonS3_time.TabIndex = 1;
-            // 
-            // Chart_SonS3
-            // 
-            this.Chart_SonS3.IndicatorsPaletteName = "Palette 1";
-            this.Chart_SonS3.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_SonS3.Location = new System.Drawing.Point(20, 20);
-            this.Chart_SonS3.Name = "Chart_SonS3";
-            this.Chart_SonS3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS3.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonS3.TabIndex = 0;
-            // 
-            // xtraTabPage46
-            // 
-            this.xtraTabPage46.Controls.Add(this.groupBox116);
-            this.xtraTabPage46.Name = "xtraTabPage46";
-            this.xtraTabPage46.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage46.Text = "ครั้งที่ 4";
-            // 
-            // groupBox116
-            // 
-            this.groupBox116.AutoSize = true;
-            this.groupBox116.Controls.Add(this.Chart_SonS4_3);
-            this.groupBox116.Controls.Add(this.Chart_SonS4_1);
-            this.groupBox116.Controls.Add(this.Chart_SonS4_2);
-            this.groupBox116.Controls.Add(this.Chart_SonS4_time);
-            this.groupBox116.Controls.Add(this.Chart_SonS4);
-            this.groupBox116.Location = new System.Drawing.Point(5, 5);
-            this.groupBox116.Name = "groupBox116";
-            this.groupBox116.Size = new System.Drawing.Size(900, 500);
-            this.groupBox116.TabIndex = 1;
-            this.groupBox116.TabStop = false;
-            this.groupBox116.Text = "groupBox4";
-            // 
-            // Chart_SonS4_3
-            // 
-            this.Chart_SonS4_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_SonS4_3.Name = "Chart_SonS4_3";
-            this.Chart_SonS4_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS4_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonS4_3.TabIndex = 4;
-            // 
-            // Chart_SonS4_1
-            // 
-            this.Chart_SonS4_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_SonS4_1.Name = "Chart_SonS4_1";
-            this.Chart_SonS4_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS4_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonS4_1.TabIndex = 2;
-            // 
-            // Chart_SonS4_2
-            // 
-            this.Chart_SonS4_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_SonS4_2.Name = "Chart_SonS4_2";
-            this.Chart_SonS4_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS4_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonS4_2.TabIndex = 3;
-            // 
-            // Chart_SonS4_time
-            // 
-            this.Chart_SonS4_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_SonS4_time.Name = "Chart_SonS4_time";
-            this.Chart_SonS4_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS4_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonS4_time.TabIndex = 1;
-            // 
-            // Chart_SonS4
-            // 
-            this.Chart_SonS4.IndicatorsPaletteName = "Palette 1";
-            this.Chart_SonS4.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_SonS4.Location = new System.Drawing.Point(20, 20);
-            this.Chart_SonS4.Name = "Chart_SonS4";
-            this.Chart_SonS4.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS4.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonS4.TabIndex = 0;
-            // 
-            // xtraTabPage47
-            // 
-            this.xtraTabPage47.Controls.Add(this.groupBox118);
-            this.xtraTabPage47.Name = "xtraTabPage47";
-            this.xtraTabPage47.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage47.Text = "ครั้งที่ 5";
-            // 
-            // groupBox118
-            // 
-            this.groupBox118.Controls.Add(this.Chart_SonS5_3);
-            this.groupBox118.Controls.Add(this.Chart_SonS5_1);
-            this.groupBox118.Controls.Add(this.Chart_SonS5_2);
-            this.groupBox118.Controls.Add(this.Chart_SonS5_time);
-            this.groupBox118.Controls.Add(this.Chart_SonS5);
-            this.groupBox118.Location = new System.Drawing.Point(5, 5);
-            this.groupBox118.Name = "groupBox118";
-            this.groupBox118.Size = new System.Drawing.Size(900, 500);
-            this.groupBox118.TabIndex = 1;
-            this.groupBox118.TabStop = false;
-            this.groupBox118.Text = "groupBox4";
-            // 
-            // Chart_SonS5_3
-            // 
-            this.Chart_SonS5_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_SonS5_3.Name = "Chart_SonS5_3";
-            this.Chart_SonS5_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS5_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonS5_3.TabIndex = 4;
-            // 
-            // Chart_SonS5_1
-            // 
-            this.Chart_SonS5_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_SonS5_1.Name = "Chart_SonS5_1";
-            this.Chart_SonS5_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS5_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonS5_1.TabIndex = 2;
-            // 
-            // Chart_SonS5_2
-            // 
-            this.Chart_SonS5_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_SonS5_2.Name = "Chart_SonS5_2";
-            this.Chart_SonS5_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS5_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonS5_2.TabIndex = 3;
-            // 
-            // Chart_SonS5_time
-            // 
-            this.Chart_SonS5_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_SonS5_time.Name = "Chart_SonS5_time";
-            this.Chart_SonS5_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS5_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonS5_time.TabIndex = 1;
-            // 
-            // Chart_SonS5
-            // 
-            this.Chart_SonS5.IndicatorsPaletteName = "Palette 1";
-            this.Chart_SonS5.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_SonS5.Location = new System.Drawing.Point(20, 20);
-            this.Chart_SonS5.Name = "Chart_SonS5";
-            this.Chart_SonS5.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS5.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonS5.TabIndex = 0;
-            // 
-            // xtraTabPage48
-            // 
-            this.xtraTabPage48.Controls.Add(this.groupBox120);
-            this.xtraTabPage48.Name = "xtraTabPage48";
-            this.xtraTabPage48.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage48.Text = "ครั้งที่ 6";
-            // 
-            // groupBox120
-            // 
-            this.groupBox120.Controls.Add(this.Chart_SonS6_3);
-            this.groupBox120.Controls.Add(this.Chart_SonS6_1);
-            this.groupBox120.Controls.Add(this.Chart_SonS6_2);
-            this.groupBox120.Controls.Add(this.Chart_SonS6_time);
-            this.groupBox120.Controls.Add(this.Chart_SonS6);
-            this.groupBox120.Location = new System.Drawing.Point(5, 5);
-            this.groupBox120.Name = "groupBox120";
-            this.groupBox120.Size = new System.Drawing.Size(900, 500);
-            this.groupBox120.TabIndex = 1;
-            this.groupBox120.TabStop = false;
-            this.groupBox120.Text = "groupBox4";
-            // 
-            // Chart_SonS6_3
-            // 
-            this.Chart_SonS6_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_SonS6_3.Name = "Chart_SonS6_3";
-            this.Chart_SonS6_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS6_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonS6_3.TabIndex = 4;
-            // 
-            // Chart_SonS6_1
-            // 
-            this.Chart_SonS6_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_SonS6_1.Name = "Chart_SonS6_1";
-            this.Chart_SonS6_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS6_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonS6_1.TabIndex = 2;
-            // 
-            // Chart_SonS6_2
-            // 
-            this.Chart_SonS6_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_SonS6_2.Name = "Chart_SonS6_2";
-            this.Chart_SonS6_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS6_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonS6_2.TabIndex = 3;
-            // 
-            // Chart_SonS6_time
-            // 
-            this.Chart_SonS6_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_SonS6_time.Name = "Chart_SonS6_time";
-            this.Chart_SonS6_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS6_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonS6_time.TabIndex = 1;
-            // 
-            // Chart_SonS6
-            // 
-            this.Chart_SonS6.IndicatorsPaletteName = "Palette 1";
-            this.Chart_SonS6.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_SonS6.Location = new System.Drawing.Point(20, 20);
-            this.Chart_SonS6.Name = "Chart_SonS6";
-            this.Chart_SonS6.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS6.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonS6.TabIndex = 0;
-            // 
-            // xtraTabPage49
-            // 
-            this.xtraTabPage49.Controls.Add(this.groupBox122);
-            this.xtraTabPage49.Name = "xtraTabPage49";
-            this.xtraTabPage49.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage49.Text = "ครั้งที่ 7";
-            // 
-            // groupBox122
-            // 
-            this.groupBox122.Controls.Add(this.Chart_SonS7_3);
-            this.groupBox122.Controls.Add(this.Chart_SonS7_1);
-            this.groupBox122.Controls.Add(this.Chart_SonS7_2);
-            this.groupBox122.Controls.Add(this.Chart_SonS7_time);
-            this.groupBox122.Controls.Add(this.Chart_SonS7);
-            this.groupBox122.Location = new System.Drawing.Point(5, 5);
-            this.groupBox122.Name = "groupBox122";
-            this.groupBox122.Size = new System.Drawing.Size(900, 500);
-            this.groupBox122.TabIndex = 1;
-            this.groupBox122.TabStop = false;
-            this.groupBox122.Text = "groupBox4";
-            // 
-            // Chart_SonS7_3
-            // 
-            this.Chart_SonS7_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_SonS7_3.Name = "Chart_SonS7_3";
-            this.Chart_SonS7_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS7_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonS7_3.TabIndex = 4;
-            // 
-            // Chart_SonS7_1
-            // 
-            this.Chart_SonS7_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_SonS7_1.Name = "Chart_SonS7_1";
-            this.Chart_SonS7_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS7_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonS7_1.TabIndex = 2;
-            // 
-            // Chart_SonS7_2
-            // 
-            this.Chart_SonS7_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_SonS7_2.Name = "Chart_SonS7_2";
-            this.Chart_SonS7_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS7_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonS7_2.TabIndex = 3;
-            // 
-            // Chart_SonS7_time
-            // 
-            this.Chart_SonS7_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_SonS7_time.Name = "Chart_SonS7_time";
-            this.Chart_SonS7_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS7_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonS7_time.TabIndex = 1;
-            // 
-            // Chart_SonS7
-            // 
-            this.Chart_SonS7.IndicatorsPaletteName = "Palette 1";
-            this.Chart_SonS7.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_SonS7.Location = new System.Drawing.Point(20, 20);
-            this.Chart_SonS7.Name = "Chart_SonS7";
-            this.Chart_SonS7.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS7.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonS7.TabIndex = 0;
-            // 
-            // xtraTabPage50
-            // 
-            this.xtraTabPage50.Controls.Add(this.groupBox124);
-            this.xtraTabPage50.Name = "xtraTabPage50";
-            this.xtraTabPage50.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage50.Text = "ครั้งที่ 8";
-            // 
-            // groupBox124
-            // 
-            this.groupBox124.Controls.Add(this.Chart_SonS8_3);
-            this.groupBox124.Controls.Add(this.Chart_SonS8_1);
-            this.groupBox124.Controls.Add(this.Chart_SonS8_2);
-            this.groupBox124.Controls.Add(this.Chart_SonS8_time);
-            this.groupBox124.Controls.Add(this.Chart_SonS8);
-            this.groupBox124.Location = new System.Drawing.Point(5, 5);
-            this.groupBox124.Name = "groupBox124";
-            this.groupBox124.Size = new System.Drawing.Size(900, 500);
-            this.groupBox124.TabIndex = 1;
-            this.groupBox124.TabStop = false;
-            this.groupBox124.Text = "groupBox4";
-            // 
-            // Chart_SonS8_3
-            // 
-            this.Chart_SonS8_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_SonS8_3.Name = "Chart_SonS8_3";
-            this.Chart_SonS8_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS8_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonS8_3.TabIndex = 4;
-            // 
-            // Chart_SonS8_1
-            // 
-            this.Chart_SonS8_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_SonS8_1.Name = "Chart_SonS8_1";
-            this.Chart_SonS8_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS8_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonS8_1.TabIndex = 2;
-            // 
-            // Chart_SonS8_2
-            // 
-            this.Chart_SonS8_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_SonS8_2.Name = "Chart_SonS8_2";
-            this.Chart_SonS8_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS8_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonS8_2.TabIndex = 3;
-            // 
-            // Chart_SonS8_time
-            // 
-            this.Chart_SonS8_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_SonS8_time.Name = "Chart_SonS8_time";
-            this.Chart_SonS8_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS8_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonS8_time.TabIndex = 1;
-            // 
-            // Chart_SonS8
-            // 
-            this.Chart_SonS8.IndicatorsPaletteName = "Palette 1";
-            this.Chart_SonS8.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_SonS8.Location = new System.Drawing.Point(20, 20);
-            this.Chart_SonS8.Name = "Chart_SonS8";
-            this.Chart_SonS8.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS8.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonS8.TabIndex = 0;
-            // 
-            // xtraTabPage51
-            // 
-            this.xtraTabPage51.Controls.Add(this.groupBox126);
-            this.xtraTabPage51.Name = "xtraTabPage51";
-            this.xtraTabPage51.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage51.Text = "ครั้งที่ 9";
-            // 
-            // groupBox126
-            // 
-            this.groupBox126.Controls.Add(this.Chart_SonS9_3);
-            this.groupBox126.Controls.Add(this.Chart_SonS9_1);
-            this.groupBox126.Controls.Add(this.Chart_SonS9_2);
-            this.groupBox126.Controls.Add(this.Chart_SonS9_time);
-            this.groupBox126.Controls.Add(this.Chart_SonS9);
-            this.groupBox126.Location = new System.Drawing.Point(5, 5);
-            this.groupBox126.Name = "groupBox126";
-            this.groupBox126.Size = new System.Drawing.Size(900, 500);
-            this.groupBox126.TabIndex = 1;
-            this.groupBox126.TabStop = false;
-            this.groupBox126.Text = "groupBox4";
-            // 
-            // Chart_SonS9_3
-            // 
-            this.Chart_SonS9_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_SonS9_3.Name = "Chart_SonS9_3";
-            this.Chart_SonS9_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS9_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonS9_3.TabIndex = 4;
-            // 
-            // Chart_SonS9_1
-            // 
-            this.Chart_SonS9_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_SonS9_1.Name = "Chart_SonS9_1";
-            this.Chart_SonS9_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS9_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonS9_1.TabIndex = 2;
-            // 
-            // Chart_SonS9_2
-            // 
-            this.Chart_SonS9_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_SonS9_2.Name = "Chart_SonS9_2";
-            this.Chart_SonS9_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS9_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonS9_2.TabIndex = 3;
-            // 
-            // Chart_SonS9_time
-            // 
-            this.Chart_SonS9_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_SonS9_time.Name = "Chart_SonS9_time";
-            this.Chart_SonS9_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS9_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonS9_time.TabIndex = 1;
-            // 
-            // Chart_SonS9
-            // 
-            this.Chart_SonS9.IndicatorsPaletteName = "Palette 1";
-            this.Chart_SonS9.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_SonS9.Location = new System.Drawing.Point(20, 20);
-            this.Chart_SonS9.Name = "Chart_SonS9";
-            this.Chart_SonS9.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS9.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonS9.TabIndex = 0;
-            // 
-            // xtraTabPage52
-            // 
-            this.xtraTabPage52.Controls.Add(this.groupBox128);
-            this.xtraTabPage52.Name = "xtraTabPage52";
-            this.xtraTabPage52.Size = new System.Drawing.Size(894, 472);
-            this.xtraTabPage52.Text = "ครั้งที่ 10";
-            // 
-            // groupBox128
-            // 
-            this.groupBox128.Controls.Add(this.Chart_SonS10_3);
-            this.groupBox128.Controls.Add(this.Chart_SonS10_1);
-            this.groupBox128.Controls.Add(this.Chart_SonS10_2);
-            this.groupBox128.Controls.Add(this.Chart_SonS10_time);
-            this.groupBox128.Controls.Add(this.Chart_SonS10);
-            this.groupBox128.Location = new System.Drawing.Point(5, 5);
-            this.groupBox128.Name = "groupBox128";
-            this.groupBox128.Size = new System.Drawing.Size(900, 500);
-            this.groupBox128.TabIndex = 1;
-            this.groupBox128.TabStop = false;
-            this.groupBox128.Text = "groupBox4";
-            // 
-            // Chart_SonS10_3
-            // 
-            this.Chart_SonS10_3.Location = new System.Drawing.Point(600, 250);
-            this.Chart_SonS10_3.Name = "Chart_SonS10_3";
-            this.Chart_SonS10_3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS10_3.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonS10_3.TabIndex = 4;
-            // 
-            // Chart_SonS10_1
-            // 
-            this.Chart_SonS10_1.Location = new System.Drawing.Point(10, 250);
-            this.Chart_SonS10_1.Name = "Chart_SonS10_1";
-            this.Chart_SonS10_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS10_1.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonS10_1.TabIndex = 2;
-            // 
-            // Chart_SonS10_2
-            // 
-            this.Chart_SonS10_2.Location = new System.Drawing.Point(300, 250);
-            this.Chart_SonS10_2.Name = "Chart_SonS10_2";
-            this.Chart_SonS10_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS10_2.Size = new System.Drawing.Size(280, 180);
-            this.Chart_SonS10_2.TabIndex = 3;
-            // 
-            // Chart_SonS10_time
-            // 
-            this.Chart_SonS10_time.Location = new System.Drawing.Point(440, 20);
-            this.Chart_SonS10_time.Name = "Chart_SonS10_time";
-            this.Chart_SonS10_time.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS10_time.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonS10_time.TabIndex = 1;
-            // 
-            // Chart_SonS10
-            // 
-            this.Chart_SonS10.IndicatorsPaletteName = "Palette 1";
-            this.Chart_SonS10.IndicatorsPaletteRepository.Add("Palette 1", new DevExpress.XtraCharts.Palette("Palette 1", DevExpress.XtraCharts.PaletteScaleMode.Repeat, new DevExpress.XtraCharts.PaletteEntry[] {
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Yellow, System.Drawing.Color.Yellow),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Lime, System.Drawing.Color.Lime),
-                new DevExpress.XtraCharts.PaletteEntry(System.Drawing.Color.Blue, System.Drawing.Color.Blue)}));
-            this.Chart_SonS10.Location = new System.Drawing.Point(20, 20);
-            this.Chart_SonS10.Name = "Chart_SonS10";
-            this.Chart_SonS10.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Chart_SonS10.Size = new System.Drawing.Size(400, 220);
-            this.Chart_SonS10.TabIndex = 0;
             // 
             // Set_index
             // 
@@ -10353,79 +6007,6 @@ namespace Simulations
             // timer_case
             // 
             this.timer_case.Interval = 1000;
-            this.timer_case.Tick += new System.EventHandler(DALTimer.timer1_Tick);
-            // 
-            // timer_Foff_1
-            // 
-            this.timer_Foff_1.Tick += new System.EventHandler(DALTimer.timer_1_Tick);
-            // 
-            // timer_Foff_2
-            // 
-            this.timer_Foff_2.Tick += new System.EventHandler(DALTimer.timer_2_Tick);
-            // 
-            // timer_Foff_3
-            // 
-            this.timer_Foff_3.Tick += new System.EventHandler(DALTimer.timer_3_Tick);
-            // 
-            // timer_FonF_1
-            // 
-            this.timer_FonF_1.Tick += new System.EventHandler(DALTimer.timer_FonF_1_Tick);
-            // 
-            // timer_FonF_2
-            // 
-            this.timer_FonF_2.Tick += new System.EventHandler(DALTimer.timer_FonF_2_Tick);
-            // 
-            // timer_FonF_3
-            // 
-            this.timer_FonF_3.Tick += new System.EventHandler(DALTimer.timer_FonF_3_Tick);
-            // 
-            // timer_FonJ_1
-            // 
-            this.timer_FonJ_1.Tick += new System.EventHandler(DALTimer.timer_FonJ_1_Tick);
-            // 
-            // timer_FonJ_2
-            // 
-            this.timer_FonJ_2.Tick += new System.EventHandler(DALTimer.timer_FonJ_2_Tick);
-            // 
-            // timer_FonJ_3
-            // 
-            this.timer_FonJ_3.Tick += new System.EventHandler(DALTimer.timer_FonJ_3_Tick);
-            // 
-            // timer_Joff_1
-            // 
-            this.timer_Joff_1.Tick += new System.EventHandler(DALTimer.timer_Joff_1_Tick);
-            // 
-            // timer_Joff_2
-            // 
-            this.timer_Joff_2.Tick += new System.EventHandler(DALTimer.timer_Joff_2_Tick);
-            // 
-            // timer_Joff_3
-            // 
-            this.timer_Joff_3.Tick += new System.EventHandler(DALTimer.timer_Joff_3_Tick);
-            // 
-            // timer_JonF_1
-            // 
-            this.timer_JonF_1.Tick += new System.EventHandler(DALTimer.timer_JonF_1_Tick);
-            // 
-            // timer_JonF_2
-            // 
-            this.timer_JonF_2.Tick += new System.EventHandler(DALTimer.timer_JonF_2_Tick);
-            // 
-            // timer_JonF_3
-            // 
-            this.timer_JonF_3.Tick += new System.EventHandler(DALTimer.timer_JonF_3_Tick);
-            // 
-            // timer_JonJ_1
-            // 
-            this.timer_JonJ_1.Tick += new System.EventHandler(DALTimer.timer_JonJ_1_Tick);
-            // 
-            // timer_JonJ_2
-            // 
-            this.timer_JonJ_2.Tick += new System.EventHandler(DALTimer.timer_JonJ_2_Tick);
-            // 
-            // timer_JonJ_3
-            // 
-            this.timer_JonJ_3.Tick += new System.EventHandler(DALTimer.timer_JonJ_3_Tick);
             // 
             // richEditBarController1
             // 
@@ -10581,7 +6162,6 @@ namespace Simulations
             this.richEditBarController1.BarItems.Add(this.toggleParagraphSuppressLineNumbersItem1);
             this.richEditBarController1.BarItems.Add(this.showLineNumberingFormItem1);
             this.richEditBarController1.BarItems.Add(this.changePageColorItem1);
-            this.richEditBarController1.Control = this.richEditControl1;
             // 
             // navBarGroup2
             // 
@@ -10620,7 +6200,9 @@ namespace Simulations
             ((System.ComponentModel.ISupportInitialize)(this.Nav_set)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.navbarImageCollectionLarge)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.navbarImageCollection)).EndInit();
-            this.panelRichEdit.ResumeLayout(false);
+            this.groupBox_index.ResumeLayout(false);
+            this.groupBox_index.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.progressBar_case.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ribbonControl)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.appMenu)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.popupControlContainer2)).EndInit();
@@ -10638,9 +6220,6 @@ namespace Simulations
             ((System.ComponentModel.ISupportInitialize)(this.repositoryItemBorderLineStyle1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.repositoryItemBorderLineWeight1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ribbonImageCollectionLarge)).EndInit();
-            this.groupBox_index.ResumeLayout(false);
-            this.groupBox_index.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.progressBar_case.Properties)).EndInit();
             this.groupBox14.ResumeLayout(false);
             this.groupBox14.PerformLayout();
             this.Gb_SonF1.ResumeLayout(false);
@@ -10660,17 +6239,7 @@ namespace Simulations
             ((System.ComponentModel.ISupportInitialize)(this.gridView2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ReportChart)).EndInit();
             this.ReportChart.ResumeLayout(false);
-            this.tabNavigationPage1.ResumeLayout(false);
             this.tabNavigationPage2.ResumeLayout(false);
-            this.tabNavigationPage3.ResumeLayout(false);
-            this.tabNavigationPage4.ResumeLayout(false);
-            this.tabNavigationPage5.ResumeLayout(false);
-            this.tabNavigationPage6.ResumeLayout(false);
-            this.tabNavigationPage7.ResumeLayout(false);
-            this.tabNavigationPage8.ResumeLayout(false);
-            this.tabNavigationPage9.ResumeLayout(false);
-            this.tabNavigationPage10.ResumeLayout(false);
-            this.tabNavigationPage11.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.Barview10)).EndInit();
             this.Barview10.ResumeLayout(false);
             this.xtraTabPage31.ResumeLayout(false);
@@ -10709,69 +6278,6 @@ namespace Simulations
             ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff1_2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff1_time)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff1)).EndInit();
-            this.Foff_2.ResumeLayout(false);
-            this.groupBox8.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff2_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff2_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff2_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff2_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff2)).EndInit();
-            this.Foff_3.ResumeLayout(false);
-            this.groupBox15.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff3_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff3_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff3_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff3_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff3)).EndInit();
-            this.Foff_4.ResumeLayout(false);
-            this.groupBox17.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff4_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff4_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff4_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff4_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff4)).EndInit();
-            this.Foff_5.ResumeLayout(false);
-            this.groupBox19.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff5_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff5_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff5_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff5_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff5)).EndInit();
-            this.Foff_6.ResumeLayout(false);
-            this.groupBox21.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff6_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff6_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff6_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff6_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff6)).EndInit();
-            this.Foff_7.ResumeLayout(false);
-            this.groupBox23.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff7_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff7_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff7_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff7_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff7)).EndInit();
-            this.Foff_8.ResumeLayout(false);
-            this.groupBox25.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff8_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff8_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff8_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff8_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff8)).EndInit();
-            this.Foff_9.ResumeLayout(false);
-            this.groupBox27.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff9_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff9_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff9_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff9_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff9)).EndInit();
-            this.Foff_10.ResumeLayout(false);
-            this.groupBox29.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff10_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff10_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff10_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff10_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_Foff10)).EndInit();
             this.tab_Fonf.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.Tab_FonF_test)).EndInit();
             this.Tab_FonF_test.ResumeLayout(false);
@@ -10782,69 +6288,6 @@ namespace Simulations
             ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF1_2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF1_time)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF1)).EndInit();
-            this.xtraTabPage2.ResumeLayout(false);
-            this.groupBox33.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF2_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF2_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF2_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF2_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF2)).EndInit();
-            this.xtraTabPage3.ResumeLayout(false);
-            this.groupBox35.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF3_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF3_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF3_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF3_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF3)).EndInit();
-            this.xtraTabPage4.ResumeLayout(false);
-            this.groupBox37.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF4_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF4_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF4_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF4_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF4)).EndInit();
-            this.xtraTabPage5.ResumeLayout(false);
-            this.groupBox39.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF5_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF5_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF5_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF5_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF5)).EndInit();
-            this.xtraTabPage6.ResumeLayout(false);
-            this.groupBox41.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF6_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF6_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF6_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF6_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF6)).EndInit();
-            this.xtraTabPage7.ResumeLayout(false);
-            this.groupBox43.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF7_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF7_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF7_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF7_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF7)).EndInit();
-            this.xtraTabPage8.ResumeLayout(false);
-            this.groupBox45.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF8_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF8_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF8_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF8_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF8)).EndInit();
-            this.xtraTabPage9.ResumeLayout(false);
-            this.groupBox47.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF9_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF9_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF9_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF9_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF9)).EndInit();
-            this.xtraTabPage10.ResumeLayout(false);
-            this.groupBox49.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF10_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF10_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF10_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF10_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonF10)).EndInit();
             this.tab_Fonj.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.Tab_FonS_test)).EndInit();
             this.Tab_FonS_test.ResumeLayout(false);
@@ -10855,69 +6298,6 @@ namespace Simulations
             ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS1_2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS1_time)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS1)).EndInit();
-            this.xtraTabPage12.ResumeLayout(false);
-            this.groupBox53.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS2_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS2_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS2_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS2_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS2)).EndInit();
-            this.xtraTabPage13.ResumeLayout(false);
-            this.groupBox55.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS3_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS3_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS3_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS3_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS3)).EndInit();
-            this.xtraTabPage14.ResumeLayout(false);
-            this.groupBox57.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS4_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS4_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS4_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS4_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS4)).EndInit();
-            this.xtraTabPage15.ResumeLayout(false);
-            this.groupBox59.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS5_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS5_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS5_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS5_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS5)).EndInit();
-            this.xtraTabPage16.ResumeLayout(false);
-            this.groupBox61.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS6_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS6_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS6_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS6_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS6)).EndInit();
-            this.xtraTabPage17.ResumeLayout(false);
-            this.groupBox63.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS7_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS7_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS7_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS7_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS7_)).EndInit();
-            this.xtraTabPage18.ResumeLayout(false);
-            this.groupBox65.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS8_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS8_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS8_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS8_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS8)).EndInit();
-            this.xtraTabPage19.ResumeLayout(false);
-            this.groupBox67.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS9_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS9_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS9_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS9_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS9)).EndInit();
-            this.xtraTabPage20.ResumeLayout(false);
-            this.groupBox69.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS10_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS10_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS10_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS10_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_FonS10)).EndInit();
             this.tab_Joff.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.xtraTabControl1)).EndInit();
             this.xtraTabControl1.ResumeLayout(false);
@@ -10928,69 +6308,6 @@ namespace Simulations
             ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF1_2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF1_time)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF1)).EndInit();
-            this.xtraTabPage22.ResumeLayout(false);
-            this.groupBox73.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF2_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF2_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF2_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF2_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF2)).EndInit();
-            this.xtraTabPage23.ResumeLayout(false);
-            this.groupBox75.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF3_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF3_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF3_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF3_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF3)).EndInit();
-            this.xtraTabPage24.ResumeLayout(false);
-            this.groupBox77.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF4_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF4_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF4_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF4_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF4)).EndInit();
-            this.xtraTabPage25.ResumeLayout(false);
-            this.groupBox79.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF5_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF5_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF5_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF5_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF5)).EndInit();
-            this.xtraTabPage26.ResumeLayout(false);
-            this.groupBox81.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF6_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF6_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF6_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF6_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF6)).EndInit();
-            this.xtraTabPage27.ResumeLayout(false);
-            this.groupBox83.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF7_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF7_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF7_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF7_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF7)).EndInit();
-            this.xtraTabPage28.ResumeLayout(false);
-            this.groupBox85.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF8_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF8_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF8_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF8_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF8)).EndInit();
-            this.xtraTabPage29.ResumeLayout(false);
-            this.groupBox87.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF9_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF9_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF9_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF9_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF9)).EndInit();
-            this.xtraTabPage30.ResumeLayout(false);
-            this.groupBox89.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF10_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF10_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF10_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF10_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SoFF10)).EndInit();
             this.tab_Jonf.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF)).EndInit();
             this.Chart_SonF.ResumeLayout(false);
@@ -11001,69 +6318,6 @@ namespace Simulations
             ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF1_2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF1_time)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF1)).EndInit();
-            this.xtraTabPage34.ResumeLayout(false);
-            this.groupBox93.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF2_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF2_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF2_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF2_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF2)).EndInit();
-            this.xtraTabPage35.ResumeLayout(false);
-            this.groupBox95.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF3_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF3_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF3_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF3_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF3)).EndInit();
-            this.xtraTabPage36.ResumeLayout(false);
-            this.groupBox97.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF4_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF4_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF4_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF4_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF4)).EndInit();
-            this.xtraTabPage37.ResumeLayout(false);
-            this.groupBox99.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF5_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF5_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF5_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF5_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF5)).EndInit();
-            this.xtraTabPage38.ResumeLayout(false);
-            this.groupBox101.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF6_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF6_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF6_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF6_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF6)).EndInit();
-            this.xtraTabPage39.ResumeLayout(false);
-            this.groupBox103.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF7_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF7_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF7_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF7_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF7)).EndInit();
-            this.xtraTabPage40.ResumeLayout(false);
-            this.groupBox105.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF8_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF8_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF8_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF8_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF8)).EndInit();
-            this.xtraTabPage41.ResumeLayout(false);
-            this.groupBox107.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF9_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF9_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF9_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF9_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF9)).EndInit();
-            this.xtraTabPage42.ResumeLayout(false);
-            this.groupBox109.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF10_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF10_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF10_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF10_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonF10)).EndInit();
             this.tab_Jonj.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.xtraTabControl2)).EndInit();
             this.xtraTabControl2.ResumeLayout(false);
@@ -11074,70 +6328,6 @@ namespace Simulations
             ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS1_2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS1_time)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS1)).EndInit();
-            this.xtraTabPage44.ResumeLayout(false);
-            this.groupBox112.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS2_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS2_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS2_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS2_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS2)).EndInit();
-            this.xtraTabPage45.ResumeLayout(false);
-            this.groupBox114.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS3_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS3_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS3_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS3_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS3)).EndInit();
-            this.xtraTabPage46.ResumeLayout(false);
-            this.xtraTabPage46.PerformLayout();
-            this.groupBox116.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS4_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS4_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS4_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS4_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS4)).EndInit();
-            this.xtraTabPage47.ResumeLayout(false);
-            this.groupBox118.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS5_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS5_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS5_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS5_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS5)).EndInit();
-            this.xtraTabPage48.ResumeLayout(false);
-            this.groupBox120.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS6_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS6_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS6_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS6_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS6)).EndInit();
-            this.xtraTabPage49.ResumeLayout(false);
-            this.groupBox122.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS7_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS7_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS7_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS7_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS7)).EndInit();
-            this.xtraTabPage50.ResumeLayout(false);
-            this.groupBox124.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS8_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS8_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS8_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS8_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS8)).EndInit();
-            this.xtraTabPage51.ResumeLayout(false);
-            this.groupBox126.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS9_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS9_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS9_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS9_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS9)).EndInit();
-            this.xtraTabPage52.ResumeLayout(false);
-            this.groupBox128.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS10_3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS10_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS10_2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS10_time)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Chart_SonS10)).EndInit();
             this.Set_index.ResumeLayout(false);
             this.Set_index.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.spinEdit_casetime.Properties)).EndInit();
@@ -11283,15 +6473,6 @@ namespace Simulations
         private DevExpress.XtraTab.XtraTabPage tab_Jonj;
         private DevExpress.XtraTab.XtraTabControl Tab_Foff_test;
         private DevExpress.XtraTab.XtraTabPage Foff_1;
-        private DevExpress.XtraTab.XtraTabPage Foff_2;
-        private DevExpress.XtraTab.XtraTabPage Foff_3;
-        private DevExpress.XtraTab.XtraTabPage Foff_4;
-        private DevExpress.XtraTab.XtraTabPage Foff_5;
-        private DevExpress.XtraTab.XtraTabPage Foff_6;
-        private DevExpress.XtraTab.XtraTabPage Foff_7;
-        private DevExpress.XtraTab.XtraTabPage Foff_8;
-        private DevExpress.XtraTab.XtraTabPage Foff_9;
-        private DevExpress.XtraTab.XtraTabPage Foff_10;
         public System.Windows.Forms.Timer timer_FonF_1;
         public System.Windows.Forms.Timer timer_FonF_2;
         public System.Windows.Forms.Timer timer_FonF_3;
@@ -11342,48 +6523,6 @@ namespace Simulations
         private System.Windows.Forms.Label lb_SonS;
         private System.Windows.Forms.GroupBox Gb_SonF1;
         private System.Windows.Forms.Label lb_SonF;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff4_3;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff4_2;
-        private System.Windows.Forms.GroupBox groupBox17;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff4_1;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff4_time;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff4;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff5_3;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff5_2;
-        private System.Windows.Forms.GroupBox groupBox19;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff5_1;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff5_time;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff5;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff6_3;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff6_2;
-        private System.Windows.Forms.GroupBox groupBox21;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff6_1;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff6_time;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff6;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff7_3;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff7_2;
-        private System.Windows.Forms.GroupBox groupBox23;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff7_1;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff7_time;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff7;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff8_3;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff8_2;
-        private System.Windows.Forms.GroupBox groupBox25;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff8_1;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff8_time;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff8;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff9_3;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff9_2;
-        private System.Windows.Forms.GroupBox groupBox27;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff9_1;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff9_time;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff9;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff10_3;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff10_2;
-        private System.Windows.Forms.GroupBox groupBox29;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff10_1;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff10_time;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff10;
         private DevExpress.XtraTab.XtraTabControl Tab_FonF_test;
         private DevExpress.XtraTab.XtraTabPage xtraTabPage1;
         public DevExpress.XtraCharts.ChartControl Chart_FonF1_3;
@@ -11392,69 +6531,6 @@ namespace Simulations
         public DevExpress.XtraCharts.ChartControl Chart_FonF1_1;
         public DevExpress.XtraCharts.ChartControl Chart_FonF1_time;
         public DevExpress.XtraCharts.ChartControl Chart_FonF1;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage2;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF2_3;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF2_2;
-        private System.Windows.Forms.GroupBox groupBox33;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF2_1;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF2_time;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF2;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage3;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF3_3;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF3_2;
-        private System.Windows.Forms.GroupBox groupBox35;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF3_1;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF3_time;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF3;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage4;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF4_3;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF4_2;
-        private System.Windows.Forms.GroupBox groupBox37;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF4_1;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF4_time;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF4;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage5;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF5_3;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF5_2;
-        private System.Windows.Forms.GroupBox groupBox39;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF5_1;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF5_time;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF5;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage6;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF6_3;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF6_2;
-        private System.Windows.Forms.GroupBox groupBox41;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF6_1;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF6_time;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF6;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage7;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF7_3;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF7_2;
-        private System.Windows.Forms.GroupBox groupBox43;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF7_1;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF7_time;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF7;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage8;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF8_3;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF8_2;
-        private System.Windows.Forms.GroupBox groupBox45;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF8_1;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF8_time;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF8;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage9;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF9_3;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF9_2;
-        private System.Windows.Forms.GroupBox groupBox47;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF9_1;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF9_time;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF9;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage10;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF10_3;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF10_2;
-        private System.Windows.Forms.GroupBox groupBox49;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF10_1;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF10_time;
-        public DevExpress.XtraCharts.ChartControl Chart_FonF10;
         private DevExpress.XtraTab.XtraTabControl Tab_FonS_test;
         private DevExpress.XtraTab.XtraTabPage xtraTabPage11;
         public DevExpress.XtraCharts.ChartControl Chart_FonS1_3;
@@ -11463,69 +6539,6 @@ namespace Simulations
         public DevExpress.XtraCharts.ChartControl Chart_FonS1_1;
         public DevExpress.XtraCharts.ChartControl Chart_FonS1_time;
         public DevExpress.XtraCharts.ChartControl Chart_FonS1;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage12;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS2_3;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS2_2;
-        private System.Windows.Forms.GroupBox groupBox53;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS2_1;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS2_time;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS2;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage13;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS3_3;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS3_2;
-        private System.Windows.Forms.GroupBox groupBox55;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS3_1;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS3_time;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS3;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage14;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS4_3;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS4_2;
-        private System.Windows.Forms.GroupBox groupBox57;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS4_1;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS4_time;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS4;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage15;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS5_3;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS5_2;
-        private System.Windows.Forms.GroupBox groupBox59;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS5_1;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS5_time;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS5;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage16;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS6_3;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS6_2;
-        private System.Windows.Forms.GroupBox groupBox61;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS6_1;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS6_time;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS6;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage17;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS7_3;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS7_2;
-        private System.Windows.Forms.GroupBox groupBox63;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS7_1;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS7_time;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS7_;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage18;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS8_3;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS8_2;
-        private System.Windows.Forms.GroupBox groupBox65;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS8_1;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS8_time;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS8;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage19;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS9_3;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS9_2;
-        private System.Windows.Forms.GroupBox groupBox67;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS9_1;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS9_time;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS9;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage20;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS10_3;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS10_2;
-        private System.Windows.Forms.GroupBox groupBox69;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS10_1;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS10_time;
-        public DevExpress.XtraCharts.ChartControl Chart_FonS10;
         private DevExpress.XtraTab.XtraTabControl xtraTabControl1;
         private DevExpress.XtraTab.XtraTabPage xtraTabPage21;
         public DevExpress.XtraCharts.ChartControl Chart_SoFF1_3;
@@ -11534,63 +6547,6 @@ namespace Simulations
         public DevExpress.XtraCharts.ChartControl Chart_SoFF1_1;
         public DevExpress.XtraCharts.ChartControl Chart_SoFF1_time;
         public DevExpress.XtraCharts.ChartControl Chart_SoFF1;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage22;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF2_3;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF2_2;
-        private System.Windows.Forms.GroupBox groupBox73;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF2_1;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF2_time;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF2;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage23;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF3_3;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF3_2;
-        private System.Windows.Forms.GroupBox groupBox75;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF3_1;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF3_time;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF3;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage24;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF4_3;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF4_2;
-        private System.Windows.Forms.GroupBox groupBox77;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF4_1;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF4_time;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF4;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage25;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF5_3;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF5_2;
-        private System.Windows.Forms.GroupBox groupBox79;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF5_1;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF5_time;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF5;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage26;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF6_3;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF6_2;
-        private System.Windows.Forms.GroupBox groupBox81;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF6_1;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF6_time;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF6;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage27;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF7_3;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF7_2;
-        private System.Windows.Forms.GroupBox groupBox83;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF7_1;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF7_time;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF7;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage28;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF8_3;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF8_2;
-        private System.Windows.Forms.GroupBox groupBox85;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF8_1;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF8_time;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF8;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage29;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage30;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF10_3;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF10_2;
-        private System.Windows.Forms.GroupBox groupBox89;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF10_1;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF10_time;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF10;
         private DevExpress.XtraNavBar.NavBarItem ChaetBarView;
         private DevExpress.XtraCharts.ChartControl Barview_1;
         private DevExpress.XtraTab.XtraTabControl Barview10;
@@ -11605,69 +6561,6 @@ namespace Simulations
         public DevExpress.XtraCharts.ChartControl Chart_SonF1_1;
         public DevExpress.XtraCharts.ChartControl Chart_SonF1_time;
         public DevExpress.XtraCharts.ChartControl Chart_SonF1;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage34;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF2_3;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF2_2;
-        private System.Windows.Forms.GroupBox groupBox93;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF2_1;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF2_time;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF2;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage35;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF3_3;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF3_2;
-        private System.Windows.Forms.GroupBox groupBox95;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF3_1;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF3_time;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF3;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage36;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF4_3;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF4_2;
-        private System.Windows.Forms.GroupBox groupBox97;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF4_1;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF4_time;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF4;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage37;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF5_3;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF5_2;
-        private System.Windows.Forms.GroupBox groupBox99;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF5_1;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF5_time;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF5;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage38;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF6_3;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF6_2;
-        private System.Windows.Forms.GroupBox groupBox101;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF6_1;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF6_time;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF6;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage39;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF7_3;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF7_2;
-        private System.Windows.Forms.GroupBox groupBox103;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF7_1;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF7_time;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF7;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage40;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF8_3;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF8_2;
-        private System.Windows.Forms.GroupBox groupBox105;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF8_1;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF8_time;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF8;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage41;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF9_3;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF9_2;
-        private System.Windows.Forms.GroupBox groupBox107;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF9_1;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF9_time;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF9;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage42;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF10_3;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF10_2;
-        private System.Windows.Forms.GroupBox groupBox109;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF10_1;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF10_time;
-        public DevExpress.XtraCharts.ChartControl Chart_SonF10;
         private DevExpress.XtraTab.XtraTabControl xtraTabControl2;
         private DevExpress.XtraTab.XtraTabPage xtraTabPage43;
         public DevExpress.XtraCharts.ChartControl Chart_SonS1_3;
@@ -11676,87 +6569,6 @@ namespace Simulations
         public DevExpress.XtraCharts.ChartControl Chart_SonS1_1;
         public DevExpress.XtraCharts.ChartControl Chart_SonS1_time;
         public DevExpress.XtraCharts.ChartControl Chart_SonS1;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage44;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS2_3;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS2_2;
-        private System.Windows.Forms.GroupBox groupBox112;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS2_1;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS2_time;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS2;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage45;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS3_3;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS3_2;
-        private System.Windows.Forms.GroupBox groupBox114;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS3_1;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS3_time;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS3;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage46;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS4_3;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS4_2;
-        private System.Windows.Forms.GroupBox groupBox116;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS4_1;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS4_time;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS4;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage47;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS5_3;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS5_2;
-        private System.Windows.Forms.GroupBox groupBox118;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS5_1;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS5_time;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS5;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage48;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS6_3;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS6_2;
-        private System.Windows.Forms.GroupBox groupBox120;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS6_1;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS6_time;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS6;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage49;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS7_3;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS7_2;
-        private System.Windows.Forms.GroupBox groupBox122;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS7_1;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS7_time;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS7;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS8_3;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS8_2;
-        private System.Windows.Forms.GroupBox groupBox124;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS8_1;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS8_time;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS8;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage51;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS9_3;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS9_2;
-        private System.Windows.Forms.GroupBox groupBox126;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS9_1;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS9_time;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS9;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage52;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS10_3;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS10_2;
-        private System.Windows.Forms.GroupBox groupBox128;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS10_1;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS10_time;
-        public DevExpress.XtraCharts.ChartControl Chart_SonS10;
-        private System.Windows.Forms.GroupBox groupBox8;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff2_3;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff2_1;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff2_2;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff2_time;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff2;
-        private System.Windows.Forms.GroupBox groupBox15;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff3_3;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff3_1;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff3_2;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff3_time;
-        public DevExpress.XtraCharts.ChartControl Chart_Foff3;
-        private System.Windows.Forms.GroupBox groupBox87;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF9_3;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF9_1;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF9_2;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF9_time;
-        public DevExpress.XtraCharts.ChartControl Chart_SoFF9;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage50;
         private DevExpress.XtraCharts.ChartControl Barview_2;
         private DevExpress.XtraTab.XtraTabPage xtraTabPage53;
         private DevExpress.XtraCharts.ChartControl Barview2;
@@ -11848,31 +6660,9 @@ namespace Simulations
         private System.Drawing.Printing.PrintDocument printDocument1;
         private DevExpress.ReportServer.Printing.RemoteDocumentSource remoteDocumentSource1;
         private DevExpress.XtraPrinting.PrintingSystem printingSystem1;
-        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage1;
         private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage2;
-        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage3;
-        private DevExpress.XtraPrinting.Preview.DocumentViewer ReportChart2;
-        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage4;
-        private DevExpress.XtraPrinting.Preview.DocumentViewer ReportChart3;
-        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage5;
-        private DevExpress.XtraPrinting.Preview.DocumentViewer ReportChart4;
-        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage6;
-        private DevExpress.XtraPrinting.Preview.DocumentViewer ReportChart5;
-        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage7;
-        private DevExpress.XtraPrinting.Preview.DocumentViewer ReportChart6;
-        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage8;
-        private DevExpress.XtraPrinting.Preview.DocumentViewer ReportChart7;
-        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage9;
-        private DevExpress.XtraPrinting.Preview.DocumentViewer ReportChart8;
-        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage10;
-        private DevExpress.XtraPrinting.Preview.DocumentViewer ReportChart9;
-        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage11;
-        private DevExpress.XtraPrinting.Preview.DocumentViewer ReportChart10;
-        public DevExpress.XtraPrinting.Preview.DocumentViewer documentViewer1;
         public DevExpress.XtraBars.Navigation.TabPane ReportChart;
         public DevExpress.XtraPrinting.Preview.DocumentViewer ReportChart1;
-        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage12;
-        private System.Windows.Forms.Panel panelRichEdit;
         private DevExpress.XtraRichEdit.UI.PasteItem pasteItem1;
         private DevExpress.XtraRichEdit.UI.CutItem cutItem1;
         private DevExpress.XtraRichEdit.UI.CopyItem copyItem1;
@@ -12064,7 +6854,6 @@ namespace Simulations
         private DevExpress.XtraRichEdit.UI.ChangePageColorItem changePageColorItem1;
         private DevExpress.XtraRichEdit.UI.FileRibbonPage fileRibbonPage1;
         private DevExpress.XtraRichEdit.UI.CommonRibbonPageGroup commonRibbonPageGroup1;
-        private DevExpress.XtraNavBar.NavBarGroup navBarGroup1;
         private DevExpress.XtraNavBar.NavBarItem navBarItem3;
         private DevExpress.XtraNavBar.NavBarGroup navBarGroup2;
         public DevExpress.XtraBars.Ribbon.RibbonControl ribbonControl;
@@ -12075,7 +6864,6 @@ namespace Simulations
         private DevExpress.XtraNavBar.NavBarItem Tab_RichEdit5;
         private System.Windows.Forms.Button bt_addSetcase;
         private System.Windows.Forms.ComboBox CB_Setgencase;
-        public DevExpress.XtraRichEdit.RichEditControl richEditControl1;
         public System.Windows.Forms.Label lb_Joff1;
         public System.Windows.Forms.Label lb_SonS1;
         public System.Windows.Forms.Label lb_SonF1;

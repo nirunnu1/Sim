@@ -9,7 +9,6 @@ namespace Sim.groupAndTapControl
     {
         public static GroupBox[] groupBox = new GroupBox[2];
         public static XtraTabControl[] xtraTabControl = new XtraTabControl[2];
-        public static Panel panel;
         public static TabPane tabPane;
         public static void HideGroup()
         {
@@ -19,7 +18,6 @@ namespace Sim.groupAndTapControl
             xtraTabControl[0].Visible = false;
             xtraTabControl[1].Visible = false;
             tabPane.Visible = false;
-            panel.Visible = false;
             SizeGroup();
             LocationGroup();
         }
@@ -31,7 +29,7 @@ namespace Sim.groupAndTapControl
             xtraTabControl[0].Location = new Point(0, 0);
             xtraTabControl[1].Location = new Point(0, 0);
             tabPane.Location = new Point(0, 0);
-            panel.Location = new Point(0, 0);
+ 
         }
         public static void SizeGroup()
         {
@@ -44,8 +42,6 @@ namespace Sim.groupAndTapControl
             xtraTabControl[1].Dock = DockStyle.Fill;
             //TabControl_All.AutoSize = true;
             tabPane.Dock = DockStyle.Fill;
-            /// Barview10.Size = new Size(900, 550);
-            panel.Dock = DockStyle.Fill;
         }
 
     }

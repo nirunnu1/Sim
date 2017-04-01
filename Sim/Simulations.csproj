@@ -146,71 +146,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Regridview\regridview.cs" />
     <Compile Include="ReportControl\BarViewsReport.cs" />
-    <Compile Include="ReportControl\test.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="ReportControl\test.Designer.cs">
-      <DependentUpon>test.cs</DependentUpon>
-    </Compile>
     <Compile Include="ReportControl\XtraReportChart1.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="ReportControl\XtraReportChart1.Designer.cs">
       <DependentUpon>XtraReportChart1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="ReportControl\XtraReportChart10.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="ReportControl\XtraReportChart10.Designer.cs">
-      <DependentUpon>XtraReportChart10.cs</DependentUpon>
-    </Compile>
-    <Compile Include="ReportControl\XtraReportChart9.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="ReportControl\XtraReportChart9.Designer.cs">
-      <DependentUpon>XtraReportChart9.cs</DependentUpon>
-    </Compile>
-    <Compile Include="ReportControl\XtraReportChart8.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="ReportControl\XtraReportChart8.Designer.cs">
-      <DependentUpon>XtraReportChart8.cs</DependentUpon>
-    </Compile>
-    <Compile Include="ReportControl\XtraReportChart7.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="ReportControl\XtraReportChart7.Designer.cs">
-      <DependentUpon>XtraReportChart7.cs</DependentUpon>
-    </Compile>
-    <Compile Include="ReportControl\XtraReportChart6.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="ReportControl\XtraReportChart6.Designer.cs">
-      <DependentUpon>XtraReportChart6.cs</DependentUpon>
-    </Compile>
-    <Compile Include="ReportControl\XtraReportChart5.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="ReportControl\XtraReportChart5.Designer.cs">
-      <DependentUpon>XtraReportChart5.cs</DependentUpon>
-    </Compile>
-    <Compile Include="ReportControl\XtraReportChart4.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="ReportControl\XtraReportChart4.Designer.cs">
-      <DependentUpon>XtraReportChart4.cs</DependentUpon>
-    </Compile>
-    <Compile Include="ReportControl\XtraReportChart3.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="ReportControl\XtraReportChart3.Designer.cs">
-      <DependentUpon>XtraReportChart3.cs</DependentUpon>
-    </Compile>
-    <Compile Include="ReportControl\XtraReportChart2.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="ReportControl\XtraReportChart2.Designer.cs">
-      <DependentUpon>XtraReportChart2.cs</DependentUpon>
     </Compile>
     <Compile Include="RichEditControl\RichEditControl.cs" />
     <Compile Include="SettingCaseAdd.cs">
@@ -229,12 +169,6 @@
     <Compile Include="SimStop\ResetTime.cs" />
     <Compile Include="StartList.cs" />
     <Compile Include="Stoptimer.cs" />
-    <Compile Include="ReportControl\XtraReport1.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="ReportControl\XtraReport1.Designer.cs">
-      <DependentUpon>XtraReport1.cs</DependentUpon>
-    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -253,41 +187,8 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="ReportControl\test.resx">
-      <DependentUpon>test.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="ReportControl\XtraReport1.resx">
-      <DependentUpon>XtraReport1.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="ReportControl\XtraReportChart1.resx">
       <DependentUpon>XtraReportChart1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="ReportControl\XtraReportChart10.resx">
-      <DependentUpon>XtraReportChart10.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="ReportControl\XtraReportChart9.resx">
-      <DependentUpon>XtraReportChart9.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="ReportControl\XtraReportChart8.resx">
-      <DependentUpon>XtraReportChart8.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="ReportControl\XtraReportChart7.resx">
-      <DependentUpon>XtraReportChart7.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="ReportControl\XtraReportChart6.resx">
-      <DependentUpon>XtraReportChart6.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="ReportControl\XtraReportChart5.resx">
-      <DependentUpon>XtraReportChart5.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="ReportControl\XtraReportChart4.resx">
-      <DependentUpon>XtraReportChart4.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="ReportControl\XtraReportChart3.resx">
-      <DependentUpon>XtraReportChart3.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="ReportControl\XtraReportChart2.resx">
-      <DependentUpon>XtraReportChart2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="SettingCaseAdd.resx">
       <DependentUpon>SettingCaseAdd.cs</DependentUpon>
