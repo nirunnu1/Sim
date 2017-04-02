@@ -34,156 +34,156 @@ namespace Simulations
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            DevExpress.XtraBars.Ribbon.GalleryItemGroup galleryItemGroup7 = new DevExpress.XtraBars.Ribbon.GalleryItemGroup();
-            DevExpress.Utils.SuperToolTip superToolTip148 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem148 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem148 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip149 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem149 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem149 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip150 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem150 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem150 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip151 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem151 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem151 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip152 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem152 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem152 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip153 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem153 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem153 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip154 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem154 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem154 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip155 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem155 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem155 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip156 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem156 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem156 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip157 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem157 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem157 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip158 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem158 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem158 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip159 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem159 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem159 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip160 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem160 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem160 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip161 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem161 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem161 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip162 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem162 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem162 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip163 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem163 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem163 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip164 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem164 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem164 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip165 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem165 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem165 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip166 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem166 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem166 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip167 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem167 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem167 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip168 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem168 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem168 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip169 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem169 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem169 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip170 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem170 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem170 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip171 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem171 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem171 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip172 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem172 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem172 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip173 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem173 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem173 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip174 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem174 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem174 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip175 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem175 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem175 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip176 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem176 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem176 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip177 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem177 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem177 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip178 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem178 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem178 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip179 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem179 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem179 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip180 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem180 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem180 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip181 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem181 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem181 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip182 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem182 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem182 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip183 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem183 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem183 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip184 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem184 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem184 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip185 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem185 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem185 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip186 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem186 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem186 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip187 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem187 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem187 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip188 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem188 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem188 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip189 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem189 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem189 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip190 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem190 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem190 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip191 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem191 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem191 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip192 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem192 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem192 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip193 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem193 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem193 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip194 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem194 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem194 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip195 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem195 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem195 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.XtraBars.Ribbon.GalleryItemGroup galleryItemGroup8 = new DevExpress.XtraBars.Ribbon.GalleryItemGroup();
-            DevExpress.Utils.SuperToolTip superToolTip196 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem196 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem196 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.XtraBars.Ribbon.ReduceOperation reduceOperation4 = new DevExpress.XtraBars.Ribbon.ReduceOperation();
+            DevExpress.XtraBars.Ribbon.GalleryItemGroup galleryItemGroup3 = new DevExpress.XtraBars.Ribbon.GalleryItemGroup();
+            DevExpress.Utils.SuperToolTip superToolTip50 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem50 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem50 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip51 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem51 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem51 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip52 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem52 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem52 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip53 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem53 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem53 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip54 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem54 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem54 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip55 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem55 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem55 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip56 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem56 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem56 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip57 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem57 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem57 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip58 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem58 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem58 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip59 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem59 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem59 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip60 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem60 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem60 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip61 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem61 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem61 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip62 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem62 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem62 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip63 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem63 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem63 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip64 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem64 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem64 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip65 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem65 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem65 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip66 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem66 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem66 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip67 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem67 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem67 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip68 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem68 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem68 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip69 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem69 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem69 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip70 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem70 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem70 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip71 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem71 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem71 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip72 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem72 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem72 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip73 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem73 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem73 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip74 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem74 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem74 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip75 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem75 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem75 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip76 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem76 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem76 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip77 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem77 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem77 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip78 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem78 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem78 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip79 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem79 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem79 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip80 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem80 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem80 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip81 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem81 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem81 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip82 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem82 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem82 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip83 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem83 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem83 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip84 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem84 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem84 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip85 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem85 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem85 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip86 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem86 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem86 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip87 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem87 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem87 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip88 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem88 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem88 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip89 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem89 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem89 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip90 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem90 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem90 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip91 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem91 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem91 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip92 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem92 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem92 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip93 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem93 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem93 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip94 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem94 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem94 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip95 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem95 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem95 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip96 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem96 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem96 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip97 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem97 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem97 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.XtraBars.Ribbon.GalleryItemGroup galleryItemGroup4 = new DevExpress.XtraBars.Ribbon.GalleryItemGroup();
+            DevExpress.Utils.SuperToolTip superToolTip98 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem98 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem98 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.XtraBars.Ribbon.ReduceOperation reduceOperation2 = new DevExpress.XtraBars.Ribbon.ReduceOperation();
             this.stylesRibbonPageGroup1 = new DevExpress.XtraRichEdit.UI.StylesRibbonPageGroup();
             this.galleryChangeStyleItem1 = new DevExpress.XtraRichEdit.UI.GalleryChangeStyleItem();
             this.splitContainerControl = new DevExpress.XtraEditors.SplitContainerControl();
@@ -530,30 +530,8 @@ namespace Simulations
             this.tabNavigationPage2 = new DevExpress.XtraBars.Navigation.TabNavigationPage();
             this.ReportChart1 = new DevExpress.XtraPrinting.Preview.DocumentViewer();
             this.Barview10 = new DevExpress.XtraTab.XtraTabControl();
-            this.xtraTabPage31 = new DevExpress.XtraTab.XtraTabPage();
-            this.Barview_1 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage32 = new DevExpress.XtraTab.XtraTabPage();
-            this.Barview_2 = new DevExpress.XtraCharts.ChartControl();
             this.xtraTabPage62 = new DevExpress.XtraTab.XtraTabPage();
             this.Barview1 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage53 = new DevExpress.XtraTab.XtraTabPage();
-            this.Barview2 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage54 = new DevExpress.XtraTab.XtraTabPage();
-            this.Barview3 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage55 = new DevExpress.XtraTab.XtraTabPage();
-            this.Barview4 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage56 = new DevExpress.XtraTab.XtraTabPage();
-            this.Barview5 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage57 = new DevExpress.XtraTab.XtraTabPage();
-            this.Barview6 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage58 = new DevExpress.XtraTab.XtraTabPage();
-            this.Barview7 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage59 = new DevExpress.XtraTab.XtraTabPage();
-            this.Barview8 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage60 = new DevExpress.XtraTab.XtraTabPage();
-            this.Barview9 = new DevExpress.XtraCharts.ChartControl();
-            this.xtraTabPage61 = new DevExpress.XtraTab.XtraTabPage();
-            this.Barview_10 = new DevExpress.XtraCharts.ChartControl();
             this.TabControl_All = new DevExpress.XtraTab.XtraTabControl();
             this.tab_Foff = new DevExpress.XtraTab.XtraTabPage();
             this.Tab_Foff_test = new DevExpress.XtraTab.XtraTabControl();
@@ -725,30 +703,8 @@ namespace Simulations
             this.tabNavigationPage2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Barview10)).BeginInit();
             this.Barview10.SuspendLayout();
-            this.xtraTabPage31.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Barview_1)).BeginInit();
-            this.xtraTabPage32.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Barview_2)).BeginInit();
             this.xtraTabPage62.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Barview1)).BeginInit();
-            this.xtraTabPage53.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Barview2)).BeginInit();
-            this.xtraTabPage54.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Barview3)).BeginInit();
-            this.xtraTabPage55.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Barview4)).BeginInit();
-            this.xtraTabPage56.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Barview5)).BeginInit();
-            this.xtraTabPage57.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Barview6)).BeginInit();
-            this.xtraTabPage58.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Barview7)).BeginInit();
-            this.xtraTabPage59.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Barview8)).BeginInit();
-            this.xtraTabPage60.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Barview9)).BeginInit();
-            this.xtraTabPage61.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Barview_10)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.TabControl_All)).BeginInit();
             this.TabControl_All.SuspendLayout();
             this.tab_Foff.SuspendLayout();
@@ -857,7 +813,7 @@ namespace Simulations
             // 
             this.galleryChangeStyleItem1.Gallery.ColumnCount = 10;
             this.galleryChangeStyleItem1.Gallery.Groups.AddRange(new DevExpress.XtraBars.Ribbon.GalleryItemGroup[] {
-            galleryItemGroup7});
+            galleryItemGroup3});
             this.galleryChangeStyleItem1.Gallery.ImageSize = new System.Drawing.Size(65, 46);
             this.galleryChangeStyleItem1.Id = 407;
             this.galleryChangeStyleItem1.Name = "galleryChangeStyleItem1";
@@ -1629,15 +1585,15 @@ namespace Simulations
             this.printPreviewBarItem1.Id = 62;
             this.printPreviewBarItem1.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_DocumentMapLarge;
             this.printPreviewBarItem1.Name = "printPreviewBarItem1";
-            superToolTip148.FixedTooltipWidth = true;
-            toolTipTitleItem148.Text = "Document Map";
-            toolTipItem148.LeftIndent = 6;
-            toolTipItem148.Text = "Open the Document Map, which allows you to navigate through a structural view of " +
+            superToolTip50.FixedTooltipWidth = true;
+            toolTipTitleItem50.Text = "Document Map";
+            toolTipItem50.LeftIndent = 6;
+            toolTipItem50.Text = "Open the Document Map, which allows you to navigate through a structural view of " +
     "the document.";
-            superToolTip148.Items.Add(toolTipTitleItem148);
-            superToolTip148.Items.Add(toolTipItem148);
-            superToolTip148.MaxWidth = 210;
-            this.printPreviewBarItem1.SuperTip = superToolTip148;
+            superToolTip50.Items.Add(toolTipTitleItem50);
+            superToolTip50.Items.Add(toolTipItem50);
+            superToolTip50.MaxWidth = 210;
+            this.printPreviewBarItem1.SuperTip = superToolTip50;
             // 
             // documentViewerRibbonController1
             // 
@@ -1753,15 +1709,15 @@ namespace Simulations
             this.printPreviewBarItem2.Id = 63;
             this.printPreviewBarItem2.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ParametersLarge;
             this.printPreviewBarItem2.Name = "printPreviewBarItem2";
-            superToolTip149.FixedTooltipWidth = true;
-            toolTipTitleItem149.Text = "Parameters";
-            toolTipItem149.LeftIndent = 6;
-            toolTipItem149.Text = "Open the Parameters pane, which allows you to enter values for report parameters." +
+            superToolTip51.FixedTooltipWidth = true;
+            toolTipTitleItem51.Text = "Parameters";
+            toolTipItem51.LeftIndent = 6;
+            toolTipItem51.Text = "Open the Parameters pane, which allows you to enter values for report parameters." +
     "";
-            superToolTip149.Items.Add(toolTipTitleItem149);
-            superToolTip149.Items.Add(toolTipItem149);
-            superToolTip149.MaxWidth = 210;
-            this.printPreviewBarItem2.SuperTip = superToolTip149;
+            superToolTip51.Items.Add(toolTipTitleItem51);
+            superToolTip51.Items.Add(toolTipItem51);
+            superToolTip51.MaxWidth = 210;
+            this.printPreviewBarItem2.SuperTip = superToolTip51;
             // 
             // printPreviewBarItem3
             // 
@@ -1774,14 +1730,14 @@ namespace Simulations
             this.printPreviewBarItem3.Id = 64;
             this.printPreviewBarItem3.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_FindLarge;
             this.printPreviewBarItem3.Name = "printPreviewBarItem3";
-            superToolTip150.FixedTooltipWidth = true;
-            toolTipTitleItem150.Text = "Find";
-            toolTipItem150.LeftIndent = 6;
-            toolTipItem150.Text = "Show the Find dialog to find text in the document.";
-            superToolTip150.Items.Add(toolTipTitleItem150);
-            superToolTip150.Items.Add(toolTipItem150);
-            superToolTip150.MaxWidth = 210;
-            this.printPreviewBarItem3.SuperTip = superToolTip150;
+            superToolTip52.FixedTooltipWidth = true;
+            toolTipTitleItem52.Text = "Find";
+            toolTipItem52.LeftIndent = 6;
+            toolTipItem52.Text = "Show the Find dialog to find text in the document.";
+            superToolTip52.Items.Add(toolTipTitleItem52);
+            superToolTip52.Items.Add(toolTipItem52);
+            superToolTip52.MaxWidth = 210;
+            this.printPreviewBarItem3.SuperTip = superToolTip52;
             // 
             // printPreviewBarItem4
             // 
@@ -1794,14 +1750,14 @@ namespace Simulations
             this.printPreviewBarItem4.Id = 65;
             this.printPreviewBarItem4.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ThumbnailsLarge;
             this.printPreviewBarItem4.Name = "printPreviewBarItem4";
-            superToolTip151.FixedTooltipWidth = true;
-            toolTipTitleItem151.Text = "Thumbnails";
-            toolTipItem151.LeftIndent = 6;
-            toolTipItem151.Text = "Open the Thumbnails, which allows you to navigate through the document.";
-            superToolTip151.Items.Add(toolTipTitleItem151);
-            superToolTip151.Items.Add(toolTipItem151);
-            superToolTip151.MaxWidth = 210;
-            this.printPreviewBarItem4.SuperTip = superToolTip151;
+            superToolTip53.FixedTooltipWidth = true;
+            toolTipTitleItem53.Text = "Thumbnails";
+            toolTipItem53.LeftIndent = 6;
+            toolTipItem53.Text = "Open the Thumbnails, which allows you to navigate through the document.";
+            superToolTip53.Items.Add(toolTipTitleItem53);
+            superToolTip53.Items.Add(toolTipItem53);
+            superToolTip53.MaxWidth = 210;
+            this.printPreviewBarItem4.SuperTip = superToolTip53;
             // 
             // printPreviewBarItem5
             // 
@@ -1813,14 +1769,14 @@ namespace Simulations
             this.printPreviewBarItem5.Id = 66;
             this.printPreviewBarItem5.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_CustomizeLarge;
             this.printPreviewBarItem5.Name = "printPreviewBarItem5";
-            superToolTip152.FixedTooltipWidth = true;
-            toolTipTitleItem152.Text = "Options";
-            toolTipItem152.LeftIndent = 6;
-            toolTipItem152.Text = "Open the Print Options dialog, in which you can change printing options.";
-            superToolTip152.Items.Add(toolTipTitleItem152);
-            superToolTip152.Items.Add(toolTipItem152);
-            superToolTip152.MaxWidth = 210;
-            this.printPreviewBarItem5.SuperTip = superToolTip152;
+            superToolTip54.FixedTooltipWidth = true;
+            toolTipTitleItem54.Text = "Options";
+            toolTipItem54.LeftIndent = 6;
+            toolTipItem54.Text = "Open the Print Options dialog, in which you can change printing options.";
+            superToolTip54.Items.Add(toolTipTitleItem54);
+            superToolTip54.Items.Add(toolTipItem54);
+            superToolTip54.MaxWidth = 210;
+            this.printPreviewBarItem5.SuperTip = superToolTip54;
             // 
             // printPreviewBarItem6
             // 
@@ -1832,14 +1788,14 @@ namespace Simulations
             this.printPreviewBarItem6.Id = 67;
             this.printPreviewBarItem6.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_PrintLarge;
             this.printPreviewBarItem6.Name = "printPreviewBarItem6";
-            superToolTip153.FixedTooltipWidth = true;
-            toolTipTitleItem153.Text = "Print (Ctrl+P)";
-            toolTipItem153.LeftIndent = 6;
-            toolTipItem153.Text = "Select a printer, number of copies and other printing options before printing.";
-            superToolTip153.Items.Add(toolTipTitleItem153);
-            superToolTip153.Items.Add(toolTipItem153);
-            superToolTip153.MaxWidth = 210;
-            this.printPreviewBarItem6.SuperTip = superToolTip153;
+            superToolTip55.FixedTooltipWidth = true;
+            toolTipTitleItem55.Text = "Print (Ctrl+P)";
+            toolTipItem55.LeftIndent = 6;
+            toolTipItem55.Text = "Select a printer, number of copies and other printing options before printing.";
+            superToolTip55.Items.Add(toolTipTitleItem55);
+            superToolTip55.Items.Add(toolTipItem55);
+            superToolTip55.MaxWidth = 210;
+            this.printPreviewBarItem6.SuperTip = superToolTip55;
             // 
             // printPreviewBarItem7
             // 
@@ -1851,14 +1807,14 @@ namespace Simulations
             this.printPreviewBarItem7.Id = 68;
             this.printPreviewBarItem7.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_PrintDirectLarge;
             this.printPreviewBarItem7.Name = "printPreviewBarItem7";
-            superToolTip154.FixedTooltipWidth = true;
-            toolTipTitleItem154.Text = "Quick Print";
-            toolTipItem154.LeftIndent = 6;
-            toolTipItem154.Text = "Send the document directly to the default printer without making changes.";
-            superToolTip154.Items.Add(toolTipTitleItem154);
-            superToolTip154.Items.Add(toolTipItem154);
-            superToolTip154.MaxWidth = 210;
-            this.printPreviewBarItem7.SuperTip = superToolTip154;
+            superToolTip56.FixedTooltipWidth = true;
+            toolTipTitleItem56.Text = "Quick Print";
+            toolTipItem56.LeftIndent = 6;
+            toolTipItem56.Text = "Send the document directly to the default printer without making changes.";
+            superToolTip56.Items.Add(toolTipTitleItem56);
+            superToolTip56.Items.Add(toolTipItem56);
+            superToolTip56.MaxWidth = 210;
+            this.printPreviewBarItem7.SuperTip = superToolTip56;
             // 
             // printPreviewBarItem8
             // 
@@ -1868,14 +1824,14 @@ namespace Simulations
             this.printPreviewBarItem8.Enabled = false;
             this.printPreviewBarItem8.Id = 69;
             this.printPreviewBarItem8.Name = "printPreviewBarItem8";
-            superToolTip155.FixedTooltipWidth = true;
-            toolTipTitleItem155.Text = "Page Setup";
-            toolTipItem155.LeftIndent = 6;
-            toolTipItem155.Text = "Show the Page Setup dialog.";
-            superToolTip155.Items.Add(toolTipTitleItem155);
-            superToolTip155.Items.Add(toolTipItem155);
-            superToolTip155.MaxWidth = 210;
-            this.printPreviewBarItem8.SuperTip = superToolTip155;
+            superToolTip57.FixedTooltipWidth = true;
+            toolTipTitleItem57.Text = "Page Setup";
+            toolTipItem57.LeftIndent = 6;
+            toolTipItem57.Text = "Show the Page Setup dialog.";
+            superToolTip57.Items.Add(toolTipTitleItem57);
+            superToolTip57.Items.Add(toolTipItem57);
+            superToolTip57.MaxWidth = 210;
+            this.printPreviewBarItem8.SuperTip = superToolTip57;
             // 
             // printPreviewBarItem9
             // 
@@ -1887,14 +1843,14 @@ namespace Simulations
             this.printPreviewBarItem9.Id = 70;
             this.printPreviewBarItem9.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_EditPageHFLarge;
             this.printPreviewBarItem9.Name = "printPreviewBarItem9";
-            superToolTip156.FixedTooltipWidth = true;
-            toolTipTitleItem156.Text = "Header and Footer";
-            toolTipItem156.LeftIndent = 6;
-            toolTipItem156.Text = "Edit the header and footer of the document.";
-            superToolTip156.Items.Add(toolTipTitleItem156);
-            superToolTip156.Items.Add(toolTipItem156);
-            superToolTip156.MaxWidth = 210;
-            this.printPreviewBarItem9.SuperTip = superToolTip156;
+            superToolTip58.FixedTooltipWidth = true;
+            toolTipTitleItem58.Text = "Header and Footer";
+            toolTipItem58.LeftIndent = 6;
+            toolTipItem58.Text = "Edit the header and footer of the document.";
+            superToolTip58.Items.Add(toolTipTitleItem58);
+            superToolTip58.Items.Add(toolTipItem58);
+            superToolTip58.MaxWidth = 210;
+            this.printPreviewBarItem9.SuperTip = superToolTip58;
             // 
             // printPreviewBarItem10
             // 
@@ -1907,14 +1863,14 @@ namespace Simulations
             this.printPreviewBarItem10.Id = 71;
             this.printPreviewBarItem10.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ScaleLarge;
             this.printPreviewBarItem10.Name = "printPreviewBarItem10";
-            superToolTip157.FixedTooltipWidth = true;
-            toolTipTitleItem157.Text = "Scale";
-            toolTipItem157.LeftIndent = 6;
-            toolTipItem157.Text = "Stretch or shrink the printed output to a percentage of its actual size.";
-            superToolTip157.Items.Add(toolTipTitleItem157);
-            superToolTip157.Items.Add(toolTipItem157);
-            superToolTip157.MaxWidth = 210;
-            this.printPreviewBarItem10.SuperTip = superToolTip157;
+            superToolTip59.FixedTooltipWidth = true;
+            toolTipTitleItem59.Text = "Scale";
+            toolTipItem59.LeftIndent = 6;
+            toolTipItem59.Text = "Stretch or shrink the printed output to a percentage of its actual size.";
+            superToolTip59.Items.Add(toolTipTitleItem59);
+            superToolTip59.Items.Add(toolTipItem59);
+            superToolTip59.MaxWidth = 210;
+            this.printPreviewBarItem10.SuperTip = superToolTip59;
             // 
             // printPreviewBarItem11
             // 
@@ -1929,14 +1885,14 @@ namespace Simulations
             this.printPreviewBarItem11.Id = 72;
             this.printPreviewBarItem11.Name = "printPreviewBarItem11";
             this.printPreviewBarItem11.RibbonStyle = DevExpress.XtraBars.Ribbon.RibbonItemStyles.SmallWithoutText;
-            superToolTip158.FixedTooltipWidth = true;
-            toolTipTitleItem158.Text = "Mouse Pointer";
-            toolTipItem158.LeftIndent = 6;
-            toolTipItem158.Text = "Show the mouse pointer.";
-            superToolTip158.Items.Add(toolTipTitleItem158);
-            superToolTip158.Items.Add(toolTipItem158);
-            superToolTip158.MaxWidth = 210;
-            this.printPreviewBarItem11.SuperTip = superToolTip158;
+            superToolTip60.FixedTooltipWidth = true;
+            toolTipTitleItem60.Text = "Mouse Pointer";
+            toolTipItem60.LeftIndent = 6;
+            toolTipItem60.Text = "Show the mouse pointer.";
+            superToolTip60.Items.Add(toolTipTitleItem60);
+            superToolTip60.Items.Add(toolTipItem60);
+            superToolTip60.MaxWidth = 210;
+            this.printPreviewBarItem11.SuperTip = superToolTip60;
             // 
             // printPreviewBarItem12
             // 
@@ -1950,14 +1906,14 @@ namespace Simulations
             this.printPreviewBarItem12.Id = 73;
             this.printPreviewBarItem12.Name = "printPreviewBarItem12";
             this.printPreviewBarItem12.RibbonStyle = DevExpress.XtraBars.Ribbon.RibbonItemStyles.SmallWithoutText;
-            superToolTip159.FixedTooltipWidth = true;
-            toolTipTitleItem159.Text = "Hand Tool";
-            toolTipItem159.LeftIndent = 6;
-            toolTipItem159.Text = "Invoke the Hand tool to manually scroll through pages.";
-            superToolTip159.Items.Add(toolTipTitleItem159);
-            superToolTip159.Items.Add(toolTipItem159);
-            superToolTip159.MaxWidth = 210;
-            this.printPreviewBarItem12.SuperTip = superToolTip159;
+            superToolTip61.FixedTooltipWidth = true;
+            toolTipTitleItem61.Text = "Hand Tool";
+            toolTipItem61.LeftIndent = 6;
+            toolTipItem61.Text = "Invoke the Hand tool to manually scroll through pages.";
+            superToolTip61.Items.Add(toolTipTitleItem61);
+            superToolTip61.Items.Add(toolTipItem61);
+            superToolTip61.MaxWidth = 210;
+            this.printPreviewBarItem12.SuperTip = superToolTip61;
             // 
             // printPreviewBarItem13
             // 
@@ -1971,16 +1927,16 @@ namespace Simulations
             this.printPreviewBarItem13.Id = 74;
             this.printPreviewBarItem13.Name = "printPreviewBarItem13";
             this.printPreviewBarItem13.RibbonStyle = DevExpress.XtraBars.Ribbon.RibbonItemStyles.SmallWithoutText;
-            superToolTip160.FixedTooltipWidth = true;
-            toolTipTitleItem160.Text = "Magnifier";
-            toolTipItem160.LeftIndent = 6;
-            toolTipItem160.Text = "Invoke the Magnifier tool.\r\n\r\nClicking once on a document zooms it so that a sing" +
+            superToolTip62.FixedTooltipWidth = true;
+            toolTipTitleItem62.Text = "Magnifier";
+            toolTipItem62.LeftIndent = 6;
+            toolTipItem62.Text = "Invoke the Magnifier tool.\r\n\r\nClicking once on a document zooms it so that a sing" +
     "le page becomes entirely visible, while clicking another time zooms it to 100% o" +
     "f the normal size.";
-            superToolTip160.Items.Add(toolTipTitleItem160);
-            superToolTip160.Items.Add(toolTipItem160);
-            superToolTip160.MaxWidth = 210;
-            this.printPreviewBarItem13.SuperTip = superToolTip160;
+            superToolTip62.Items.Add(toolTipTitleItem62);
+            superToolTip62.Items.Add(toolTipItem62);
+            superToolTip62.MaxWidth = 210;
+            this.printPreviewBarItem13.SuperTip = superToolTip62;
             // 
             // printPreviewBarItem14
             // 
@@ -1992,14 +1948,14 @@ namespace Simulations
             this.printPreviewBarItem14.Id = 75;
             this.printPreviewBarItem14.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ZoomOutLarge;
             this.printPreviewBarItem14.Name = "printPreviewBarItem14";
-            superToolTip161.FixedTooltipWidth = true;
-            toolTipTitleItem161.Text = "Zoom Out";
-            toolTipItem161.LeftIndent = 6;
-            toolTipItem161.Text = "Zoom out to see more of the page at a reduced size.";
-            superToolTip161.Items.Add(toolTipTitleItem161);
-            superToolTip161.Items.Add(toolTipItem161);
-            superToolTip161.MaxWidth = 210;
-            this.printPreviewBarItem14.SuperTip = superToolTip161;
+            superToolTip63.FixedTooltipWidth = true;
+            toolTipTitleItem63.Text = "Zoom Out";
+            toolTipItem63.LeftIndent = 6;
+            toolTipItem63.Text = "Zoom out to see more of the page at a reduced size.";
+            superToolTip63.Items.Add(toolTipTitleItem63);
+            superToolTip63.Items.Add(toolTipItem63);
+            superToolTip63.MaxWidth = 210;
+            this.printPreviewBarItem14.SuperTip = superToolTip63;
             // 
             // printPreviewBarItem15
             // 
@@ -2011,14 +1967,14 @@ namespace Simulations
             this.printPreviewBarItem15.Id = 76;
             this.printPreviewBarItem15.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ZoomInLarge;
             this.printPreviewBarItem15.Name = "printPreviewBarItem15";
-            superToolTip162.FixedTooltipWidth = true;
-            toolTipTitleItem162.Text = "Zoom In";
-            toolTipItem162.LeftIndent = 6;
-            toolTipItem162.Text = "Zoom in to get a close-up view of the document.";
-            superToolTip162.Items.Add(toolTipTitleItem162);
-            superToolTip162.Items.Add(toolTipItem162);
-            superToolTip162.MaxWidth = 210;
-            this.printPreviewBarItem15.SuperTip = superToolTip162;
+            superToolTip64.FixedTooltipWidth = true;
+            toolTipTitleItem64.Text = "Zoom In";
+            toolTipItem64.LeftIndent = 6;
+            toolTipItem64.Text = "Zoom in to get a close-up view of the document.";
+            superToolTip64.Items.Add(toolTipTitleItem64);
+            superToolTip64.Items.Add(toolTipItem64);
+            superToolTip64.MaxWidth = 210;
+            this.printPreviewBarItem15.SuperTip = superToolTip64;
             // 
             // printPreviewBarItem16
             // 
@@ -2031,14 +1987,14 @@ namespace Simulations
             this.printPreviewBarItem16.Id = 77;
             this.printPreviewBarItem16.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ZoomLarge;
             this.printPreviewBarItem16.Name = "printPreviewBarItem16";
-            superToolTip163.FixedTooltipWidth = true;
-            toolTipTitleItem163.Text = "Zoom";
-            toolTipItem163.LeftIndent = 6;
-            toolTipItem163.Text = "Change the zoom level of the document preview.";
-            superToolTip163.Items.Add(toolTipTitleItem163);
-            superToolTip163.Items.Add(toolTipItem163);
-            superToolTip163.MaxWidth = 210;
-            this.printPreviewBarItem16.SuperTip = superToolTip163;
+            superToolTip65.FixedTooltipWidth = true;
+            toolTipTitleItem65.Text = "Zoom";
+            toolTipItem65.LeftIndent = 6;
+            toolTipItem65.Text = "Change the zoom level of the document preview.";
+            superToolTip65.Items.Add(toolTipTitleItem65);
+            superToolTip65.Items.Add(toolTipItem65);
+            superToolTip65.MaxWidth = 210;
+            this.printPreviewBarItem16.SuperTip = superToolTip65;
             // 
             // printPreviewBarItem17
             // 
@@ -2050,14 +2006,14 @@ namespace Simulations
             this.printPreviewBarItem17.Id = 78;
             this.printPreviewBarItem17.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ShowFirstPageLarge;
             this.printPreviewBarItem17.Name = "printPreviewBarItem17";
-            superToolTip164.FixedTooltipWidth = true;
-            toolTipTitleItem164.Text = "First Page (Ctrl+Home)";
-            toolTipItem164.LeftIndent = 6;
-            toolTipItem164.Text = "Navigate to the first page of the document.";
-            superToolTip164.Items.Add(toolTipTitleItem164);
-            superToolTip164.Items.Add(toolTipItem164);
-            superToolTip164.MaxWidth = 210;
-            this.printPreviewBarItem17.SuperTip = superToolTip164;
+            superToolTip66.FixedTooltipWidth = true;
+            toolTipTitleItem66.Text = "First Page (Ctrl+Home)";
+            toolTipItem66.LeftIndent = 6;
+            toolTipItem66.Text = "Navigate to the first page of the document.";
+            superToolTip66.Items.Add(toolTipTitleItem66);
+            superToolTip66.Items.Add(toolTipItem66);
+            superToolTip66.MaxWidth = 210;
+            this.printPreviewBarItem17.SuperTip = superToolTip66;
             // 
             // printPreviewBarItem18
             // 
@@ -2069,14 +2025,14 @@ namespace Simulations
             this.printPreviewBarItem18.Id = 79;
             this.printPreviewBarItem18.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ShowPrevPageLarge;
             this.printPreviewBarItem18.Name = "printPreviewBarItem18";
-            superToolTip165.FixedTooltipWidth = true;
-            toolTipTitleItem165.Text = "Previous Page (PageUp)";
-            toolTipItem165.LeftIndent = 6;
-            toolTipItem165.Text = "Navigate to the previous page of the document.";
-            superToolTip165.Items.Add(toolTipTitleItem165);
-            superToolTip165.Items.Add(toolTipItem165);
-            superToolTip165.MaxWidth = 210;
-            this.printPreviewBarItem18.SuperTip = superToolTip165;
+            superToolTip67.FixedTooltipWidth = true;
+            toolTipTitleItem67.Text = "Previous Page (PageUp)";
+            toolTipItem67.LeftIndent = 6;
+            toolTipItem67.Text = "Navigate to the previous page of the document.";
+            superToolTip67.Items.Add(toolTipTitleItem67);
+            superToolTip67.Items.Add(toolTipItem67);
+            superToolTip67.MaxWidth = 210;
+            this.printPreviewBarItem18.SuperTip = superToolTip67;
             // 
             // printPreviewBarItem19
             // 
@@ -2088,14 +2044,14 @@ namespace Simulations
             this.printPreviewBarItem19.Id = 80;
             this.printPreviewBarItem19.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ShowNextPageLarge;
             this.printPreviewBarItem19.Name = "printPreviewBarItem19";
-            superToolTip166.FixedTooltipWidth = true;
-            toolTipTitleItem166.Text = "Next Page (PageDown)";
-            toolTipItem166.LeftIndent = 6;
-            toolTipItem166.Text = "Navigate to the next page of the document.";
-            superToolTip166.Items.Add(toolTipTitleItem166);
-            superToolTip166.Items.Add(toolTipItem166);
-            superToolTip166.MaxWidth = 210;
-            this.printPreviewBarItem19.SuperTip = superToolTip166;
+            superToolTip68.FixedTooltipWidth = true;
+            toolTipTitleItem68.Text = "Next Page (PageDown)";
+            toolTipItem68.LeftIndent = 6;
+            toolTipItem68.Text = "Navigate to the next page of the document.";
+            superToolTip68.Items.Add(toolTipTitleItem68);
+            superToolTip68.Items.Add(toolTipItem68);
+            superToolTip68.MaxWidth = 210;
+            this.printPreviewBarItem19.SuperTip = superToolTip68;
             // 
             // printPreviewBarItem20
             // 
@@ -2107,14 +2063,14 @@ namespace Simulations
             this.printPreviewBarItem20.Id = 81;
             this.printPreviewBarItem20.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ShowLastPageLarge;
             this.printPreviewBarItem20.Name = "printPreviewBarItem20";
-            superToolTip167.FixedTooltipWidth = true;
-            toolTipTitleItem167.Text = "Last Page (Ctrl+End)";
-            toolTipItem167.LeftIndent = 6;
-            toolTipItem167.Text = "Navigate to the last page of the document.";
-            superToolTip167.Items.Add(toolTipTitleItem167);
-            superToolTip167.Items.Add(toolTipItem167);
-            superToolTip167.MaxWidth = 210;
-            this.printPreviewBarItem20.SuperTip = superToolTip167;
+            superToolTip69.FixedTooltipWidth = true;
+            toolTipTitleItem69.Text = "Last Page (Ctrl+End)";
+            toolTipItem69.LeftIndent = 6;
+            toolTipItem69.Text = "Navigate to the last page of the document.";
+            superToolTip69.Items.Add(toolTipTitleItem69);
+            superToolTip69.Items.Add(toolTipItem69);
+            superToolTip69.MaxWidth = 210;
+            this.printPreviewBarItem20.SuperTip = superToolTip69;
             // 
             // printPreviewBarItem21
             // 
@@ -2127,14 +2083,14 @@ namespace Simulations
             this.printPreviewBarItem21.Id = 82;
             this.printPreviewBarItem21.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_MultiplePagesLarge;
             this.printPreviewBarItem21.Name = "printPreviewBarItem21";
-            superToolTip168.FixedTooltipWidth = true;
-            toolTipTitleItem168.Text = "View Many Pages";
-            toolTipItem168.LeftIndent = 6;
-            toolTipItem168.Text = "Choose the page layout to arrange the document pages in preview.";
-            superToolTip168.Items.Add(toolTipTitleItem168);
-            superToolTip168.Items.Add(toolTipItem168);
-            superToolTip168.MaxWidth = 210;
-            this.printPreviewBarItem21.SuperTip = superToolTip168;
+            superToolTip70.FixedTooltipWidth = true;
+            toolTipTitleItem70.Text = "View Many Pages";
+            toolTipItem70.LeftIndent = 6;
+            toolTipItem70.Text = "Choose the page layout to arrange the document pages in preview.";
+            superToolTip70.Items.Add(toolTipTitleItem70);
+            superToolTip70.Items.Add(toolTipItem70);
+            superToolTip70.MaxWidth = 210;
+            this.printPreviewBarItem21.SuperTip = superToolTip70;
             // 
             // printPreviewBarItem22
             // 
@@ -2147,14 +2103,14 @@ namespace Simulations
             this.printPreviewBarItem22.Id = 83;
             this.printPreviewBarItem22.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_FillBackgroundLarge;
             this.printPreviewBarItem22.Name = "printPreviewBarItem22";
-            superToolTip169.FixedTooltipWidth = true;
-            toolTipTitleItem169.Text = "Background Color";
-            toolTipItem169.LeftIndent = 6;
-            toolTipItem169.Text = "Choose a color for the background of the document pages.";
-            superToolTip169.Items.Add(toolTipTitleItem169);
-            superToolTip169.Items.Add(toolTipItem169);
-            superToolTip169.MaxWidth = 210;
-            this.printPreviewBarItem22.SuperTip = superToolTip169;
+            superToolTip71.FixedTooltipWidth = true;
+            toolTipTitleItem71.Text = "Background Color";
+            toolTipItem71.LeftIndent = 6;
+            toolTipItem71.Text = "Choose a color for the background of the document pages.";
+            superToolTip71.Items.Add(toolTipTitleItem71);
+            superToolTip71.Items.Add(toolTipItem71);
+            superToolTip71.MaxWidth = 210;
+            this.printPreviewBarItem22.SuperTip = superToolTip71;
             // 
             // printPreviewBarItem23
             // 
@@ -2166,15 +2122,15 @@ namespace Simulations
             this.printPreviewBarItem23.Id = 84;
             this.printPreviewBarItem23.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_WatermarkLarge;
             this.printPreviewBarItem23.Name = "printPreviewBarItem23";
-            superToolTip170.FixedTooltipWidth = true;
-            toolTipTitleItem170.Text = "Watermark";
-            toolTipItem170.LeftIndent = 6;
-            toolTipItem170.Text = "Insert ghosted text or image behind the content of a page.\r\n\r\nThis is often used " +
+            superToolTip72.FixedTooltipWidth = true;
+            toolTipTitleItem72.Text = "Watermark";
+            toolTipItem72.LeftIndent = 6;
+            toolTipItem72.Text = "Insert ghosted text or image behind the content of a page.\r\n\r\nThis is often used " +
     "to indicate that a document is to be treated specially.";
-            superToolTip170.Items.Add(toolTipTitleItem170);
-            superToolTip170.Items.Add(toolTipItem170);
-            superToolTip170.MaxWidth = 210;
-            this.printPreviewBarItem23.SuperTip = superToolTip170;
+            superToolTip72.Items.Add(toolTipTitleItem72);
+            superToolTip72.Items.Add(toolTipItem72);
+            superToolTip72.MaxWidth = 210;
+            this.printPreviewBarItem23.SuperTip = superToolTip72;
             // 
             // printPreviewBarItem24
             // 
@@ -2187,15 +2143,15 @@ namespace Simulations
             this.printPreviewBarItem24.Id = 85;
             this.printPreviewBarItem24.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("printPreviewBarItem24.LargeGlyph")));
             this.printPreviewBarItem24.Name = "printPreviewBarItem24";
-            superToolTip171.FixedTooltipWidth = true;
-            toolTipTitleItem171.Text = "Export To...";
-            toolTipItem171.LeftIndent = 6;
-            toolTipItem171.Text = "Export the current document in one of the available formats, and save it to the f" +
+            superToolTip73.FixedTooltipWidth = true;
+            toolTipTitleItem73.Text = "Export To...";
+            toolTipItem73.LeftIndent = 6;
+            toolTipItem73.Text = "Export the current document in one of the available formats, and save it to the f" +
     "ile on a disk.";
-            superToolTip171.Items.Add(toolTipTitleItem171);
-            superToolTip171.Items.Add(toolTipItem171);
-            superToolTip171.MaxWidth = 210;
-            this.printPreviewBarItem24.SuperTip = superToolTip171;
+            superToolTip73.Items.Add(toolTipTitleItem73);
+            superToolTip73.Items.Add(toolTipItem73);
+            superToolTip73.MaxWidth = 210;
+            this.printPreviewBarItem24.SuperTip = superToolTip73;
             // 
             // printPreviewBarItem25
             // 
@@ -2208,15 +2164,15 @@ namespace Simulations
             this.printPreviewBarItem25.Id = 86;
             this.printPreviewBarItem25.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("printPreviewBarItem25.LargeGlyph")));
             this.printPreviewBarItem25.Name = "printPreviewBarItem25";
-            superToolTip172.FixedTooltipWidth = true;
-            toolTipTitleItem172.Text = "E-Mail As...";
-            toolTipItem172.LeftIndent = 6;
-            toolTipItem172.Text = "Export the current document in one of the available formats, and attach it to the" +
+            superToolTip74.FixedTooltipWidth = true;
+            toolTipTitleItem74.Text = "E-Mail As...";
+            toolTipItem74.LeftIndent = 6;
+            toolTipItem74.Text = "Export the current document in one of the available formats, and attach it to the" +
     " e-mail.";
-            superToolTip172.Items.Add(toolTipTitleItem172);
-            superToolTip172.Items.Add(toolTipItem172);
-            superToolTip172.MaxWidth = 210;
-            this.printPreviewBarItem25.SuperTip = superToolTip172;
+            superToolTip74.Items.Add(toolTipTitleItem74);
+            superToolTip74.Items.Add(toolTipItem74);
+            superToolTip74.MaxWidth = 210;
+            this.printPreviewBarItem25.SuperTip = superToolTip74;
             // 
             // printPreviewBarItem26
             // 
@@ -2227,14 +2183,14 @@ namespace Simulations
             this.printPreviewBarItem26.Id = 87;
             this.printPreviewBarItem26.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ClosePreviewLarge;
             this.printPreviewBarItem26.Name = "printPreviewBarItem26";
-            superToolTip173.FixedTooltipWidth = true;
-            toolTipTitleItem173.Text = "Close Print Preview";
-            toolTipItem173.LeftIndent = 6;
-            toolTipItem173.Text = "Close Print Preview of the document.";
-            superToolTip173.Items.Add(toolTipTitleItem173);
-            superToolTip173.Items.Add(toolTipItem173);
-            superToolTip173.MaxWidth = 210;
-            this.printPreviewBarItem26.SuperTip = superToolTip173;
+            superToolTip75.FixedTooltipWidth = true;
+            toolTipTitleItem75.Text = "Close Print Preview";
+            toolTipItem75.LeftIndent = 6;
+            toolTipItem75.Text = "Close Print Preview of the document.";
+            superToolTip75.Items.Add(toolTipTitleItem75);
+            superToolTip75.Items.Add(toolTipItem75);
+            superToolTip75.MaxWidth = 210;
+            this.printPreviewBarItem26.SuperTip = superToolTip75;
             // 
             // printPreviewBarItem27
             // 
@@ -2247,14 +2203,14 @@ namespace Simulations
             this.printPreviewBarItem27.Id = 88;
             this.printPreviewBarItem27.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_PageOrientationLarge;
             this.printPreviewBarItem27.Name = "printPreviewBarItem27";
-            superToolTip174.FixedTooltipWidth = true;
-            toolTipTitleItem174.Text = "Page Orientation";
-            toolTipItem174.LeftIndent = 6;
-            toolTipItem174.Text = "Switch the pages between portrait and landscape layouts.";
-            superToolTip174.Items.Add(toolTipTitleItem174);
-            superToolTip174.Items.Add(toolTipItem174);
-            superToolTip174.MaxWidth = 210;
-            this.printPreviewBarItem27.SuperTip = superToolTip174;
+            superToolTip76.FixedTooltipWidth = true;
+            toolTipTitleItem76.Text = "Page Orientation";
+            toolTipItem76.LeftIndent = 6;
+            toolTipItem76.Text = "Switch the pages between portrait and landscape layouts.";
+            superToolTip76.Items.Add(toolTipTitleItem76);
+            superToolTip76.Items.Add(toolTipItem76);
+            superToolTip76.MaxWidth = 210;
+            this.printPreviewBarItem27.SuperTip = superToolTip76;
             // 
             // printPreviewBarItem28
             // 
@@ -2267,14 +2223,14 @@ namespace Simulations
             this.printPreviewBarItem28.Id = 89;
             this.printPreviewBarItem28.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_PaperSizeLarge;
             this.printPreviewBarItem28.Name = "printPreviewBarItem28";
-            superToolTip175.FixedTooltipWidth = true;
-            toolTipTitleItem175.Text = "Page Size";
-            toolTipItem175.LeftIndent = 6;
-            toolTipItem175.Text = "Choose the paper size of the document.";
-            superToolTip175.Items.Add(toolTipTitleItem175);
-            superToolTip175.Items.Add(toolTipItem175);
-            superToolTip175.MaxWidth = 210;
-            this.printPreviewBarItem28.SuperTip = superToolTip175;
+            superToolTip77.FixedTooltipWidth = true;
+            toolTipTitleItem77.Text = "Page Size";
+            toolTipItem77.LeftIndent = 6;
+            toolTipItem77.Text = "Choose the paper size of the document.";
+            superToolTip77.Items.Add(toolTipTitleItem77);
+            superToolTip77.Items.Add(toolTipItem77);
+            superToolTip77.MaxWidth = 210;
+            this.printPreviewBarItem28.SuperTip = superToolTip77;
             // 
             // printPreviewBarItem29
             // 
@@ -2287,15 +2243,15 @@ namespace Simulations
             this.printPreviewBarItem29.Id = 90;
             this.printPreviewBarItem29.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_PageMarginsLarge;
             this.printPreviewBarItem29.Name = "printPreviewBarItem29";
-            superToolTip176.FixedTooltipWidth = true;
-            toolTipTitleItem176.Text = "Page Margins";
-            toolTipItem176.LeftIndent = 6;
-            toolTipItem176.Text = "Select the margin sizes for the entire document.\r\n\r\nTo apply specific margin size" +
+            superToolTip78.FixedTooltipWidth = true;
+            toolTipTitleItem78.Text = "Page Margins";
+            toolTipItem78.LeftIndent = 6;
+            toolTipItem78.Text = "Select the margin sizes for the entire document.\r\n\r\nTo apply specific margin size" +
     "s to the document, click Custom Margins.";
-            superToolTip176.Items.Add(toolTipTitleItem176);
-            superToolTip176.Items.Add(toolTipItem176);
-            superToolTip176.MaxWidth = 210;
-            this.printPreviewBarItem29.SuperTip = superToolTip176;
+            superToolTip78.Items.Add(toolTipTitleItem78);
+            superToolTip78.Items.Add(toolTipItem78);
+            superToolTip78.MaxWidth = 210;
+            this.printPreviewBarItem29.SuperTip = superToolTip78;
             // 
             // printPreviewBarItem30
             // 
@@ -2308,14 +2264,14 @@ namespace Simulations
             this.printPreviewBarItem30.Id = 91;
             this.printPreviewBarItem30.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_SendPdfLarge;
             this.printPreviewBarItem30.Name = "printPreviewBarItem30";
-            superToolTip177.FixedTooltipWidth = true;
-            toolTipTitleItem177.Text = "E-Mail As PDF";
-            toolTipItem177.LeftIndent = 6;
-            toolTipItem177.Text = "Export the document to PDF and attach it to the e-mail.";
-            superToolTip177.Items.Add(toolTipTitleItem177);
-            superToolTip177.Items.Add(toolTipItem177);
-            superToolTip177.MaxWidth = 210;
-            this.printPreviewBarItem30.SuperTip = superToolTip177;
+            superToolTip79.FixedTooltipWidth = true;
+            toolTipTitleItem79.Text = "E-Mail As PDF";
+            toolTipItem79.LeftIndent = 6;
+            toolTipItem79.Text = "Export the document to PDF and attach it to the e-mail.";
+            superToolTip79.Items.Add(toolTipTitleItem79);
+            superToolTip79.Items.Add(toolTipItem79);
+            superToolTip79.MaxWidth = 210;
+            this.printPreviewBarItem30.SuperTip = superToolTip79;
             // 
             // printPreviewBarItem31
             // 
@@ -2328,14 +2284,14 @@ namespace Simulations
             this.printPreviewBarItem31.Id = 92;
             this.printPreviewBarItem31.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_SendTxtLarge;
             this.printPreviewBarItem31.Name = "printPreviewBarItem31";
-            superToolTip178.FixedTooltipWidth = true;
-            toolTipTitleItem178.Text = "E-Mail As Text";
-            toolTipItem178.LeftIndent = 6;
-            toolTipItem178.Text = "Export the document to Text and attach it to the e-mail.";
-            superToolTip178.Items.Add(toolTipTitleItem178);
-            superToolTip178.Items.Add(toolTipItem178);
-            superToolTip178.MaxWidth = 210;
-            this.printPreviewBarItem31.SuperTip = superToolTip178;
+            superToolTip80.FixedTooltipWidth = true;
+            toolTipTitleItem80.Text = "E-Mail As Text";
+            toolTipItem80.LeftIndent = 6;
+            toolTipItem80.Text = "Export the document to Text and attach it to the e-mail.";
+            superToolTip80.Items.Add(toolTipTitleItem80);
+            superToolTip80.Items.Add(toolTipItem80);
+            superToolTip80.MaxWidth = 210;
+            this.printPreviewBarItem31.SuperTip = superToolTip80;
             // 
             // printPreviewBarItem32
             // 
@@ -2348,14 +2304,14 @@ namespace Simulations
             this.printPreviewBarItem32.Id = 93;
             this.printPreviewBarItem32.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_SendCsvLarge;
             this.printPreviewBarItem32.Name = "printPreviewBarItem32";
-            superToolTip179.FixedTooltipWidth = true;
-            toolTipTitleItem179.Text = "E-Mail As CSV";
-            toolTipItem179.LeftIndent = 6;
-            toolTipItem179.Text = "Export the document to CSV and attach it to the e-mail.";
-            superToolTip179.Items.Add(toolTipTitleItem179);
-            superToolTip179.Items.Add(toolTipItem179);
-            superToolTip179.MaxWidth = 210;
-            this.printPreviewBarItem32.SuperTip = superToolTip179;
+            superToolTip81.FixedTooltipWidth = true;
+            toolTipTitleItem81.Text = "E-Mail As CSV";
+            toolTipItem81.LeftIndent = 6;
+            toolTipItem81.Text = "Export the document to CSV and attach it to the e-mail.";
+            superToolTip81.Items.Add(toolTipTitleItem81);
+            superToolTip81.Items.Add(toolTipItem81);
+            superToolTip81.MaxWidth = 210;
+            this.printPreviewBarItem32.SuperTip = superToolTip81;
             // 
             // printPreviewBarItem33
             // 
@@ -2368,14 +2324,14 @@ namespace Simulations
             this.printPreviewBarItem33.Id = 94;
             this.printPreviewBarItem33.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_SendMhtLarge;
             this.printPreviewBarItem33.Name = "printPreviewBarItem33";
-            superToolTip180.FixedTooltipWidth = true;
-            toolTipTitleItem180.Text = "E-Mail As MHT";
-            toolTipItem180.LeftIndent = 6;
-            toolTipItem180.Text = "Export the document to MHT and attach it to the e-mail.";
-            superToolTip180.Items.Add(toolTipTitleItem180);
-            superToolTip180.Items.Add(toolTipItem180);
-            superToolTip180.MaxWidth = 210;
-            this.printPreviewBarItem33.SuperTip = superToolTip180;
+            superToolTip82.FixedTooltipWidth = true;
+            toolTipTitleItem82.Text = "E-Mail As MHT";
+            toolTipItem82.LeftIndent = 6;
+            toolTipItem82.Text = "Export the document to MHT and attach it to the e-mail.";
+            superToolTip82.Items.Add(toolTipTitleItem82);
+            superToolTip82.Items.Add(toolTipItem82);
+            superToolTip82.MaxWidth = 210;
+            this.printPreviewBarItem33.SuperTip = superToolTip82;
             // 
             // printPreviewBarItem34
             // 
@@ -2388,14 +2344,14 @@ namespace Simulations
             this.printPreviewBarItem34.Id = 95;
             this.printPreviewBarItem34.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_SendXlsLarge;
             this.printPreviewBarItem34.Name = "printPreviewBarItem34";
-            superToolTip181.FixedTooltipWidth = true;
-            toolTipTitleItem181.Text = "E-Mail As XLS";
-            toolTipItem181.LeftIndent = 6;
-            toolTipItem181.Text = "Export the document to XLS and attach it to the e-mail.";
-            superToolTip181.Items.Add(toolTipTitleItem181);
-            superToolTip181.Items.Add(toolTipItem181);
-            superToolTip181.MaxWidth = 210;
-            this.printPreviewBarItem34.SuperTip = superToolTip181;
+            superToolTip83.FixedTooltipWidth = true;
+            toolTipTitleItem83.Text = "E-Mail As XLS";
+            toolTipItem83.LeftIndent = 6;
+            toolTipItem83.Text = "Export the document to XLS and attach it to the e-mail.";
+            superToolTip83.Items.Add(toolTipTitleItem83);
+            superToolTip83.Items.Add(toolTipItem83);
+            superToolTip83.MaxWidth = 210;
+            this.printPreviewBarItem34.SuperTip = superToolTip83;
             // 
             // printPreviewBarItem35
             // 
@@ -2408,14 +2364,14 @@ namespace Simulations
             this.printPreviewBarItem35.Id = 96;
             this.printPreviewBarItem35.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_SendXlsxLarge;
             this.printPreviewBarItem35.Name = "printPreviewBarItem35";
-            superToolTip182.FixedTooltipWidth = true;
-            toolTipTitleItem182.Text = "E-Mail As XLSX";
-            toolTipItem182.LeftIndent = 6;
-            toolTipItem182.Text = "Export the document to XLSX and attach it to the e-mail.";
-            superToolTip182.Items.Add(toolTipTitleItem182);
-            superToolTip182.Items.Add(toolTipItem182);
-            superToolTip182.MaxWidth = 210;
-            this.printPreviewBarItem35.SuperTip = superToolTip182;
+            superToolTip84.FixedTooltipWidth = true;
+            toolTipTitleItem84.Text = "E-Mail As XLSX";
+            toolTipItem84.LeftIndent = 6;
+            toolTipItem84.Text = "Export the document to XLSX and attach it to the e-mail.";
+            superToolTip84.Items.Add(toolTipTitleItem84);
+            superToolTip84.Items.Add(toolTipItem84);
+            superToolTip84.MaxWidth = 210;
+            this.printPreviewBarItem35.SuperTip = superToolTip84;
             // 
             // printPreviewBarItem36
             // 
@@ -2428,14 +2384,14 @@ namespace Simulations
             this.printPreviewBarItem36.Id = 97;
             this.printPreviewBarItem36.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_SendRtfLarge;
             this.printPreviewBarItem36.Name = "printPreviewBarItem36";
-            superToolTip183.FixedTooltipWidth = true;
-            toolTipTitleItem183.Text = "E-Mail As RTF";
-            toolTipItem183.LeftIndent = 6;
-            toolTipItem183.Text = "Export the document to RTF and attach it to the e-mail.";
-            superToolTip183.Items.Add(toolTipTitleItem183);
-            superToolTip183.Items.Add(toolTipItem183);
-            superToolTip183.MaxWidth = 210;
-            this.printPreviewBarItem36.SuperTip = superToolTip183;
+            superToolTip85.FixedTooltipWidth = true;
+            toolTipTitleItem85.Text = "E-Mail As RTF";
+            toolTipItem85.LeftIndent = 6;
+            toolTipItem85.Text = "Export the document to RTF and attach it to the e-mail.";
+            superToolTip85.Items.Add(toolTipTitleItem85);
+            superToolTip85.Items.Add(toolTipItem85);
+            superToolTip85.MaxWidth = 210;
+            this.printPreviewBarItem36.SuperTip = superToolTip85;
             // 
             // printPreviewBarItem37
             // 
@@ -2448,14 +2404,14 @@ namespace Simulations
             this.printPreviewBarItem37.Id = 98;
             this.printPreviewBarItem37.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_SendGraphicLarge;
             this.printPreviewBarItem37.Name = "printPreviewBarItem37";
-            superToolTip184.FixedTooltipWidth = true;
-            toolTipTitleItem184.Text = "E-Mail As Image";
-            toolTipItem184.LeftIndent = 6;
-            toolTipItem184.Text = "Export the document to Image and attach it to the e-mail.";
-            superToolTip184.Items.Add(toolTipTitleItem184);
-            superToolTip184.Items.Add(toolTipItem184);
-            superToolTip184.MaxWidth = 210;
-            this.printPreviewBarItem37.SuperTip = superToolTip184;
+            superToolTip86.FixedTooltipWidth = true;
+            toolTipTitleItem86.Text = "E-Mail As Image";
+            toolTipItem86.LeftIndent = 6;
+            toolTipItem86.Text = "Export the document to Image and attach it to the e-mail.";
+            superToolTip86.Items.Add(toolTipTitleItem86);
+            superToolTip86.Items.Add(toolTipItem86);
+            superToolTip86.MaxWidth = 210;
+            this.printPreviewBarItem37.SuperTip = superToolTip86;
             // 
             // printPreviewBarItem38
             // 
@@ -2468,14 +2424,14 @@ namespace Simulations
             this.printPreviewBarItem38.Id = 99;
             this.printPreviewBarItem38.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ExportPdfLarge;
             this.printPreviewBarItem38.Name = "printPreviewBarItem38";
-            superToolTip185.FixedTooltipWidth = true;
-            toolTipTitleItem185.Text = "Export to PDF";
-            toolTipItem185.LeftIndent = 6;
-            toolTipItem185.Text = "Export the document to PDF and save it to the file on a disk.";
-            superToolTip185.Items.Add(toolTipTitleItem185);
-            superToolTip185.Items.Add(toolTipItem185);
-            superToolTip185.MaxWidth = 210;
-            this.printPreviewBarItem38.SuperTip = superToolTip185;
+            superToolTip87.FixedTooltipWidth = true;
+            toolTipTitleItem87.Text = "Export to PDF";
+            toolTipItem87.LeftIndent = 6;
+            toolTipItem87.Text = "Export the document to PDF and save it to the file on a disk.";
+            superToolTip87.Items.Add(toolTipTitleItem87);
+            superToolTip87.Items.Add(toolTipItem87);
+            superToolTip87.MaxWidth = 210;
+            this.printPreviewBarItem38.SuperTip = superToolTip87;
             // 
             // printPreviewBarItem39
             // 
@@ -2488,14 +2444,14 @@ namespace Simulations
             this.printPreviewBarItem39.Id = 100;
             this.printPreviewBarItem39.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ExportHtmLarge;
             this.printPreviewBarItem39.Name = "printPreviewBarItem39";
-            superToolTip186.FixedTooltipWidth = true;
-            toolTipTitleItem186.Text = "Export to HTML";
-            toolTipItem186.LeftIndent = 6;
-            toolTipItem186.Text = "Export the document to HTML and save it to the file on a disk.";
-            superToolTip186.Items.Add(toolTipTitleItem186);
-            superToolTip186.Items.Add(toolTipItem186);
-            superToolTip186.MaxWidth = 210;
-            this.printPreviewBarItem39.SuperTip = superToolTip186;
+            superToolTip88.FixedTooltipWidth = true;
+            toolTipTitleItem88.Text = "Export to HTML";
+            toolTipItem88.LeftIndent = 6;
+            toolTipItem88.Text = "Export the document to HTML and save it to the file on a disk.";
+            superToolTip88.Items.Add(toolTipTitleItem88);
+            superToolTip88.Items.Add(toolTipItem88);
+            superToolTip88.MaxWidth = 210;
+            this.printPreviewBarItem39.SuperTip = superToolTip88;
             // 
             // printPreviewBarItem40
             // 
@@ -2508,14 +2464,14 @@ namespace Simulations
             this.printPreviewBarItem40.Id = 101;
             this.printPreviewBarItem40.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ExportTxtLarge;
             this.printPreviewBarItem40.Name = "printPreviewBarItem40";
-            superToolTip187.FixedTooltipWidth = true;
-            toolTipTitleItem187.Text = "Export to Text";
-            toolTipItem187.LeftIndent = 6;
-            toolTipItem187.Text = "Export the document to Text and save it to the file on a disk.";
-            superToolTip187.Items.Add(toolTipTitleItem187);
-            superToolTip187.Items.Add(toolTipItem187);
-            superToolTip187.MaxWidth = 210;
-            this.printPreviewBarItem40.SuperTip = superToolTip187;
+            superToolTip89.FixedTooltipWidth = true;
+            toolTipTitleItem89.Text = "Export to Text";
+            toolTipItem89.LeftIndent = 6;
+            toolTipItem89.Text = "Export the document to Text and save it to the file on a disk.";
+            superToolTip89.Items.Add(toolTipTitleItem89);
+            superToolTip89.Items.Add(toolTipItem89);
+            superToolTip89.MaxWidth = 210;
+            this.printPreviewBarItem40.SuperTip = superToolTip89;
             // 
             // printPreviewBarItem41
             // 
@@ -2528,14 +2484,14 @@ namespace Simulations
             this.printPreviewBarItem41.Id = 102;
             this.printPreviewBarItem41.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ExportCsvLarge;
             this.printPreviewBarItem41.Name = "printPreviewBarItem41";
-            superToolTip188.FixedTooltipWidth = true;
-            toolTipTitleItem188.Text = "Export to CSV";
-            toolTipItem188.LeftIndent = 6;
-            toolTipItem188.Text = "Export the document to CSV and save it to the file on a disk.";
-            superToolTip188.Items.Add(toolTipTitleItem188);
-            superToolTip188.Items.Add(toolTipItem188);
-            superToolTip188.MaxWidth = 210;
-            this.printPreviewBarItem41.SuperTip = superToolTip188;
+            superToolTip90.FixedTooltipWidth = true;
+            toolTipTitleItem90.Text = "Export to CSV";
+            toolTipItem90.LeftIndent = 6;
+            toolTipItem90.Text = "Export the document to CSV and save it to the file on a disk.";
+            superToolTip90.Items.Add(toolTipTitleItem90);
+            superToolTip90.Items.Add(toolTipItem90);
+            superToolTip90.MaxWidth = 210;
+            this.printPreviewBarItem41.SuperTip = superToolTip90;
             // 
             // printPreviewBarItem42
             // 
@@ -2548,14 +2504,14 @@ namespace Simulations
             this.printPreviewBarItem42.Id = 103;
             this.printPreviewBarItem42.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ExportMhtLarge;
             this.printPreviewBarItem42.Name = "printPreviewBarItem42";
-            superToolTip189.FixedTooltipWidth = true;
-            toolTipTitleItem189.Text = "Export to MHT";
-            toolTipItem189.LeftIndent = 6;
-            toolTipItem189.Text = "Export the document to MHT and save it to the file on a disk.";
-            superToolTip189.Items.Add(toolTipTitleItem189);
-            superToolTip189.Items.Add(toolTipItem189);
-            superToolTip189.MaxWidth = 210;
-            this.printPreviewBarItem42.SuperTip = superToolTip189;
+            superToolTip91.FixedTooltipWidth = true;
+            toolTipTitleItem91.Text = "Export to MHT";
+            toolTipItem91.LeftIndent = 6;
+            toolTipItem91.Text = "Export the document to MHT and save it to the file on a disk.";
+            superToolTip91.Items.Add(toolTipTitleItem91);
+            superToolTip91.Items.Add(toolTipItem91);
+            superToolTip91.MaxWidth = 210;
+            this.printPreviewBarItem42.SuperTip = superToolTip91;
             // 
             // printPreviewBarItem43
             // 
@@ -2568,14 +2524,14 @@ namespace Simulations
             this.printPreviewBarItem43.Id = 104;
             this.printPreviewBarItem43.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ExportXlsLarge;
             this.printPreviewBarItem43.Name = "printPreviewBarItem43";
-            superToolTip190.FixedTooltipWidth = true;
-            toolTipTitleItem190.Text = "Export to XLS";
-            toolTipItem190.LeftIndent = 6;
-            toolTipItem190.Text = "Export the document to XLS and save it to the file on a disk.";
-            superToolTip190.Items.Add(toolTipTitleItem190);
-            superToolTip190.Items.Add(toolTipItem190);
-            superToolTip190.MaxWidth = 210;
-            this.printPreviewBarItem43.SuperTip = superToolTip190;
+            superToolTip92.FixedTooltipWidth = true;
+            toolTipTitleItem92.Text = "Export to XLS";
+            toolTipItem92.LeftIndent = 6;
+            toolTipItem92.Text = "Export the document to XLS and save it to the file on a disk.";
+            superToolTip92.Items.Add(toolTipTitleItem92);
+            superToolTip92.Items.Add(toolTipItem92);
+            superToolTip92.MaxWidth = 210;
+            this.printPreviewBarItem43.SuperTip = superToolTip92;
             // 
             // printPreviewBarItem44
             // 
@@ -2588,14 +2544,14 @@ namespace Simulations
             this.printPreviewBarItem44.Id = 105;
             this.printPreviewBarItem44.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ExportXlsxLarge;
             this.printPreviewBarItem44.Name = "printPreviewBarItem44";
-            superToolTip191.FixedTooltipWidth = true;
-            toolTipTitleItem191.Text = "Export to XLSX";
-            toolTipItem191.LeftIndent = 6;
-            toolTipItem191.Text = "Export the document to XLSX and save it to the file on a disk.";
-            superToolTip191.Items.Add(toolTipTitleItem191);
-            superToolTip191.Items.Add(toolTipItem191);
-            superToolTip191.MaxWidth = 210;
-            this.printPreviewBarItem44.SuperTip = superToolTip191;
+            superToolTip93.FixedTooltipWidth = true;
+            toolTipTitleItem93.Text = "Export to XLSX";
+            toolTipItem93.LeftIndent = 6;
+            toolTipItem93.Text = "Export the document to XLSX and save it to the file on a disk.";
+            superToolTip93.Items.Add(toolTipTitleItem93);
+            superToolTip93.Items.Add(toolTipItem93);
+            superToolTip93.MaxWidth = 210;
+            this.printPreviewBarItem44.SuperTip = superToolTip93;
             // 
             // printPreviewBarItem45
             // 
@@ -2608,14 +2564,14 @@ namespace Simulations
             this.printPreviewBarItem45.Id = 106;
             this.printPreviewBarItem45.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ExportRtfLarge;
             this.printPreviewBarItem45.Name = "printPreviewBarItem45";
-            superToolTip192.FixedTooltipWidth = true;
-            toolTipTitleItem192.Text = "Export to RTF";
-            toolTipItem192.LeftIndent = 6;
-            toolTipItem192.Text = "Export the document to RTF and save it to the file on a disk.";
-            superToolTip192.Items.Add(toolTipTitleItem192);
-            superToolTip192.Items.Add(toolTipItem192);
-            superToolTip192.MaxWidth = 210;
-            this.printPreviewBarItem45.SuperTip = superToolTip192;
+            superToolTip94.FixedTooltipWidth = true;
+            toolTipTitleItem94.Text = "Export to RTF";
+            toolTipItem94.LeftIndent = 6;
+            toolTipItem94.Text = "Export the document to RTF and save it to the file on a disk.";
+            superToolTip94.Items.Add(toolTipTitleItem94);
+            superToolTip94.Items.Add(toolTipItem94);
+            superToolTip94.MaxWidth = 210;
+            this.printPreviewBarItem45.SuperTip = superToolTip94;
             // 
             // printPreviewBarItem46
             // 
@@ -2628,14 +2584,14 @@ namespace Simulations
             this.printPreviewBarItem46.Id = 107;
             this.printPreviewBarItem46.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_ExportGraphicLarge;
             this.printPreviewBarItem46.Name = "printPreviewBarItem46";
-            superToolTip193.FixedTooltipWidth = true;
-            toolTipTitleItem193.Text = "Export to Image";
-            toolTipItem193.LeftIndent = 6;
-            toolTipItem193.Text = "Export the document to Image and save it to the file on a disk.";
-            superToolTip193.Items.Add(toolTipTitleItem193);
-            superToolTip193.Items.Add(toolTipItem193);
-            superToolTip193.MaxWidth = 210;
-            this.printPreviewBarItem46.SuperTip = superToolTip193;
+            superToolTip95.FixedTooltipWidth = true;
+            toolTipTitleItem95.Text = "Export to Image";
+            toolTipItem95.LeftIndent = 6;
+            toolTipItem95.Text = "Export the document to Image and save it to the file on a disk.";
+            superToolTip95.Items.Add(toolTipTitleItem95);
+            superToolTip95.Items.Add(toolTipItem95);
+            superToolTip95.MaxWidth = 210;
+            this.printPreviewBarItem46.SuperTip = superToolTip95;
             // 
             // printPreviewBarItem47
             // 
@@ -2646,14 +2602,14 @@ namespace Simulations
             this.printPreviewBarItem47.Id = 108;
             this.printPreviewBarItem47.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_OpenLarge;
             this.printPreviewBarItem47.Name = "printPreviewBarItem47";
-            superToolTip194.FixedTooltipWidth = true;
-            toolTipTitleItem194.Text = "Open (Ctrl + O)";
-            toolTipItem194.LeftIndent = 6;
-            toolTipItem194.Text = "Open a document.";
-            superToolTip194.Items.Add(toolTipTitleItem194);
-            superToolTip194.Items.Add(toolTipItem194);
-            superToolTip194.MaxWidth = 210;
-            this.printPreviewBarItem47.SuperTip = superToolTip194;
+            superToolTip96.FixedTooltipWidth = true;
+            toolTipTitleItem96.Text = "Open (Ctrl + O)";
+            toolTipItem96.LeftIndent = 6;
+            toolTipItem96.Text = "Open a document.";
+            superToolTip96.Items.Add(toolTipTitleItem96);
+            superToolTip96.Items.Add(toolTipItem96);
+            superToolTip96.MaxWidth = 210;
+            this.printPreviewBarItem47.SuperTip = superToolTip96;
             // 
             // printPreviewBarItem48
             // 
@@ -2665,14 +2621,14 @@ namespace Simulations
             this.printPreviewBarItem48.Id = 109;
             this.printPreviewBarItem48.LargeGlyph = global::Sim.PrintRibbonControllerResources.RibbonPrintPreview_SaveLarge;
             this.printPreviewBarItem48.Name = "printPreviewBarItem48";
-            superToolTip195.FixedTooltipWidth = true;
-            toolTipTitleItem195.Text = "Save (Ctrl + S)";
-            toolTipItem195.LeftIndent = 6;
-            toolTipItem195.Text = "Save the document.";
-            superToolTip195.Items.Add(toolTipTitleItem195);
-            superToolTip195.Items.Add(toolTipItem195);
-            superToolTip195.MaxWidth = 210;
-            this.printPreviewBarItem48.SuperTip = superToolTip195;
+            superToolTip97.FixedTooltipWidth = true;
+            toolTipTitleItem97.Text = "Save (Ctrl + S)";
+            toolTipItem97.LeftIndent = 6;
+            toolTipItem97.Text = "Save the document.";
+            superToolTip97.Items.Add(toolTipTitleItem97);
+            superToolTip97.Items.Add(toolTipItem97);
+            superToolTip97.MaxWidth = 210;
+            this.printPreviewBarItem48.SuperTip = superToolTip97;
             // 
             // pasteItem1
             // 
@@ -3264,7 +3220,7 @@ namespace Simulations
             // 
             this.galleryChangeTableStyleItem1.Gallery.ColumnCount = 3;
             this.galleryChangeTableStyleItem1.Gallery.Groups.AddRange(new DevExpress.XtraBars.Ribbon.GalleryItemGroup[] {
-            galleryItemGroup8});
+            galleryItemGroup4});
             this.galleryChangeTableStyleItem1.Gallery.ImageSize = new System.Drawing.Size(65, 46);
             this.galleryChangeTableStyleItem1.Id = 428;
             this.galleryChangeTableStyleItem1.ModifyItemLink = null;
@@ -4109,14 +4065,14 @@ namespace Simulations
             this.printPreviewRibbonPageGroup3.ItemLinks.Add(this.printPreviewBarItem28);
             this.printPreviewRibbonPageGroup3.Kind = DevExpress.XtraPrinting.Preview.PrintPreviewRibbonPageGroupKind.PageSetup;
             this.printPreviewRibbonPageGroup3.Name = "printPreviewRibbonPageGroup3";
-            superToolTip196.FixedTooltipWidth = true;
-            toolTipTitleItem196.Text = "Page Setup";
-            toolTipItem196.LeftIndent = 6;
-            toolTipItem196.Text = "Show the Page Setup dialog.";
-            superToolTip196.Items.Add(toolTipTitleItem196);
-            superToolTip196.Items.Add(toolTipItem196);
-            superToolTip196.MaxWidth = 210;
-            this.printPreviewRibbonPageGroup3.SuperTip = superToolTip196;
+            superToolTip98.FixedTooltipWidth = true;
+            toolTipTitleItem98.Text = "Page Setup";
+            toolTipItem98.LeftIndent = 6;
+            toolTipItem98.Text = "Show the Page Setup dialog.";
+            superToolTip98.Items.Add(toolTipTitleItem98);
+            superToolTip98.Items.Add(toolTipItem98);
+            superToolTip98.MaxWidth = 210;
+            this.printPreviewRibbonPageGroup3.SuperTip = superToolTip98;
             this.printPreviewRibbonPageGroup3.Text = "Page Setup";
             // 
             // printPreviewRibbonPageGroup4
@@ -4198,12 +4154,12 @@ namespace Simulations
             this.editingRibbonPageGroup1});
             this.homeRibbonPage1.Image = ((System.Drawing.Image)(resources.GetObject("homeRibbonPage1.Image")));
             this.homeRibbonPage1.Name = "homeRibbonPage1";
-            reduceOperation4.Behavior = DevExpress.XtraBars.Ribbon.ReduceOperationBehavior.UntilAvailable;
-            reduceOperation4.Group = this.stylesRibbonPageGroup1;
-            reduceOperation4.ItemLinkIndex = 0;
-            reduceOperation4.ItemLinksCount = 0;
-            reduceOperation4.Operation = DevExpress.XtraBars.Ribbon.ReduceOperationType.Gallery;
-            this.homeRibbonPage1.ReduceOperations.Add(reduceOperation4);
+            reduceOperation2.Behavior = DevExpress.XtraBars.Ribbon.ReduceOperationBehavior.UntilAvailable;
+            reduceOperation2.Group = this.stylesRibbonPageGroup1;
+            reduceOperation2.ItemLinkIndex = 0;
+            reduceOperation2.ItemLinksCount = 0;
+            reduceOperation2.Operation = DevExpress.XtraBars.Ribbon.ReduceOperationType.Gallery;
+            this.homeRibbonPage1.ReduceOperations.Add(reduceOperation2);
             // 
             // clipboardRibbonPageGroup1
             // 
@@ -4664,58 +4620,17 @@ namespace Simulations
             // 
             this.Barview10.Location = new System.Drawing.Point(514, 42);
             this.Barview10.Name = "Barview10";
-            this.Barview10.SelectedTabPage = this.xtraTabPage31;
-            this.Barview10.Size = new System.Drawing.Size(33, 42);
+            this.Barview10.SelectedTabPage = this.xtraTabPage62;
+            this.Barview10.Size = new System.Drawing.Size(283, 156);
             this.Barview10.TabIndex = 16;
             this.Barview10.TabPages.AddRange(new DevExpress.XtraTab.XtraTabPage[] {
-            this.xtraTabPage31,
-            this.xtraTabPage32,
-            this.xtraTabPage62,
-            this.xtraTabPage53,
-            this.xtraTabPage54,
-            this.xtraTabPage55,
-            this.xtraTabPage56,
-            this.xtraTabPage57,
-            this.xtraTabPage58,
-            this.xtraTabPage59,
-            this.xtraTabPage60,
-            this.xtraTabPage61});
-            // 
-            // xtraTabPage31
-            // 
-            this.xtraTabPage31.Controls.Add(this.Barview_1);
-            this.xtraTabPage31.Name = "xtraTabPage31";
-            this.xtraTabPage31.Size = new System.Drawing.Size(27, 14);
-            this.xtraTabPage31.Text = "xtraTabPage31";
-            // 
-            // Barview_1
-            // 
-            this.Barview_1.Location = new System.Drawing.Point(0, 0);
-            this.Barview_1.Name = "Barview_1";
-            this.Barview_1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Barview_1.Size = new System.Drawing.Size(157, 90);
-            this.Barview_1.TabIndex = 15;
-            // 
-            // xtraTabPage32
-            // 
-            this.xtraTabPage32.Controls.Add(this.Barview_2);
-            this.xtraTabPage32.Name = "xtraTabPage32";
-            this.xtraTabPage32.Size = new System.Drawing.Size(27, 14);
-            this.xtraTabPage32.Text = "AVg";
-            // 
-            // Barview_2
-            // 
-            this.Barview_2.Location = new System.Drawing.Point(3, 5);
-            this.Barview_2.Name = "Barview_2";
-            this.Barview_2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Barview_2.Size = new System.Drawing.Size(157, 90);
-            this.Barview_2.TabIndex = 16;
+            this.xtraTabPage62});
             // 
             // xtraTabPage62
             // 
             this.xtraTabPage62.Controls.Add(this.Barview1);
             this.xtraTabPage62.Name = "xtraTabPage62";
-            this.xtraTabPage62.Size = new System.Drawing.Size(27, 14);
+            this.xtraTabPage62.Size = new System.Drawing.Size(277, 128);
             this.xtraTabPage62.Text = "ครั้งที่ 1";
             // 
             // Barview1
@@ -4725,141 +4640,6 @@ namespace Simulations
             this.Barview1.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
             this.Barview1.Size = new System.Drawing.Size(157, 90);
             this.Barview1.TabIndex = 18;
-            // 
-            // xtraTabPage53
-            // 
-            this.xtraTabPage53.Controls.Add(this.Barview2);
-            this.xtraTabPage53.Name = "xtraTabPage53";
-            this.xtraTabPage53.Size = new System.Drawing.Size(27, 14);
-            this.xtraTabPage53.Text = "ครั้งที่ 2";
-            // 
-            // Barview2
-            // 
-            this.Barview2.Location = new System.Drawing.Point(0, 0);
-            this.Barview2.Name = "Barview2";
-            this.Barview2.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Barview2.Size = new System.Drawing.Size(157, 90);
-            this.Barview2.TabIndex = 17;
-            // 
-            // xtraTabPage54
-            // 
-            this.xtraTabPage54.Controls.Add(this.Barview3);
-            this.xtraTabPage54.Name = "xtraTabPage54";
-            this.xtraTabPage54.Size = new System.Drawing.Size(27, 14);
-            this.xtraTabPage54.Text = "ครั้งที่ 3";
-            // 
-            // Barview3
-            // 
-            this.Barview3.Location = new System.Drawing.Point(0, 0);
-            this.Barview3.Name = "Barview3";
-            this.Barview3.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Barview3.Size = new System.Drawing.Size(157, 90);
-            this.Barview3.TabIndex = 17;
-            // 
-            // xtraTabPage55
-            // 
-            this.xtraTabPage55.Controls.Add(this.Barview4);
-            this.xtraTabPage55.Name = "xtraTabPage55";
-            this.xtraTabPage55.Size = new System.Drawing.Size(27, 14);
-            this.xtraTabPage55.Text = "ครั้งที่ 4";
-            // 
-            // Barview4
-            // 
-            this.Barview4.Location = new System.Drawing.Point(0, 0);
-            this.Barview4.Name = "Barview4";
-            this.Barview4.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Barview4.Size = new System.Drawing.Size(157, 90);
-            this.Barview4.TabIndex = 17;
-            // 
-            // xtraTabPage56
-            // 
-            this.xtraTabPage56.Controls.Add(this.Barview5);
-            this.xtraTabPage56.Name = "xtraTabPage56";
-            this.xtraTabPage56.Size = new System.Drawing.Size(27, 14);
-            this.xtraTabPage56.Text = "ครั้งที่ 5";
-            // 
-            // Barview5
-            // 
-            this.Barview5.Location = new System.Drawing.Point(0, 0);
-            this.Barview5.Name = "Barview5";
-            this.Barview5.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Barview5.Size = new System.Drawing.Size(157, 90);
-            this.Barview5.TabIndex = 17;
-            // 
-            // xtraTabPage57
-            // 
-            this.xtraTabPage57.Controls.Add(this.Barview6);
-            this.xtraTabPage57.Name = "xtraTabPage57";
-            this.xtraTabPage57.Size = new System.Drawing.Size(27, 14);
-            this.xtraTabPage57.Text = "ครั้งที่ 6";
-            // 
-            // Barview6
-            // 
-            this.Barview6.Location = new System.Drawing.Point(0, 0);
-            this.Barview6.Name = "Barview6";
-            this.Barview6.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Barview6.Size = new System.Drawing.Size(157, 90);
-            this.Barview6.TabIndex = 17;
-            // 
-            // xtraTabPage58
-            // 
-            this.xtraTabPage58.Controls.Add(this.Barview7);
-            this.xtraTabPage58.Name = "xtraTabPage58";
-            this.xtraTabPage58.Size = new System.Drawing.Size(27, 14);
-            this.xtraTabPage58.Text = "ครั้งที่ 7";
-            // 
-            // Barview7
-            // 
-            this.Barview7.Location = new System.Drawing.Point(0, 0);
-            this.Barview7.Name = "Barview7";
-            this.Barview7.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Barview7.Size = new System.Drawing.Size(157, 90);
-            this.Barview7.TabIndex = 17;
-            // 
-            // xtraTabPage59
-            // 
-            this.xtraTabPage59.Controls.Add(this.Barview8);
-            this.xtraTabPage59.Name = "xtraTabPage59";
-            this.xtraTabPage59.Size = new System.Drawing.Size(27, 14);
-            this.xtraTabPage59.Text = "ครั้งที่ 8";
-            // 
-            // Barview8
-            // 
-            this.Barview8.Location = new System.Drawing.Point(0, 0);
-            this.Barview8.Name = "Barview8";
-            this.Barview8.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Barview8.Size = new System.Drawing.Size(157, 90);
-            this.Barview8.TabIndex = 17;
-            // 
-            // xtraTabPage60
-            // 
-            this.xtraTabPage60.Controls.Add(this.Barview9);
-            this.xtraTabPage60.Name = "xtraTabPage60";
-            this.xtraTabPage60.Size = new System.Drawing.Size(27, 14);
-            this.xtraTabPage60.Text = "ครั้งที่ 9";
-            // 
-            // Barview9
-            // 
-            this.Barview9.Location = new System.Drawing.Point(0, 0);
-            this.Barview9.Name = "Barview9";
-            this.Barview9.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Barview9.Size = new System.Drawing.Size(157, 90);
-            this.Barview9.TabIndex = 17;
-            // 
-            // xtraTabPage61
-            // 
-            this.xtraTabPage61.Controls.Add(this.Barview_10);
-            this.xtraTabPage61.Name = "xtraTabPage61";
-            this.xtraTabPage61.Size = new System.Drawing.Size(27, 14);
-            this.xtraTabPage61.Text = "ครั้งที่ 10";
-            // 
-            // Barview_10
-            // 
-            this.Barview_10.Location = new System.Drawing.Point(0, 0);
-            this.Barview_10.Name = "Barview_10";
-            this.Barview_10.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
-            this.Barview_10.Size = new System.Drawing.Size(157, 90);
-            this.Barview_10.TabIndex = 17;
             // 
             // TabControl_All
             // 
@@ -6242,30 +6022,8 @@ namespace Simulations
             this.tabNavigationPage2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.Barview10)).EndInit();
             this.Barview10.ResumeLayout(false);
-            this.xtraTabPage31.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Barview_1)).EndInit();
-            this.xtraTabPage32.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Barview_2)).EndInit();
             this.xtraTabPage62.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.Barview1)).EndInit();
-            this.xtraTabPage53.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Barview2)).EndInit();
-            this.xtraTabPage54.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Barview3)).EndInit();
-            this.xtraTabPage55.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Barview4)).EndInit();
-            this.xtraTabPage56.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Barview5)).EndInit();
-            this.xtraTabPage57.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Barview6)).EndInit();
-            this.xtraTabPage58.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Barview7)).EndInit();
-            this.xtraTabPage59.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Barview8)).EndInit();
-            this.xtraTabPage60.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Barview9)).EndInit();
-            this.xtraTabPage61.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Barview_10)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.TabControl_All)).EndInit();
             this.TabControl_All.ResumeLayout(false);
             this.tab_Foff.ResumeLayout(false);
@@ -6548,10 +6306,7 @@ namespace Simulations
         public DevExpress.XtraCharts.ChartControl Chart_SoFF1_time;
         public DevExpress.XtraCharts.ChartControl Chart_SoFF1;
         private DevExpress.XtraNavBar.NavBarItem ChaetBarView;
-        private DevExpress.XtraCharts.ChartControl Barview_1;
         private DevExpress.XtraTab.XtraTabControl Barview10;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage31;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage32;
         private DevExpress.XtraEditors.ProgressBarControl progressBar_case;
         private DevExpress.XtraTab.XtraTabControl Chart_SonF;
         private DevExpress.XtraTab.XtraTabPage xtraTabPage33;
@@ -6569,27 +6324,8 @@ namespace Simulations
         public DevExpress.XtraCharts.ChartControl Chart_SonS1_1;
         public DevExpress.XtraCharts.ChartControl Chart_SonS1_time;
         public DevExpress.XtraCharts.ChartControl Chart_SonS1;
-        private DevExpress.XtraCharts.ChartControl Barview_2;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage53;
-        private DevExpress.XtraCharts.ChartControl Barview2;
         private DevExpress.XtraTab.XtraTabPage xtraTabPage62;
         private DevExpress.XtraCharts.ChartControl Barview1;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage54;
-        private DevExpress.XtraCharts.ChartControl Barview3;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage55;
-        private DevExpress.XtraCharts.ChartControl Barview4;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage56;
-        private DevExpress.XtraCharts.ChartControl Barview5;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage57;
-        private DevExpress.XtraCharts.ChartControl Barview6;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage58;
-        private DevExpress.XtraCharts.ChartControl Barview7;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage59;
-        private DevExpress.XtraCharts.ChartControl Barview8;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage60;
-        private DevExpress.XtraCharts.ChartControl Barview9;
-        private DevExpress.XtraTab.XtraTabPage xtraTabPage61;
-        private DevExpress.XtraCharts.ChartControl Barview_10;
         private DevExpress.XtraPrinting.Preview.PrintPreviewBarItem printPreviewBarItem1;
         private DevExpress.XtraPrinting.Preview.DocumentViewerRibbonController documentViewerRibbonController1;
         private DevExpress.XtraPrinting.Preview.PrintPreviewStaticItem printPreviewStaticItem1;

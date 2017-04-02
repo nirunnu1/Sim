@@ -203,18 +203,7 @@ namespace Simulations
         private void ChaetBarView_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
         {
             groupBoxControl.HideGroup();
-            BarViews_1.BarViewsSetting(Barview_1);
-            BarViews_2.BarViewsSetting(Barview_2);
             BarViews_test.BarViewsSetting(Barview1,1);
-            BarViews_test.BarViewsSetting(Barview2, 2);
-            BarViews_test.BarViewsSetting(Barview3, 3);
-            BarViews_test.BarViewsSetting(Barview4, 4);
-            BarViews_test.BarViewsSetting(Barview5, 5);
-            BarViews_test.BarViewsSetting(Barview6, 6);
-            BarViews_test.BarViewsSetting(Barview7, 7);
-            BarViews_test.BarViewsSetting(Barview8, 8);
-            BarViews_test.BarViewsSetting(Barview9, 9);
-            BarViews_test.BarViewsSetting(Barview_10, 10);
             Barview10.Visible = true;
         }
         private void Form1_FormClosed(object sender, FormClosedEventArgs e)
